@@ -7,7 +7,7 @@
 		"industryName": "Wireless Telcos"
 	},
 	"iii_ln": {
-		"name": "3i",
+		"name": "3i Group",
 		"ticker": "III LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Diversified Financials",
@@ -56,7 +56,7 @@
 		"industryName": "Biotechnology"
 	},
 	"abn_na": {
-		"name": "ABN AMRO",
+		"name": "ABN AMRO Group",
 		"ticker": "ABN NA",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Banks",
@@ -84,7 +84,7 @@
 		"industryName": "Construction & Engineering"
 	},
 	"aden_se": {
-		"name": "Adecco",
+		"name": "Adecco Group",
 		"ticker": "ADEN SE",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Commercial Services",
@@ -98,7 +98,7 @@
 		"industryName": "Textiles, Apparel & Luxury Goods"
 	},
 	"adm_ln": {
-		"name": "Admiral",
+		"name": "Admiral Group",
 		"ticker": "ADM LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Insurance",
@@ -140,7 +140,7 @@
 		"industryName": "Commercial Services & Supplies"
 	},
 	"aibg_id": {
-		"name": "AIB",
+		"name": "AIB Group",
 		"ticker": "AIBG ID",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Banks",
@@ -217,7 +217,7 @@
 		"industryName": "IT Services"
 	},
 	"ams_sq": {
-		"name": "Amadeus IT",
+		"name": "Amadeus IT Group",
 		"ticker": "AMS SQ",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Software & Services",
@@ -266,7 +266,7 @@
 		"industryName": "Metals & Mining"
 	},
 	"abi_bb": {
-		"name": "Anheuser-Busch InBev SANV",
+		"name": "Anheuser-Busch InBev",
 		"ticker": "ABI BB",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Food, Bevs & Tobacco",
@@ -315,7 +315,7 @@
 		"industryName": "Gas"
 	},
 	"aht_ln": {
-		"name": "Ashtead",
+		"name": "Ashtead Group",
 		"ticker": "AHT LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Capital Goods",
@@ -399,7 +399,7 @@
 		"industryName": "Metals & Mining"
 	},
 	"auto_ln": {
-		"name": "Auto Trader",
+		"name": "Auto Trader Group",
 		"ticker": "AUTO LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Software & Services",
@@ -441,7 +441,7 @@
 		"industryName": "Multiline Retail"
 	},
 	"bab_ln": {
-		"name": "Babcock International PL",
+		"name": "Babcock International Group PL",
 		"ticker": "BAB LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Commercial Services",
@@ -504,7 +504,7 @@
 		"industryName": "Banks"
 	},
 	"birg_id": {
-		"name": "Bank of Ireland",
+		"name": "Bank of Ireland Group",
 		"ticker": "BIRG ID",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Banks",
@@ -609,7 +609,7 @@
 		"industryName": "Household Durables"
 	},
 	"bkg_ln": {
-		"name": "Berkeley",
+		"name": "Berkeley Group",
 		"ticker": "BKG LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Consumer Durables & Apparel",
@@ -728,7 +728,7 @@
 		"industryName": "Beverages"
 	},
 	"bta_ln": {
-		"name": "BT",
+		"name": "BT Group",
 		"ticker": "BTA LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Telco Services",
@@ -756,7 +756,7 @@
 		"industryName": "Trading Companies & Distributors"
 	},
 	"brby_ln": {
-		"name": "Burberry",
+		"name": "Burberry Group",
 		"ticker": "BRBY LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Consumer Durables & Apparel",
@@ -924,7 +924,7 @@
 		"industryName": "Chemicals"
 	},
 	"cbg_ln": {
-		"name": "Close Brothers",
+		"name": "Close Brothers Group",
 		"ticker": "CBG LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Diversified Financials",
@@ -987,7 +987,7 @@
 		"industryName": "Banks"
 	},
 	"cpg_ln": {
-		"name": "Compass",
+		"name": "Compass Group",
 		"ticker": "CPG LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Consumer Services",
@@ -1001,7 +1001,7 @@
 		"industryName": "Auto Parts"
 	},
 	"ctec_ln": {
-		"name": "ConvaTec",
+		"name": "ConvaTec Group",
 		"ticker": "CTEC LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Health Care",
@@ -1022,7 +1022,7 @@
 		"industryName": "Banks"
 	},
 	"csgn_se": {
-		"name": "Credit Suisse",
+		"name": "Credit Suisse Group",
 		"ticker": "CSGN SE",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Diversified Financials",
@@ -1176,7 +1176,7 @@
 		"industryName": "Beverages"
 	},
 	"dlg_ln": {
-		"name": "Direct Line Insurance PL",
+		"name": "Direct Line Insurance Group PL",
 		"ticker": "DLG LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Insurance",
@@ -1211,7 +1211,7 @@
 		"industryName": "Banks"
 	},
 	"dom_ss": {
-		"name": "Dometic",
+		"name": "Dometic Group",
 		"ticker": "DOM SS",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Autos & Parts",
@@ -1316,7 +1316,7 @@
 		"industryName": "Health Care Providers & Services"
 	},
 	"elior_fp": {
-		"name": "Elior",
+		"name": "Elior Group",
 		"ticker": "ELIOR FP",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Consumer Services",
@@ -1379,7 +1379,7 @@
 		"industryName": "Oil, Gas & Consumable Fuels"
 	},
 	"ebs_av": {
-		"name": "Erste Bank",
+		"name": "Erste Group Bank",
 		"ticker": "EBS AV",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Banks",
@@ -1603,7 +1603,7 @@
 		"industryName": "Health Care Equipment & Supplies"
 	},
 	"g1a_gy": {
-		"name": "GEA",
+		"name": "GEA Group",
 		"ticker": "G1A GY",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Capital Goods",
@@ -1883,7 +1883,7 @@
 		"industryName": "Commercial Services & Supplies"
 	},
 	"hwdn_ln": {
-		"name": "Howden Joinery",
+		"name": "Howden Joinery Group",
 		"ticker": "HWDN LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Capital Goods",
@@ -1939,7 +1939,7 @@
 		"industryName": "Food & Staples Retailing"
 	},
 	"igg_ln": {
-		"name": "IG",
+		"name": "IG Group",
 		"ticker": "IGG LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Diversified Financials",
@@ -2030,7 +2030,7 @@
 		"industryName": "Banks"
 	},
 	"ing_fp": {
-		"name": "Ingenico",
+		"name": "Ingenico Group",
 		"ticker": "ING FP",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Tech Hardware & Equipment",
@@ -2058,14 +2058,14 @@
 		"industryName": "Multi-Utilities"
 	},
 	"ihg_ln": {
-		"name": "InterContinental Hotels",
+		"name": "InterContinental Hotels Group",
 		"ticker": "IHG LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Consumer Services",
 		"industryName": "Hotels, Restaurants & Leisure"
 	},
 	"icp_ln": {
-		"name": "Intermediate Capital",
+		"name": "Intermediate Capital Group",
 		"ticker": "ICP LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Diversified Financials",
@@ -2079,7 +2079,7 @@
 		"industryName": "Airlines"
 	},
 	"itrk_ln": {
-		"name": "Intertek",
+		"name": "Intertek Group",
 		"ticker": "ITRK LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Commercial Services",
@@ -2177,7 +2177,7 @@
 		"industryName": "Food Products"
 	},
 	"wg_ln": {
-		"name": "John Wood",
+		"name": "John Wood Group",
 		"ticker": "WG LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Energy",
@@ -2191,7 +2191,7 @@
 		"industryName": "Chemicals"
 	},
 	"baer_se": {
-		"name": "Julius Baer",
+		"name": "Julius Baer Group",
 		"ticker": "BAER SE",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Diversified Financials",
@@ -2226,7 +2226,7 @@
 		"industryName": "Chemicals"
 	},
 	"kbc_bb": {
-		"name": "KBC",
+		"name": "KBC Group",
 		"ticker": "KBC BB",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Banks",
@@ -2240,7 +2240,7 @@
 		"industryName": "Textiles, Apparel & Luxury Goods"
 	},
 	"kyg_id": {
-		"name": "Kerry",
+		"name": "Kerry Group",
 		"ticker": "KYG ID",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Food, Bevs & Tobacco",
@@ -2254,7 +2254,7 @@
 		"industryName": "Food Products"
 	},
 	"kindsdb_ss": {
-		"name": "Kindred",
+		"name": "Kindred Group",
 		"ticker": "KINDSDB SS",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Consumer Services",
@@ -2268,7 +2268,7 @@
 		"industryName": "Specialty Retail"
 	},
 	"ksp_id": {
-		"name": "Kingspan",
+		"name": "Kingspan Group",
 		"ticker": "KSP ID",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Capital Goods",
@@ -2282,7 +2282,7 @@
 		"industryName": "Diversified Financial Services"
 	},
 	"kgx_gy": {
-		"name": "KION",
+		"name": "KION Group",
 		"ticker": "KGX GY",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Capital Goods",
@@ -2380,7 +2380,7 @@
 		"industryName": "Media"
 	},
 	"land_ln": {
-		"name": "Land Securities",
+		"name": "Land Securities Group",
 		"ticker": "LAND LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Real Estate",
@@ -2401,7 +2401,7 @@
 		"industryName": "Real Estate Management & Dev"
 	},
 	"lgen_ln": {
-		"name": "Legal & General",
+		"name": "Legal & General Group",
 		"ticker": "LGEN LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Insurance",
@@ -2429,7 +2429,7 @@
 		"industryName": "Chemicals"
 	},
 	"lloy_ln": {
-		"name": "Lloyds Banking",
+		"name": "Lloyds Banking Group",
 		"ticker": "LLOY LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Banks",
@@ -2443,14 +2443,14 @@
 		"industryName": "Tech Hardware, Storage & Peripherals"
 	},
 	"lse_ln": {
-		"name": "London Stock Exchange PL",
+		"name": "London Stock Exchange Group PL",
 		"ticker": "LSE LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Diversified Financials",
 		"industryName": "Capital Markets"
 	},
 	"lonn_se": {
-		"name": "Lonza",
+		"name": "Lonza Group",
 		"ticker": "LONN SE",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Pharma, Biotech & Life Sc",
@@ -2478,7 +2478,7 @@
 		"industryName": "Oil, Gas & Consumable Fuels"
 	},
 	"lux_im": {
-		"name": "Luxottica",
+		"name": "Luxottica Group",
 		"ticker": "LUX IM",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Consumer Durables & Apparel",
@@ -2492,7 +2492,7 @@
 		"industryName": "Textiles, Apparel & Luxury Goods"
 	},
 	"emg_ln": {
-		"name": "Man",
+		"name": "Man Group",
 		"ticker": "EMG LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Diversified Financials",
@@ -2520,7 +2520,7 @@
 		"industryName": "Gas"
 	},
 	"mks_ln": {
-		"name": "Marks & Spencer",
+		"name": "Marks & Spencer Group",
 		"ticker": "MKS LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Retailing",
@@ -2618,7 +2618,7 @@
 		"industryName": "Paper & Forest Products"
 	},
 	"mony_ln": {
-		"name": "Moneysupermarket.com",
+		"name": "Moneysupermarket.com Group",
 		"ticker": "MONY LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Software & Services",
@@ -2667,7 +2667,7 @@
 		"industryName": "Gas"
 	},
 	"nxg_ln": {
-		"name": "NEX",
+		"name": "NEX Group",
 		"ticker": "NXG LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Diversified Financials",
@@ -2695,7 +2695,7 @@
 		"industryName": "Health Care Technology"
 	},
 	"nn_na": {
-		"name": "NN",
+		"name": "NN Group",
 		"ticker": "NN NA",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Insurance",
@@ -2758,7 +2758,7 @@
 		"industryName": "Machinery"
 	},
 	"ocdo_ln": {
-		"name": "Ocado",
+		"name": "Ocado Group",
 		"ticker": "OCDO LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Retailing",
@@ -2849,7 +2849,7 @@
 		"industryName": "Diversified Financial Services"
 	},
 	"pghn_se": {
-		"name": "Partners",
+		"name": "Partners Group",
 		"ticker": "PGHN SE",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Diversified Financials",
@@ -2863,7 +2863,7 @@
 		"industryName": "Media"
 	},
 	"pnn_ln": {
-		"name": "Pennon",
+		"name": "Pennon Group",
 		"ticker": "PNN LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Utilities",
@@ -2891,14 +2891,14 @@
 		"industryName": "Autos"
 	},
 	"light_na": {
-		"name": "Philips Lighting",
+		"name": "Signify",
 		"ticker": "LIGHT NA",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Capital Goods",
 		"industryName": "Electrical Equipment"
 	},
 	"phnx_ln": {
-		"name": "Phoenix",
+		"name": "Phoenix Group",
 		"ticker": "PHNX LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Insurance",
@@ -2975,7 +2975,7 @@
 		"industryName": "Real Estate Management & Dev"
 	},
 	"pub_fp": {
-		"name": "Publicise",
+		"name": "Publicis Groupe",
 		"ticker": "PUB FP",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Media",
@@ -3010,7 +3010,7 @@
 		"industryName": "Professional Services"
 	},
 	"rb_ln": {
-		"name": "Reckitt Benckiser",
+		"name": "Reckitt Benckiser Group",
 		"ticker": "RB LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Household & Personal Products",
@@ -3122,7 +3122,7 @@
 		"industryName": "Machinery"
 	},
 	"rbs_ln": {
-		"name": "Royal Bank of Scotland P",
+		"name": "Royal Bank of Scotland Group P",
 		"ticker": "RBS LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Banks",
@@ -3143,21 +3143,21 @@
 		"industryName": "Air Freight & Logistics"
 	},
 	"rpc_ln": {
-		"name": "RPC",
+		"name": "RPC Group",
 		"ticker": "RPC LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Materials",
 		"industryName": "Containers & Packaging"
 	},
 	"rsa_ln": {
-		"name": "RSA Insurance",
+		"name": "RSA Insurance Group",
 		"ticker": "RSA LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Insurance",
 		"industryName": "Insurance"
 	},
 	"rrtl_gy": {
-		"name": "RTL",
+		"name": "RTL Group",
 		"ticker": "RRTL GY",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Media",
@@ -3199,7 +3199,7 @@
 		"industryName": "Aerospace & Defense"
 	},
 	"sge_ln": {
-		"name": "Sage",
+		"name": "Sage Group",
 		"ticker": "SGE LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Software & Services",
@@ -3430,14 +3430,14 @@
 		"industryName": "Health Care Providers & Services"
 	},
 	"smin_ln": {
-		"name": "Smiths",
+		"name": "Smiths Group",
 		"ticker": "SMIN LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Capital Goods",
 		"industryName": "Industrial Conglomerates"
 	},
 	"skg_id": {
-		"name": "Smurfit Kappa",
+		"name": "Smurfit Kappa Group",
 		"ticker": "SKG ID",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Materials",
@@ -3493,7 +3493,7 @@
 		"industryName": "Health Care Providers & Services"
 	},
 	"sop_fp": {
-		"name": "Sopra Steria",
+		"name": "Sopra Steria Group",
 		"ticker": "SOP FP",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Software & Services",
@@ -3528,7 +3528,7 @@
 		"industryName": "Electric"
 	},
 	"sspg_ln": {
-		"name": "SSP",
+		"name": "SSP Group",
 		"ticker": "SSPG LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Consumer Services",
@@ -3605,7 +3605,7 @@
 		"industryName": "Multi-Utilities"
 	},
 	"srcg_se": {
-		"name": "Sunrise Communications A",
+		"name": "Sunrise Communications Group A",
 		"ticker": "SRCG SE",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Telco Services",
@@ -3626,7 +3626,7 @@
 		"industryName": "Banks"
 	},
 	"uhr_se": {
-		"name": "Swatch AG",
+		"name": "Swatch Group AG",
 		"ticker": "UHR SE",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Consumer Durables & Apparel",
@@ -3759,7 +3759,7 @@
 		"industryName": "Diversified Telcos"
 	},
 	"tnet_bb": {
-		"name": "Telenet",
+		"name": "Telenet Group",
 		"ticker": "TNET BB",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Media",
@@ -3787,7 +3787,7 @@
 		"industryName": "Diversified Telcos"
 	},
 	"temn_se": {
-		"name": "Temenos",
+		"name": "Temenos Group",
 		"ticker": "TEMN SE",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Software & Services",
@@ -3899,7 +3899,7 @@
 		"industryName": "Media"
 	},
 	"ubsg_se": {
-		"name": "UBS",
+		"name": "UBS Group",
 		"ticker": "UBSG SE",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Diversified Financials",
@@ -3976,7 +3976,7 @@
 		"industryName": "Internet Software & Services"
 	},
 	"uu_ln": {
-		"name": "United Utilities",
+		"name": "United Utilities Group",
 		"ticker": "UU LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Utilities",
@@ -3997,7 +3997,7 @@
 		"industryName": "Auto Parts"
 	},
 	"vacn_se": {
-		"name": "VAT",
+		"name": "VAT Group",
 		"ticker": "VACN SE",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Capital Goods",
@@ -4053,7 +4053,7 @@
 		"industryName": "Media"
 	},
 	"vod_ln": {
-		"name": "Vodafone",
+		"name": "Vodafone Group",
 		"ticker": "VOD LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Telco Services",
@@ -4102,7 +4102,7 @@
 		"industryName": "Machinery"
 	},
 	"weir_ln": {
-		"name": "Weir",
+		"name": "Weir Group",
 		"ticker": "WEIR LN",
 		"regions": ["Europe", "UK"],
 		"industryGroup": "Capital Goods",
@@ -4193,7 +4193,7 @@
 		"industryName": "Internet & Direct Marketing Retail"
 	},
 	"zurn_se": {
-		"name": "Zurich Insurance",
+		"name": "Zurich Insurance Group",
 		"ticker": "ZURN SE",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Insurance",
