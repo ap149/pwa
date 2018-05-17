@@ -34,9 +34,9 @@
 		"industryGroup": "Banks",
 		"industryName": "Thrifts & Mortgage Finance"
 	},
-	"abbn_se": {
+	"abbn_sw": {
 		"name": "ABB",
-		"ticker": "ABBN SE",
+		"ticker": "ABBN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Capital Goods",
 		"industryName": "Electrical Equipment"
@@ -83,9 +83,9 @@
 		"industryGroup": "Capital Goods",
 		"industryName": "Construction & Engineering"
 	},
-	"aden_se": {
+	"aden_sw": {
 		"name": "Adecco Group",
-		"ticker": "ADEN SE",
+		"ticker": "ADEN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Commercial Services",
 		"industryName": "Professional Services"
@@ -237,9 +237,9 @@
 		"industryGroup": "Consumer Durables & Apparel",
 		"industryName": "Leisure Products"
 	},
-	"ams_se": {
+	"ams_sw": {
 		"name": "ams",
-		"ticker": "AMS SE",
+		"ticker": "AMS SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Semiconductors & Equipment",
 		"industryName": "Semiconductors & Equipment"
@@ -307,9 +307,9 @@
 		"industryGroup": "Real Estate",
 		"industryName": "Real Estate Management & Dev"
 	},
-	"aryn_se": {
+	"aryn_sw": {
 		"name": "Aryzta",
-		"ticker": "ARYN SE",
+		"ticker": "ARYN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Food, Bevs & Tobacco",
 		"industryName": "Gas"
@@ -461,9 +461,9 @@
 		"industryGroup": "Capital Goods",
 		"industryName": "Construction & Engineering"
 	},
-	"baln_se": {
+	"baln_sw": {
 		"name": "Baloise",
-		"ticker": "BALN SE",
+		"ticker": "BALN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Insurance",
 		"industryName": "Insurance"
@@ -538,9 +538,9 @@
 		"industryGroup": "Consumer Durables & Apparel",
 		"industryName": "Household Durables"
 	},
-	"barn_se": {
+	"barn_sw": {
 		"name": "Barry Callebaut",
-		"ticker": "BARN SE",
+		"ticker": "BARN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Food, Bevs & Tobacco",
 		"industryName": "Gas"
@@ -566,9 +566,9 @@
 		"industryGroup": "Autos & Parts",
 		"industryName": "Autos"
 	},
-	"bion_se": {
+	"bion_sw": {
 		"name": "BB Biotech",
-		"ticker": "BION SE",
+		"ticker": "BION SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": null,
 		"industryName": null
@@ -741,9 +741,9 @@
 		"industryGroup": "Pharma, Biotech & Life Sc",
 		"industryName": "Pharmaceuticals"
 	},
-	"bucn_se": {
+	"bucn_sw": {
 		"name": "Bucher Industries",
-		"ticker": "BUCN SE",
+		"ticker": "BUCN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Capital Goods",
 		"industryName": "Machinery"
@@ -839,9 +839,9 @@
 		"industryGroup": "Telco Services",
 		"industryName": "Diversified Telcos"
 	},
-	"cmbn_se": {
+	"cmbn_sw": {
 		"name": "Cembra Money Bank",
-		"ticker": "CMBN SE",
+		"ticker": "CMBN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Diversified Financials",
 		"industryName": "Consumer Finance"
@@ -867,9 +867,9 @@
 		"industryGroup": "Utilities",
 		"industryName": "Electric"
 	},
-	"lisn_se": {
+	"lisn_sw": {
 		"name": "Chocoladefabriken Lindt & Spru",
-		"ticker": "LISN SE",
+		"ticker": "LISN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Food, Bevs & Tobacco",
 		"industryName": "Gas"
@@ -895,9 +895,9 @@
 		"industryGroup": "Capital Goods",
 		"industryName": "Building Products"
 	},
-	"cfr_se": {
+	"cfr_sw": {
 		"name": "Financiere Richemont",
-		"ticker": "CFR SE",
+		"ticker": "CFR SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Consumer Durables & Apparel",
 		"industryName": "Textiles, Apparel & Luxury Goods"
@@ -916,9 +916,9 @@
 		"industryGroup": "Autos & Parts",
 		"industryName": "Auto Parts"
 	},
-	"cln_se": {
+	"cln_sw": {
 		"name": "Clariant",
-		"ticker": "CLN SE",
+		"ticker": "CLN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Materials",
 		"industryName": "Chemicals"
@@ -1021,9 +1021,9 @@
 		"industryGroup": "Banks",
 		"industryName": "Banks"
 	},
-	"csgn_se": {
+	"csgn_sw": {
 		"name": "Credit Suisse Group",
-		"ticker": "CSGN SE",
+		"ticker": "CSGN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Diversified Financials",
 		"industryName": "Capital Markets"
@@ -1196,9 +1196,9 @@
 		"industryGroup": "Retailing",
 		"industryName": "Specialty Retail"
 	},
-	"dksh_se": {
+	"dksh_sw": {
 		"name": "DKSH",
-		"ticker": "DKSH SE",
+		"ticker": "DKSH SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Commercial Services",
 		"industryName": "Professional Services"
@@ -1217,9 +1217,9 @@
 		"industryGroup": "Autos & Parts",
 		"industryName": "Auto Parts"
 	},
-	"doka_se": {
+	"doka_sw": {
 		"name": "dormakaba",
-		"ticker": "DOKA SE",
+		"ticker": "DOKA SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Capital Goods",
 		"industryName": "Building Products"
@@ -1245,9 +1245,9 @@
 		"industryGroup": "Capital Goods",
 		"industryName": "Machinery"
 	},
-	"dufn_se": {
+	"dufn_sw": {
 		"name": "Dufry",
-		"ticker": "DUFN SE",
+		"ticker": "DUFN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Retailing",
 		"industryName": "Specialty Retail"
@@ -1336,9 +1336,9 @@
 		"industryGroup": "Telco Services",
 		"industryName": "Diversified Telcos"
 	},
-	"emsn_se": {
+	"emsn_sw": {
 		"name": "EMS-Chemie",
-		"ticker": "EMSN SE",
+		"ticker": "EMSN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Materials",
 		"industryName": "Chemicals"
@@ -1504,9 +1504,9 @@
 		"industryGroup": "Banks",
 		"industryName": "Banks"
 	},
-	"fhzn_se": {
+	"fhzn_sw": {
 		"name": "Flughafen Zurich",
-		"ticker": "FHZN SE",
+		"ticker": "FHZN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Transportation",
 		"industryName": "Transportation Infrastructure"
@@ -1588,9 +1588,9 @@
 		"industryGroup": "Energy",
 		"industryName": "Oil, Gas & Consumable Fuels"
 	},
-	"gam_se": {
+	"gam_sw": {
 		"name": "GAM",
-		"ticker": "GAM SE",
+		"ticker": "GAM SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Diversified Financials",
 		"industryName": "Capital Markets"
@@ -1609,9 +1609,9 @@
 		"industryGroup": "Capital Goods",
 		"industryName": "Machinery"
 	},
-	"gebn_se": {
+	"gebn_sw": {
 		"name": "Geberit",
-		"ticker": "GEBN SE",
+		"ticker": "GEBN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Capital Goods",
 		"industryName": "Building Products"
@@ -1637,9 +1637,9 @@
 		"industryGroup": "Pharma, Biotech & Life Sc",
 		"industryName": "Biotechnology"
 	},
-	"fin_se": {
+	"fin_sw": {
 		"name": "Georg Fischer",
-		"ticker": "FIN SE",
+		"ticker": "FIN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Capital Goods",
 		"industryName": "Machinery"
@@ -1665,9 +1665,9 @@
 		"industryGroup": "Transportation",
 		"industryName": "Transportation Infrastructure"
 	},
-	"givn_se": {
+	"givn_sw": {
 		"name": "Givaudan",
-		"ticker": "GIVN SE",
+		"ticker": "GIVN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Materials",
 		"industryName": "Chemicals"
@@ -1819,9 +1819,9 @@
 		"industryGroup": "Autos & Parts",
 		"industryName": "Auto Parts"
 	},
-	"heln_se": {
+	"heln_sw": {
 		"name": "Helvetia",
-		"ticker": "HELN SE",
+		"ticker": "HELN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Insurance",
 		"industryName": "Insurance"
@@ -2190,9 +2190,9 @@
 		"industryGroup": "Materials",
 		"industryName": "Chemicals"
 	},
-	"baer_se": {
+	"baer_sw": {
 		"name": "Julius Baer Group",
-		"ticker": "BAER SE",
+		"ticker": "BAER SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Diversified Financials",
 		"industryName": "Capital Markets"
@@ -2351,9 +2351,9 @@
 		"industryGroup": "Energy",
 		"industryName": "Oil, Gas & Consumable Fuels"
 	},
-	"knin_se": {
+	"knin_sw": {
 		"name": "Kuehne + Nagel International A",
-		"ticker": "KNIN SE",
+		"ticker": "KNIN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Transportation",
 		"industryName": "Marine"
@@ -2365,9 +2365,9 @@
 		"industryGroup": "Diversified Financials",
 		"industryName": "Diversified Financial Services"
 	},
-	"lhn_se": {
+	"lhn_sw": {
 		"name": "LafargeHolcim",
-		"ticker": "LHN SE",
+		"ticker": "LHN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Materials",
 		"industryName": "Construction Materials"
@@ -2435,9 +2435,9 @@
 		"industryGroup": "Banks",
 		"industryName": "Banks"
 	},
-	"logn_se": {
+	"logn_sw": {
 		"name": "Logitech International",
-		"ticker": "LOGN SE",
+		"ticker": "LOGN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Tech Hardware & Equipment",
 		"industryName": "Tech Hardware, Storage & Peripherals"
@@ -2449,9 +2449,9 @@
 		"industryGroup": "Diversified Financials",
 		"industryName": "Capital Markets"
 	},
-	"lonn_se": {
+	"lonn_sw": {
 		"name": "Lonza Group",
-		"ticker": "LONN SE",
+		"ticker": "LONN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Pharma, Biotech & Life Sc",
 		"industryName": "Life Sciences Tools & Services"
@@ -2659,9 +2659,9 @@
 		"industryGroup": "Energy",
 		"industryName": "Oil, Gas & Consumable Fuels"
 	},
-	"nesn_se": {
+	"nesn_sw": {
 		"name": "Nestle",
-		"ticker": "NESN SE",
+		"ticker": "NESN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Food, Bevs & Tobacco",
 		"industryName": "Gas"
@@ -2729,9 +2729,9 @@
 		"industryGroup": "Materials",
 		"industryName": "Metals & Mining"
 	},
-	"novn_se": {
+	"novn_sw": {
 		"name": "Novartis",
-		"ticker": "NOVN SE",
+		"ticker": "NOVN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Pharma, Biotech & Life Sc",
 		"industryName": "Pharmaceuticals"
@@ -2750,9 +2750,9 @@
 		"industryGroup": "Materials",
 		"industryName": "Chemicals"
 	},
-	"oerl_se": {
+	"oerl_sw": {
 		"name": "OC Oerlikon Corp",
-		"ticker": "OERL SE",
+		"ticker": "OERL SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Capital Goods",
 		"industryName": "Machinery"
@@ -2841,16 +2841,16 @@
 		"industryGroup": "Consumer Durables & Apparel",
 		"industryName": "Textiles, Apparel & Luxury Goods"
 	},
-	"parg_se": {
+	"parg_sw": {
 		"name": "Pargesa",
-		"ticker": "PARG SE",
+		"ticker": "PARG SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Diversified Financials",
 		"industryName": "Diversified Financial Services"
 	},
-	"pghn_se": {
+	"pghn_sw": {
 		"name": "Partners Group",
-		"ticker": "PGHN SE",
+		"ticker": "PGHN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Diversified Financials",
 		"industryName": "Capital Markets"
@@ -2967,9 +2967,9 @@
 		"industryGroup": "Capital Goods",
 		"industryName": "Electrical Equipment"
 	},
-	"pspn_se": {
+	"pspn_sw": {
 		"name": "PSP Swiss Property",
-		"ticker": "PSPN SE",
+		"ticker": "PSPN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Real Estate",
 		"industryName": "Real Estate Management & Dev"
@@ -3100,9 +3100,9 @@
 		"industryGroup": "Materials",
 		"industryName": "Metals & Mining"
 	},
-	"rog_se": {
+	"rog_sw": {
 		"name": "Roche",
-		"ticker": "ROG SE",
+		"ticker": "ROG SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Pharma, Biotech & Life Sc",
 		"industryName": "Pharmaceuticals"
@@ -3268,9 +3268,9 @@
 		"industryGroup": "Media",
 		"industryName": "Media"
 	},
-	"schp_se": {
+	"schp_sw": {
 		"name": "Schindler",
-		"ticker": "SCHP SE",
+		"ticker": "SCHP SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Capital Goods",
 		"industryName": "Machinery"
@@ -3338,9 +3338,9 @@
 		"industryGroup": "Utilities",
 		"industryName": "Water"
 	},
-	"sgsn_se": {
+	"sgsn_sw": {
 		"name": "SGS",
-		"ticker": "SGSN SE",
+		"ticker": "SGSN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Commercial Services",
 		"industryName": "Professional Services"
@@ -3373,9 +3373,9 @@
 		"industryGroup": "Capital Goods",
 		"industryName": "Electrical Equipment"
 	},
-	"sik_se": {
+	"sik_sw": {
 		"name": "Sika",
-		"ticker": "SIK SE",
+		"ticker": "SIK SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Materials",
 		"industryName": "Chemicals"
@@ -3485,9 +3485,9 @@
 		"industryGroup": "Materials",
 		"industryName": "Chemicals"
 	},
-	"soon_se": {
+	"soon_sw": {
 		"name": "Sonova",
-		"ticker": "SOON SE",
+		"ticker": "SOON SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Health Care",
 		"industryName": "Health Care Providers & Services"
@@ -3583,9 +3583,9 @@
 		"industryGroup": "Insurance",
 		"industryName": "Insurance"
 	},
-	"stmn_se": {
+	"stmn_sw": {
 		"name": "Straumann",
-		"ticker": "STMN SE",
+		"ticker": "STMN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Health Care",
 		"industryName": "Health Care Providers & Services"
@@ -3604,9 +3604,9 @@
 		"industryGroup": "Utilities",
 		"industryName": "Multi-Utilities"
 	},
-	"srcg_se": {
+	"srcg_sw": {
 		"name": "Sunrise Communications Group A",
-		"ticker": "SRCG SE",
+		"ticker": "SRCG SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Telco Services",
 		"industryName": "Diversified Telcos"
@@ -3625,9 +3625,9 @@
 		"industryGroup": "Banks",
 		"industryName": "Banks"
 	},
-	"uhr_se": {
+	"uhr_sw": {
 		"name": "Swatch Group AG",
-		"ticker": "UHR SE",
+		"ticker": "UHR SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Consumer Durables & Apparel",
 		"industryName": "Textiles, Apparel & Luxury Goods"
@@ -3653,30 +3653,30 @@
 		"industryGroup": "Pharma, Biotech & Life Sc",
 		"industryName": "Biotechnology"
 	},
-	"slhn_se": {
+	"slhn_sw": {
 		"name": "Swiss Life",
-		"ticker": "SLHN SE",
+		"ticker": "SLHN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Insurance",
 		"industryName": "Insurance"
 	},
-	"spsn_se": {
+	"spsn_sw": {
 		"name": "Swiss Prime Site",
-		"ticker": "SPSN SE",
+		"ticker": "SPSN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Real Estate",
 		"industryName": "Real Estate Management & Dev"
 	},
-	"sren_se": {
+	"sren_sw": {
 		"name": "Swiss Re",
-		"ticker": "SREN SE",
+		"ticker": "SREN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Insurance",
 		"industryName": "Insurance"
 	},
-	"scmn_se": {
+	"scmn_sw": {
 		"name": "Swisscom",
-		"ticker": "SCMN SE",
+		"ticker": "SCMN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Telco Services",
 		"industryName": "Diversified Telcos"
@@ -3786,9 +3786,9 @@
 		"industryGroup": "Telco Services",
 		"industryName": "Diversified Telcos"
 	},
-	"temn_se": {
+	"temn_sw": {
 		"name": "Temenos Group",
-		"ticker": "TEMN SE",
+		"ticker": "TEMN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Software & Services",
 		"industryName": "Software"
@@ -3898,9 +3898,9 @@
 		"industryGroup": "Media",
 		"industryName": "Media"
 	},
-	"ubsg_se": {
+	"ubsg_sw": {
 		"name": "UBS Group",
-		"ticker": "UBSG SE",
+		"ticker": "UBSG SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Diversified Financials",
 		"industryName": "Capital Markets"
@@ -3996,9 +3996,9 @@
 		"industryGroup": "Autos & Parts",
 		"industryName": "Auto Parts"
 	},
-	"vacn_se": {
+	"vacn_sw": {
 		"name": "VAT Group",
-		"ticker": "VACN SE",
+		"ticker": "VACN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Capital Goods",
 		"industryName": "Machinery"
@@ -4024,9 +4024,9 @@
 		"industryGroup": "Materials",
 		"industryName": "Chemicals"
 	},
-	"vifn_se": {
+	"vifn_sw": {
 		"name": "Vifor Pharma",
-		"ticker": "VIFN SE",
+		"ticker": "VIFN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Pharma, Biotech & Life Sc",
 		"industryName": "Pharmaceuticals"
@@ -4192,9 +4192,9 @@
 		"industryGroup": "Retailing",
 		"industryName": "Internet & Direct Marketing Retail"
 	},
-	"zurn_se": {
+	"zurn_sw": {
 		"name": "Zurich Insurance Group",
-		"ticker": "ZURN SE",
+		"ticker": "ZURN SW",
 		"regions": ["Europe", "Europe ex-UK"],
 		"industryGroup": "Insurance",
 		"industryName": "Insurance"
