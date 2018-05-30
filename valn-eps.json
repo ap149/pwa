@@ -1,0 +1,7837 @@
+{
+	"dri_gy": {
+		"pe_rel": {
+			"data": [{
+				"name": "12 Jun 15",
+				"pe_rel": 1.273
+			}, {
+				"name": "19 Jun 15",
+				"pe_rel": 1.318
+			}, {
+				"name": "26 Jun 15",
+				"pe_rel": 1.334
+			}, {
+				"name": "3 Jul 15",
+				"pe_rel": 1.251
+			}, {
+				"name": "10 Jul 15",
+				"pe_rel": 1.221
+			}, {
+				"name": "17 Jul 15",
+				"pe_rel": 1.152
+			}, {
+				"name": "24 Jul 15",
+				"pe_rel": 1.134
+			}, {
+				"name": "31 Jul 15",
+				"pe_rel": 1.143
+			}, {
+				"name": "7 Aug 15",
+				"pe_rel": 1.304
+			}, {
+				"name": "14 Aug 15",
+				"pe_rel": 1.353
+			}, {
+				"name": "21 Aug 15",
+				"pe_rel": 1.274
+			}, {
+				"name": "28 Aug 15",
+				"pe_rel": 1.348
+			}, {
+				"name": "4 Sep 15",
+				"pe_rel": 1.489
+			}, {
+				"name": "11 Sep 15",
+				"pe_rel": 1.523
+			}, {
+				"name": "18 Sep 15",
+				"pe_rel": 1.557
+			}, {
+				"name": "25 Sep 15",
+				"pe_rel": 1.778
+			}, {
+				"name": "2 Oct 15",
+				"pe_rel": 1.838
+			}, {
+				"name": "9 Oct 15",
+				"pe_rel": 1.554
+			}, {
+				"name": "16 Oct 15",
+				"pe_rel": 1.57
+			}, {
+				"name": "23 Oct 15",
+				"pe_rel": 1.552
+			}, {
+				"name": "30 Oct 15",
+				"pe_rel": 1.51
+			}, {
+				"name": "6 Nov 15",
+				"pe_rel": 1.378
+			}, {
+				"name": "13 Nov 15",
+				"pe_rel": 1.337
+			}, {
+				"name": "20 Nov 15",
+				"pe_rel": 1.312
+			}, {
+				"name": "27 Nov 15",
+				"pe_rel": 1.257
+			}, {
+				"name": "4 Dec 15",
+				"pe_rel": 1.223
+			}, {
+				"name": "11 Dec 15",
+				"pe_rel": 1.269
+			}, {
+				"name": "18 Dec 15",
+				"pe_rel": 1.218
+			}, {
+				"name": "25 Dec 15",
+				"pe_rel": 1.168
+			}, {
+				"name": "1 Jan 16",
+				"pe_rel": 1.21
+			}, {
+				"name": "8 Jan 16",
+				"pe_rel": 1.248
+			}, {
+				"name": "15 Jan 16",
+				"pe_rel": 1.261
+			}, {
+				"name": "22 Jan 16",
+				"pe_rel": 1.159
+			}, {
+				"name": "29 Jan 16",
+				"pe_rel": 1.079
+			}, {
+				"name": "5 Feb 16",
+				"pe_rel": 1.053
+			}, {
+				"name": "12 Feb 16",
+				"pe_rel": 1.032
+			}, {
+				"name": "19 Feb 16",
+				"pe_rel": 1.037
+			}, {
+				"name": "26 Feb 16",
+				"pe_rel": 1.031
+			}, {
+				"name": "4 Mar 16",
+				"pe_rel": 1.003
+			}, {
+				"name": "11 Mar 16",
+				"pe_rel": 0.992
+			}, {
+				"name": "18 Mar 16",
+				"pe_rel": 1.047
+			}, {
+				"name": "25 Mar 16",
+				"pe_rel": 0.984
+			}, {
+				"name": "1 Apr 16",
+				"pe_rel": 0.837
+			}, {
+				"name": "8 Apr 16",
+				"pe_rel": 0.919
+			}, {
+				"name": "15 Apr 16",
+				"pe_rel": 0.802
+			}, {
+				"name": "22 Apr 16",
+				"pe_rel": 0.858
+			}, {
+				"name": "29 Apr 16",
+				"pe_rel": 0.929
+			}, {
+				"name": "6 May 16",
+				"pe_rel": 0.912
+			}, {
+				"name": "13 May 16",
+				"pe_rel": 1.122
+			}, {
+				"name": "20 May 16",
+				"pe_rel": 1.212
+			}, {
+				"name": "27 May 16",
+				"pe_rel": 1.119
+			}, {
+				"name": "3 Jun 16",
+				"pe_rel": 1.091
+			}, {
+				"name": "10 Jun 16",
+				"pe_rel": 1.082
+			}, {
+				"name": "17 Jun 16",
+				"pe_rel": 1.035
+			}, {
+				"name": "24 Jun 16",
+				"pe_rel": 1.116
+			}, {
+				"name": "1 Jul 16",
+				"pe_rel": 0.978
+			}, {
+				"name": "8 Jul 16",
+				"pe_rel": 0.992
+			}, {
+				"name": "15 Jul 16",
+				"pe_rel": 0.874
+			}, {
+				"name": "22 Jul 16",
+				"pe_rel": 0.888
+			}, {
+				"name": "29 Jul 16",
+				"pe_rel": 0.857
+			}, {
+				"name": "5 Aug 16",
+				"pe_rel": 0.898
+			}, {
+				"name": "12 Aug 16",
+				"pe_rel": 1.092
+			}, {
+				"name": "19 Aug 16",
+				"pe_rel": 1.091
+			}, {
+				"name": "26 Aug 16",
+				"pe_rel": 1.067
+			}, {
+				"name": "2 Sep 16",
+				"pe_rel": 1.084
+			}, {
+				"name": "9 Sep 16",
+				"pe_rel": 1.096
+			}, {
+				"name": "16 Sep 16",
+				"pe_rel": 1.147
+			}, {
+				"name": "23 Sep 16",
+				"pe_rel": 1.124
+			}, {
+				"name": "30 Sep 16",
+				"pe_rel": 1.141
+			}, {
+				"name": "7 Oct 16",
+				"pe_rel": 1.083
+			}, {
+				"name": "14 Oct 16",
+				"pe_rel": 1.007
+			}, {
+				"name": "21 Oct 16",
+				"pe_rel": 1.055
+			}, {
+				"name": "28 Oct 16",
+				"pe_rel": 1.017
+			}, {
+				"name": "4 Nov 16",
+				"pe_rel": 1.002
+			}, {
+				"name": "11 Nov 16",
+				"pe_rel": 0.885
+			}, {
+				"name": "18 Nov 16",
+				"pe_rel": 0.832
+			}, {
+				"name": "25 Nov 16",
+				"pe_rel": 0.744
+			}, {
+				"name": "2 Dec 16",
+				"pe_rel": 0.699
+			}, {
+				"name": "9 Dec 16",
+				"pe_rel": 0.725
+			}, {
+				"name": "16 Dec 16",
+				"pe_rel": 0.778
+			}, {
+				"name": "23 Dec 16",
+				"pe_rel": 0.789
+			}, {
+				"name": "30 Dec 16",
+				"pe_rel": 0.796
+			}, {
+				"name": "6 Jan 17",
+				"pe_rel": 0.78
+			}, {
+				"name": "13 Jan 17",
+				"pe_rel": 0.812
+			}, {
+				"name": "20 Jan 17",
+				"pe_rel": 0.84
+			}, {
+				"name": "27 Jan 17",
+				"pe_rel": 0.844
+			}, {
+				"name": "3 Feb 17",
+				"pe_rel": 0.82
+			}, {
+				"name": "10 Feb 17",
+				"pe_rel": 0.761
+			}, {
+				"name": "17 Feb 17",
+				"pe_rel": 0.812
+			}, {
+				"name": "24 Feb 17",
+				"pe_rel": 0.773
+			}, {
+				"name": "3 Mar 17",
+				"pe_rel": 0.761
+			}, {
+				"name": "10 Mar 17",
+				"pe_rel": 0.794
+			}, {
+				"name": "17 Mar 17",
+				"pe_rel": 0.81
+			}, {
+				"name": "24 Mar 17",
+				"pe_rel": 0.86
+			}, {
+				"name": "31 Mar 17",
+				"pe_rel": 0.862
+			}, {
+				"name": "7 Apr 17",
+				"pe_rel": 0.864
+			}, {
+				"name": "14 Apr 17",
+				"pe_rel": 0.902
+			}, {
+				"name": "21 Apr 17",
+				"pe_rel": 0.9
+			}, {
+				"name": "28 Apr 17",
+				"pe_rel": 0.879
+			}, {
+				"name": "5 May 17",
+				"pe_rel": 0.854
+			}, {
+				"name": "12 May 17",
+				"pe_rel": 1.019
+			}, {
+				"name": "19 May 17",
+				"pe_rel": 1.263
+			}, {
+				"name": "26 May 17",
+				"pe_rel": 1.211
+			}, {
+				"name": "2 Jun 17",
+				"pe_rel": 1.149
+			}, {
+				"name": "9 Jun 17",
+				"pe_rel": 1.082
+			}, {
+				"name": "16 Jun 17",
+				"pe_rel": 1.03
+			}, {
+				"name": "23 Jun 17",
+				"pe_rel": 1.057
+			}, {
+				"name": "30 Jun 17",
+				"pe_rel": 1.023
+			}, {
+				"name": "7 Jul 17",
+				"pe_rel": 0.982
+			}, {
+				"name": "14 Jul 17",
+				"pe_rel": 1.014
+			}, {
+				"name": "21 Jul 17",
+				"pe_rel": 1.064
+			}, {
+				"name": "28 Jul 17",
+				"pe_rel": 1.076
+			}, {
+				"name": "4 Aug 17",
+				"pe_rel": 1.101
+			}, {
+				"name": "11 Aug 17",
+				"pe_rel": 0.98
+			}, {
+				"name": "18 Aug 17",
+				"pe_rel": 0.954
+			}, {
+				"name": "25 Aug 17",
+				"pe_rel": 0.954
+			}, {
+				"name": "1 Sep 17",
+				"pe_rel": 0.983
+			}, {
+				"name": "8 Sep 17",
+				"pe_rel": 0.921
+			}, {
+				"name": "15 Sep 17",
+				"pe_rel": 0.907
+			}, {
+				"name": "22 Sep 17",
+				"pe_rel": 0.819
+			}, {
+				"name": "29 Sep 17",
+				"pe_rel": 0.788
+			}, {
+				"name": "6 Oct 17",
+				"pe_rel": 0.77
+			}, {
+				"name": "13 Oct 17",
+				"pe_rel": 0.787
+			}, {
+				"name": "20 Oct 17",
+				"pe_rel": 0.641
+			}, {
+				"name": "27 Oct 17",
+				"pe_rel": 0.62
+			}, {
+				"name": "3 Nov 17",
+				"pe_rel": 0.595
+			}, {
+				"name": "10 Nov 17",
+				"pe_rel": 0.441
+			}, {
+				"name": "17 Nov 17",
+				"pe_rel": 0.431
+			}, {
+				"name": "24 Nov 17",
+				"pe_rel": 0.547
+			}, {
+				"name": "1 Dec 17",
+				"pe_rel": 0.699
+			}, {
+				"name": "8 Dec 17",
+				"pe_rel": 0.763
+			}, {
+				"name": "15 Dec 17",
+				"pe_rel": 0.747
+			}, {
+				"name": "22 Dec 17",
+				"pe_rel": 0.719
+			}, {
+				"name": "29 Dec 17",
+				"pe_rel": 0.744
+			}, {
+				"name": "5 Jan 18",
+				"pe_rel": 0.739
+			}, {
+				"name": "12 Jan 18",
+				"pe_rel": 0.682
+			}, {
+				"name": "19 Jan 18",
+				"pe_rel": 0.728
+			}, {
+				"name": "26 Jan 18",
+				"pe_rel": 0.692
+			}, {
+				"name": "2 Feb 18",
+				"pe_rel": 0.663
+			}, {
+				"name": "9 Feb 18",
+				"pe_rel": 0.686
+			}, {
+				"name": "16 Feb 18",
+				"pe_rel": 0.673
+			}, {
+				"name": "23 Feb 18",
+				"pe_rel": 0.701
+			}, {
+				"name": "2 Mar 18",
+				"pe_rel": 0.634
+			}, {
+				"name": "9 Mar 18",
+				"pe_rel": 0.669
+			}, {
+				"name": "16 Mar 18",
+				"pe_rel": 0.602
+			}, {
+				"name": "23 Mar 18",
+				"pe_rel": 0.579
+			}, {
+				"name": "30 Mar 18",
+				"pe_rel": 0.462
+			}, {
+				"name": "6 Apr 18",
+				"pe_rel": 0.474
+			}, {
+				"name": "13 Apr 18",
+				"pe_rel": 0.461
+			}, {
+				"name": "20 Apr 18",
+				"pe_rel": 0.485
+			}, {
+				"name": "27 Apr 18",
+				"pe_rel": 0.497
+			}, {
+				"name": "4 May 18",
+				"pe_rel": 0.529
+			}, {
+				"name": "11 May 18",
+				"pe_rel": 0.538
+			}, {
+				"name": "18 May 18",
+				"pe_rel": 0.511
+			}, {
+				"name": "25 May 18",
+				"pe_rel": 0.521
+			}],
+			"avg": 0.7,
+			"avg_plus": 1.196,
+			"avg_minus": 0.23973608894397
+		},
+		"pe_abs": {
+			"data": [{
+				"name": "12 Jun 15",
+				"pe": 35.471
+			}, {
+				"name": "19 Jun 15",
+				"pe": 35.726
+			}, {
+				"name": "26 Jun 15",
+				"pe": 36.802
+			}, {
+				"name": "3 Jul 15",
+				"pe": 34.184
+			}, {
+				"name": "10 Jul 15",
+				"pe": 34.288
+			}, {
+				"name": "17 Jul 15",
+				"pe": 34.356
+			}, {
+				"name": "24 Jul 15",
+				"pe": 33.373
+			}, {
+				"name": "31 Jul 15",
+				"pe": 33.628
+			}, {
+				"name": "7 Aug 15",
+				"pe": 36.214
+			}, {
+				"name": "14 Aug 15",
+				"pe": 36.089
+			}, {
+				"name": "21 Aug 15",
+				"pe": 32.697
+			}, {
+				"name": "28 Aug 15",
+				"pe": 33.993
+			}, {
+				"name": "4 Sep 15",
+				"pe": 35.123
+			}, {
+				"name": "11 Sep 15",
+				"pe": 36.11
+			}, {
+				"name": "18 Sep 15",
+				"pe": 36.563
+			}, {
+				"name": "25 Sep 15",
+				"pe": 39.187
+			}, {
+				"name": "2 Oct 15",
+				"pe": 40.022
+			}, {
+				"name": "9 Oct 15",
+				"pe": 37.715
+			}, {
+				"name": "16 Oct 15",
+				"pe": 38.002
+			}, {
+				"name": "23 Oct 15",
+				"pe": 38.992
+			}, {
+				"name": "30 Oct 15",
+				"pe": 38.189
+			}, {
+				"name": "6 Nov 15",
+				"pe": 36.539
+			}, {
+				"name": "13 Nov 15",
+				"pe": 34.993
+			}, {
+				"name": "20 Nov 15",
+				"pe": 35.712
+			}, {
+				"name": "27 Nov 15",
+				"pe": 35.025
+			}, {
+				"name": "4 Dec 15",
+				"pe": 33.606
+			}, {
+				"name": "11 Dec 15",
+				"pe": 33.082
+			}, {
+				"name": "18 Dec 15",
+				"pe": 32.885
+			}, {
+				"name": "25 Dec 15",
+				"pe": 32.713
+			}, {
+				"name": "1 Jan 16",
+				"pe": 33.27
+			}, {
+				"name": "8 Jan 16",
+				"pe": 31.722
+			}, {
+				"name": "15 Jan 16",
+				"pe": 31.231
+			}, {
+				"name": "22 Jan 16",
+				"pe": 30.688
+			}, {
+				"name": "29 Jan 16",
+				"pe": 30.181
+			}, {
+				"name": "5 Feb 16",
+				"pe": 28.768
+			}, {
+				"name": "12 Feb 16",
+				"pe": 27.545
+			}, {
+				"name": "19 Feb 16",
+				"pe": 28.708
+			}, {
+				"name": "26 Feb 16",
+				"pe": 29.237
+			}, {
+				"name": "4 Mar 16",
+				"pe": 29.699
+			}, {
+				"name": "11 Mar 16",
+				"pe": 29.737
+			}, {
+				"name": "18 Mar 16",
+				"pe": 30.576
+			}, {
+				"name": "25 Mar 16",
+				"pe": 29.121
+			}, {
+				"name": "1 Apr 16",
+				"pe": 26.932
+			}, {
+				"name": "8 Apr 16",
+				"pe": 28.099
+			}, {
+				"name": "15 Apr 16",
+				"pe": 27.17
+			}, {
+				"name": "22 Apr 16",
+				"pe": 28.413
+			}, {
+				"name": "29 Apr 16",
+				"pe": 28.881
+			}, {
+				"name": "6 May 16",
+				"pe": 27.832
+			}, {
+				"name": "13 May 16",
+				"pe": 31.077
+			}, {
+				"name": "20 May 16",
+				"pe": 32.554
+			}, {
+				"name": "27 May 16",
+				"pe": 32.148
+			}, {
+				"name": "3 Jun 16",
+				"pe": 31.088
+			}, {
+				"name": "10 Jun 16",
+				"pe": 30.159
+			}, {
+				"name": "17 Jun 16",
+				"pe": 28.82
+			}, {
+				"name": "24 Jun 16",
+				"pe": 29.631
+			}, {
+				"name": "1 Jul 16",
+				"pe": 28.923
+			}, {
+				"name": "8 Jul 16",
+				"pe": 28.714
+			}, {
+				"name": "15 Jul 16",
+				"pe": 27.821
+			}, {
+				"name": "22 Jul 16",
+				"pe": 28.137
+			}, {
+				"name": "29 Jul 16",
+				"pe": 27.841
+			}, {
+				"name": "5 Aug 16",
+				"pe": 28.362
+			}, {
+				"name": "12 Aug 16",
+				"pe": 31.707
+			}, {
+				"name": "19 Aug 16",
+				"pe": 31.22
+			}, {
+				"name": "26 Aug 16",
+				"pe": 31.044
+			}, {
+				"name": "2 Sep 16",
+				"pe": 31.754
+			}, {
+				"name": "9 Sep 16",
+				"pe": 31.362
+			}, {
+				"name": "16 Sep 16",
+				"pe": 31.371
+			}, {
+				"name": "23 Sep 16",
+				"pe": 31.732
+			}, {
+				"name": "30 Sep 16",
+				"pe": 31.705
+			}, {
+				"name": "7 Oct 16",
+				"pe": 30.538
+			}, {
+				"name": "14 Oct 16",
+				"pe": 29.399
+			}, {
+				"name": "21 Oct 16",
+				"pe": 30.298
+			}, {
+				"name": "28 Oct 16",
+				"pe": 29.404
+			}, {
+				"name": "4 Nov 16",
+				"pe": 28.198
+			}, {
+				"name": "11 Nov 16",
+				"pe": 26.912
+			}, {
+				"name": "18 Nov 16",
+				"pe": 26.004
+			}, {
+				"name": "25 Nov 16",
+				"pe": 24.869
+			}, {
+				"name": "2 Dec 16",
+				"pe": 23.933
+			}, {
+				"name": "9 Dec 16",
+				"pe": 25.268
+			}, {
+				"name": "16 Dec 16",
+				"pe": 26.206
+			}, {
+				"name": "23 Dec 16",
+				"pe": 26.335
+			}, {
+				"name": "30 Dec 16",
+				"pe": 26.505
+			}, {
+				"name": "6 Jan 17",
+				"pe": 26.581
+			}, {
+				"name": "13 Jan 17",
+				"pe": 27.112
+			}, {
+				"name": "20 Jan 17",
+				"pe": 27.154
+			}, {
+				"name": "27 Jan 17",
+				"pe": 27.349
+			}, {
+				"name": "3 Feb 17",
+				"pe": 26.815
+			}, {
+				"name": "10 Feb 17",
+				"pe": 26.087
+			}, {
+				"name": "17 Feb 17",
+				"pe": 26.994
+			}, {
+				"name": "24 Feb 17",
+				"pe": 26.295
+			}, {
+				"name": "3 Mar 17",
+				"pe": 26.463
+			}, {
+				"name": "10 Mar 17",
+				"pe": 26.87
+			}, {
+				"name": "17 Mar 17",
+				"pe": 27.43
+			}, {
+				"name": "24 Mar 17",
+				"pe": 28.011
+			}, {
+				"name": "31 Mar 17",
+				"pe": 28.257
+			}, {
+				"name": "7 Apr 17",
+				"pe": 28.193
+			}, {
+				"name": "14 Apr 17",
+				"pe": 28.634
+			}, {
+				"name": "21 Apr 17",
+				"pe": 28.125
+			}, {
+				"name": "28 Apr 17",
+				"pe": 28.626
+			}, {
+				"name": "5 May 17",
+				"pe": 28.775
+			}, {
+				"name": "12 May 17",
+				"pe": 31.287
+			}, {
+				"name": "19 May 17",
+				"pe": 34.851
+			}, {
+				"name": "26 May 17",
+				"pe": 34.061
+			}, {
+				"name": "2 Jun 17",
+				"pe": 33.322
+			}, {
+				"name": "9 Jun 17",
+				"pe": 32.061
+			}, {
+				"name": "16 Jun 17",
+				"pe": 31.082
+			}, {
+				"name": "23 Jun 17",
+				"pe": 31.334
+			}, {
+				"name": "30 Jun 17",
+				"pe": 30.237
+			}, {
+				"name": "7 Jul 17",
+				"pe": 29.704
+			}, {
+				"name": "14 Jul 17",
+				"pe": 30.709
+			}, {
+				"name": "21 Jul 17",
+				"pe": 31.124
+			}, {
+				"name": "28 Jul 17",
+				"pe": 31.201
+			}, {
+				"name": "4 Aug 17",
+				"pe": 31.927
+			}, {
+				"name": "11 Aug 17",
+				"pe": 29.246
+			}, {
+				"name": "18 Aug 17",
+				"pe": 28.947
+			}, {
+				"name": "25 Aug 17",
+				"pe": 28.968
+			}, {
+				"name": "1 Sep 17",
+				"pe": 29.513
+			}, {
+				"name": "8 Sep 17",
+				"pe": 28.551
+			}, {
+				"name": "15 Sep 17",
+				"pe": 28.566
+			}, {
+				"name": "22 Sep 17",
+				"pe": 27.326
+			}, {
+				"name": "29 Sep 17",
+				"pe": 27.056
+			}, {
+				"name": "6 Oct 17",
+				"pe": 26.86
+			}, {
+				"name": "13 Oct 17",
+				"pe": 27.27
+			}, {
+				"name": "20 Oct 17",
+				"pe": 24.955
+			}, {
+				"name": "27 Oct 17",
+				"pe": 24.732
+			}, {
+				"name": "3 Nov 17",
+				"pe": 24.498
+			}, {
+				"name": "10 Nov 17",
+				"pe": 21.687
+			}, {
+				"name": "17 Nov 17",
+				"pe": 21.361
+			}, {
+				"name": "24 Nov 17",
+				"pe": 23.25
+			}, {
+				"name": "1 Dec 17",
+				"pe": 25.259
+			}, {
+				"name": "8 Dec 17",
+				"pe": 26.449
+			}, {
+				"name": "15 Dec 17",
+				"pe": 26.081
+			}, {
+				"name": "22 Dec 17",
+				"pe": 25.827
+			}, {
+				"name": "29 Dec 17",
+				"pe": 26.156
+			}, {
+				"name": "5 Jan 18",
+				"pe": 26.581
+			}, {
+				"name": "12 Jan 18",
+				"pe": 25.739
+			}, {
+				"name": "19 Jan 18",
+				"pe": 26.501
+			}, {
+				"name": "26 Jan 18",
+				"pe": 25.858
+			}, {
+				"name": "2 Feb 18",
+				"pe": 24.607
+			}, {
+				"name": "9 Feb 18",
+				"pe": 23.561
+			}, {
+				"name": "16 Feb 18",
+				"pe": 24.225
+			}, {
+				"name": "23 Feb 18",
+				"pe": 24.586
+			}, {
+				"name": "2 Mar 18",
+				"pe": 22.784
+			}, {
+				"name": "9 Mar 18",
+				"pe": 23.971
+			}, {
+				"name": "16 Mar 18",
+				"pe": 22.874
+			}, {
+				"name": "23 Mar 18",
+				"pe": 21.858
+			}, {
+				"name": "30 Mar 18",
+				"pe": 20.484
+			}, {
+				"name": "6 Apr 18",
+				"pe": 20.847
+			}, {
+				"name": "13 Apr 18",
+				"pe": 20.886
+			}, {
+				"name": "20 Apr 18",
+				"pe": 21.378
+			}, {
+				"name": "27 Apr 18",
+				"pe": 21.686
+			}, {
+				"name": "4 May 18",
+				"pe": 22.202
+			}, {
+				"name": "11 May 18",
+				"pe": 22.574
+			}, {
+				"name": "18 May 18",
+				"pe": 22.144
+			}, {
+				"name": "25 May 18",
+				"pe": 22.056
+			}],
+			"avg": 25.3619346153846,
+			"avg_plus": 33.0607188617547,
+			"avg_minus": 17.6631503690146
+		},
+		"eps": {
+			"data": [{
+				"name": "12 Jun 15",
+				"eps_stock": -0.01,
+				"eps_rel": -0.031
+			}, {
+				"name": "19 Jun 15",
+				"eps_stock": -0.013,
+				"eps_rel": -0.03
+			}, {
+				"name": "26 Jun 15",
+				"eps_stock": -0.014,
+				"eps_rel": -0.03
+			}, {
+				"name": "3 Jul 15",
+				"eps_stock": -0.007,
+				"eps_rel": -0.026
+			}, {
+				"name": "10 Jul 15",
+				"eps_stock": -0.004,
+				"eps_rel": -0.024
+			}, {
+				"name": "17 Jul 15",
+				"eps_stock": 0.001,
+				"eps_rel": -0.022
+			}, {
+				"name": "24 Jul 15",
+				"eps_stock": 0.006,
+				"eps_rel": -0.015
+			}, {
+				"name": "31 Jul 15",
+				"eps_stock": 0.006,
+				"eps_rel": -0.016
+			}, {
+				"name": "7 Aug 15",
+				"eps_stock": 0.007,
+				"eps_rel": -0.017
+			}, {
+				"name": "14 Aug 15",
+				"eps_stock": 0.008,
+				"eps_rel": -0.014
+			}, {
+				"name": "21 Aug 15",
+				"eps_stock": 0.009,
+				"eps_rel": -0.01
+			}, {
+				"name": "28 Aug 15",
+				"eps_stock": 0.013,
+				"eps_rel": 0.001
+			}, {
+				"name": "4 Sep 15",
+				"eps_stock": 0.016,
+				"eps_rel": 0.009
+			}, {
+				"name": "11 Sep 15",
+				"eps_stock": 0.019,
+				"eps_rel": 0.018
+			}, {
+				"name": "18 Sep 15",
+				"eps_stock": 0.026,
+				"eps_rel": 0.028
+			}, {
+				"name": "25 Sep 15",
+				"eps_stock": 0.033,
+				"eps_rel": 0.039
+			}, {
+				"name": "2 Oct 15",
+				"eps_stock": 0.039,
+				"eps_rel": 0.053
+			}, {
+				"name": "9 Oct 15",
+				"eps_stock": 0.045,
+				"eps_rel": 0.064
+			}, {
+				"name": "16 Oct 15",
+				"eps_stock": 0.048,
+				"eps_rel": 0.074
+			}, {
+				"name": "23 Oct 15",
+				"eps_stock": 0.053,
+				"eps_rel": 0.08
+			}, {
+				"name": "30 Oct 15",
+				"eps_stock": 0.06,
+				"eps_rel": 0.087
+			}, {
+				"name": "6 Nov 15",
+				"eps_stock": 0.066,
+				"eps_rel": 0.093
+			}, {
+				"name": "13 Nov 15",
+				"eps_stock": 0.068,
+				"eps_rel": 0.091
+			}, {
+				"name": "20 Nov 15",
+				"eps_stock": 0.061,
+				"eps_rel": 0.083
+			}, {
+				"name": "27 Nov 15",
+				"eps_stock": 0.052,
+				"eps_rel": 0.071
+			}, {
+				"name": "4 Dec 15",
+				"eps_stock": 0.044,
+				"eps_rel": 0.063
+			}, {
+				"name": "11 Dec 15",
+				"eps_stock": 0.037,
+				"eps_rel": 0.055
+			}, {
+				"name": "18 Dec 15",
+				"eps_stock": 0.03,
+				"eps_rel": 0.049
+			}, {
+				"name": "25 Dec 15",
+				"eps_stock": 0.022,
+				"eps_rel": 0.042
+			}, {
+				"name": "1 Jan 16",
+				"eps_stock": 0.009,
+				"eps_rel": 0.027
+			}, {
+				"name": "8 Jan 16",
+				"eps_stock": -0.001,
+				"eps_rel": 0.016
+			}, {
+				"name": "15 Jan 16",
+				"eps_stock": -0.004,
+				"eps_rel": 0.015
+			}, {
+				"name": "22 Jan 16",
+				"eps_stock": -0.006,
+				"eps_rel": 0.018
+			}, {
+				"name": "29 Jan 16",
+				"eps_stock": 0.003,
+				"eps_rel": 0.035
+			}, {
+				"name": "5 Feb 16",
+				"eps_stock": 0.007,
+				"eps_rel": 0.051
+			}, {
+				"name": "12 Feb 16",
+				"eps_stock": 0.016,
+				"eps_rel": 0.072
+			}, {
+				"name": "19 Feb 16",
+				"eps_stock": 0.031,
+				"eps_rel": 0.094
+			}, {
+				"name": "26 Feb 16",
+				"eps_stock": 0.041,
+				"eps_rel": 0.112
+			}, {
+				"name": "4 Mar 16",
+				"eps_stock": 0.052,
+				"eps_rel": 0.125
+			}, {
+				"name": "11 Mar 16",
+				"eps_stock": 0.061,
+				"eps_rel": 0.132
+			}, {
+				"name": "18 Mar 16",
+				"eps_stock": 0.074,
+				"eps_rel": 0.146
+			}, {
+				"name": "25 Mar 16",
+				"eps_stock": 0.088,
+				"eps_rel": 0.157
+			}, {
+				"name": "1 Apr 16",
+				"eps_stock": 0.104,
+				"eps_rel": 0.176
+			}, {
+				"name": "8 Apr 16",
+				"eps_stock": 0.103,
+				"eps_rel": 0.176
+			}, {
+				"name": "15 Apr 16",
+				"eps_stock": 0.087,
+				"eps_rel": 0.155
+			}, {
+				"name": "22 Apr 16",
+				"eps_stock": 0.066,
+				"eps_rel": 0.128
+			}, {
+				"name": "29 Apr 16",
+				"eps_stock": 0.035,
+				"eps_rel": 0.086
+			}, {
+				"name": "6 May 16",
+				"eps_stock": 0.014,
+				"eps_rel": 0.052
+			}, {
+				"name": "13 May 16",
+				"eps_stock": -0.003,
+				"eps_rel": 0.024
+			}, {
+				"name": "20 May 16",
+				"eps_stock": -0.026,
+				"eps_rel": -0.009
+			}, {
+				"name": "27 May 16",
+				"eps_stock": -0.041,
+				"eps_rel": -0.032
+			}, {
+				"name": "3 Jun 16",
+				"eps_stock": -0.05,
+				"eps_rel": -0.045
+			}, {
+				"name": "10 Jun 16",
+				"eps_stock": -0.06,
+				"eps_rel": -0.058
+			}, {
+				"name": "17 Jun 16",
+				"eps_stock": -0.061,
+				"eps_rel": -0.062
+			}, {
+				"name": "24 Jun 16",
+				"eps_stock": -0.063,
+				"eps_rel": -0.066
+			}, {
+				"name": "1 Jul 16",
+				"eps_stock": -0.058,
+				"eps_rel": -0.062
+			}, {
+				"name": "8 Jul 16",
+				"eps_stock": -0.042,
+				"eps_rel": -0.046
+			}, {
+				"name": "15 Jul 16",
+				"eps_stock": -0.022,
+				"eps_rel": -0.024
+			}, {
+				"name": "22 Jul 16",
+				"eps_stock": 0.007,
+				"eps_rel": 0.006
+			}, {
+				"name": "29 Jul 16",
+				"eps_stock": 0.035,
+				"eps_rel": 0.034
+			}, {
+				"name": "5 Aug 16",
+				"eps_stock": 0.057,
+				"eps_rel": 0.056
+			}, {
+				"name": "12 Aug 16",
+				"eps_stock": 0.073,
+				"eps_rel": 0.072
+			}, {
+				"name": "19 Aug 16",
+				"eps_stock": 0.091,
+				"eps_rel": 0.093
+			}, {
+				"name": "26 Aug 16",
+				"eps_stock": 0.106,
+				"eps_rel": 0.109
+			}, {
+				"name": "2 Sep 16",
+				"eps_stock": 0.117,
+				"eps_rel": 0.12
+			}, {
+				"name": "9 Sep 16",
+				"eps_stock": 0.13,
+				"eps_rel": 0.132
+			}, {
+				"name": "16 Sep 16",
+				"eps_stock": 0.133,
+				"eps_rel": 0.132
+			}, {
+				"name": "23 Sep 16",
+				"eps_stock": 0.134,
+				"eps_rel": 0.129
+			}, {
+				"name": "30 Sep 16",
+				"eps_stock": 0.133,
+				"eps_rel": 0.123
+			}, {
+				"name": "7 Oct 16",
+				"eps_stock": 0.131,
+				"eps_rel": 0.118
+			}, {
+				"name": "14 Oct 16",
+				"eps_stock": 0.128,
+				"eps_rel": 0.11
+			}, {
+				"name": "21 Oct 16",
+				"eps_stock": 0.117,
+				"eps_rel": 0.094
+			}, {
+				"name": "28 Oct 16",
+				"eps_stock": 0.109,
+				"eps_rel": 0.085
+			}, {
+				"name": "4 Nov 16",
+				"eps_stock": 0.105,
+				"eps_rel": 0.081
+			}, {
+				"name": "11 Nov 16",
+				"eps_stock": 0.103,
+				"eps_rel": 0.075
+			}, {
+				"name": "18 Nov 16",
+				"eps_stock": 0.111,
+				"eps_rel": 0.076
+			}, {
+				"name": "25 Nov 16",
+				"eps_stock": 0.117,
+				"eps_rel": 0.075
+			}, {
+				"name": "2 Dec 16",
+				"eps_stock": 0.124,
+				"eps_rel": 0.076
+			}, {
+				"name": "9 Dec 16",
+				"eps_stock": 0.127,
+				"eps_rel": 0.074
+			}, {
+				"name": "16 Dec 16",
+				"eps_stock": 0.128,
+				"eps_rel": 0.073
+			}, {
+				"name": "23 Dec 16",
+				"eps_stock": 0.13,
+				"eps_rel": 0.073
+			}, {
+				"name": "30 Dec 16",
+				"eps_stock": 0.13,
+				"eps_rel": 0.071
+			}, {
+				"name": "6 Jan 17",
+				"eps_stock": 0.132,
+				"eps_rel": 0.071
+			}, {
+				"name": "13 Jan 17",
+				"eps_stock": 0.133,
+				"eps_rel": 0.073
+			}, {
+				"name": "20 Jan 17",
+				"eps_stock": 0.135,
+				"eps_rel": 0.076
+			}, {
+				"name": "27 Jan 17",
+				"eps_stock": 0.134,
+				"eps_rel": 0.075
+			}, {
+				"name": "3 Feb 17",
+				"eps_stock": 0.126,
+				"eps_rel": 0.067
+			}, {
+				"name": "10 Feb 17",
+				"eps_stock": 0.118,
+				"eps_rel": 0.061
+			}, {
+				"name": "17 Feb 17",
+				"eps_stock": 0.109,
+				"eps_rel": 0.055
+			}, {
+				"name": "24 Feb 17",
+				"eps_stock": 0.103,
+				"eps_rel": 0.053
+			}, {
+				"name": "3 Mar 17",
+				"eps_stock": 0.1,
+				"eps_rel": 0.057
+			}, {
+				"name": "10 Mar 17",
+				"eps_stock": 0.098,
+				"eps_rel": 0.06
+			}, {
+				"name": "17 Mar 17",
+				"eps_stock": 0.096,
+				"eps_rel": 0.063
+			}, {
+				"name": "24 Mar 17",
+				"eps_stock": 0.092,
+				"eps_rel": 0.063
+			}, {
+				"name": "31 Mar 17",
+				"eps_stock": 0.092,
+				"eps_rel": 0.066
+			}, {
+				"name": "7 Apr 17",
+				"eps_stock": 0.089,
+				"eps_rel": 0.062
+			}, {
+				"name": "14 Apr 17",
+				"eps_stock": 0.088,
+				"eps_rel": 0.058
+			}, {
+				"name": "21 Apr 17",
+				"eps_stock": 0.086,
+				"eps_rel": 0.052
+			}, {
+				"name": "28 Apr 17",
+				"eps_stock": 0.086,
+				"eps_rel": 0.051
+			}, {
+				"name": "5 May 17",
+				"eps_stock": 0.09,
+				"eps_rel": 0.055
+			}, {
+				"name": "12 May 17",
+				"eps_stock": 0.092,
+				"eps_rel": 0.058
+			}, {
+				"name": "19 May 17",
+				"eps_stock": 0.083,
+				"eps_rel": 0.055
+			}, {
+				"name": "26 May 17",
+				"eps_stock": 0.072,
+				"eps_rel": 0.046
+			}, {
+				"name": "2 Jun 17",
+				"eps_stock": 0.058,
+				"eps_rel": 0.036
+			}, {
+				"name": "9 Jun 17",
+				"eps_stock": 0.045,
+				"eps_rel": 0.027
+			}, {
+				"name": "16 Jun 17",
+				"eps_stock": 0.048,
+				"eps_rel": 0.031
+			}, {
+				"name": "23 Jun 17",
+				"eps_stock": 0.054,
+				"eps_rel": 0.037
+			}, {
+				"name": "30 Jun 17",
+				"eps_stock": 0.059,
+				"eps_rel": 0.043
+			}, {
+				"name": "7 Jul 17",
+				"eps_stock": 0.07,
+				"eps_rel": 0.056
+			}, {
+				"name": "14 Jul 17",
+				"eps_stock": 0.076,
+				"eps_rel": 0.066
+			}, {
+				"name": "21 Jul 17",
+				"eps_stock": 0.082,
+				"eps_rel": 0.081
+			}, {
+				"name": "28 Jul 17",
+				"eps_stock": 0.09,
+				"eps_rel": 0.093
+			}, {
+				"name": "4 Aug 17",
+				"eps_stock": 0.093,
+				"eps_rel": 0.101
+			}, {
+				"name": "11 Aug 17",
+				"eps_stock": 0.102,
+				"eps_rel": 0.114
+			}, {
+				"name": "18 Aug 17",
+				"eps_stock": 0.12,
+				"eps_rel": 0.131
+			}, {
+				"name": "25 Aug 17",
+				"eps_stock": 0.137,
+				"eps_rel": 0.147
+			}, {
+				"name": "1 Sep 17",
+				"eps_stock": 0.159,
+				"eps_rel": 0.167
+			}, {
+				"name": "8 Sep 17",
+				"eps_stock": 0.186,
+				"eps_rel": 0.192
+			}, {
+				"name": "15 Sep 17",
+				"eps_stock": 0.195,
+				"eps_rel": 0.199
+			}, {
+				"name": "22 Sep 17",
+				"eps_stock": 0.218,
+				"eps_rel": 0.218
+			}, {
+				"name": "29 Sep 17",
+				"eps_stock": 0.236,
+				"eps_rel": 0.232
+			}, {
+				"name": "6 Oct 17",
+				"eps_stock": 0.242,
+				"eps_rel": 0.233
+			}, {
+				"name": "13 Oct 17",
+				"eps_stock": 0.253,
+				"eps_rel": 0.242
+			}, {
+				"name": "20 Oct 17",
+				"eps_stock": 0.271,
+				"eps_rel": 0.255
+			}, {
+				"name": "27 Oct 17",
+				"eps_stock": 0.29,
+				"eps_rel": 0.27
+			}, {
+				"name": "3 Nov 17",
+				"eps_stock": 0.312,
+				"eps_rel": 0.288
+			}, {
+				"name": "10 Nov 17",
+				"eps_stock": 0.357,
+				"eps_rel": 0.326
+			}, {
+				"name": "17 Nov 17",
+				"eps_stock": 0.398,
+				"eps_rel": 0.367
+			}, {
+				"name": "24 Nov 17",
+				"eps_stock": 0.417,
+				"eps_rel": 0.386
+			}, {
+				"name": "1 Dec 17",
+				"eps_stock": 0.414,
+				"eps_rel": 0.385
+			}, {
+				"name": "8 Dec 17",
+				"eps_stock": 0.371,
+				"eps_rel": 0.341
+			}, {
+				"name": "15 Dec 17",
+				"eps_stock": 0.321,
+				"eps_rel": 0.291
+			}, {
+				"name": "22 Dec 17",
+				"eps_stock": 0.273,
+				"eps_rel": 0.246
+			}, {
+				"name": "29 Dec 17",
+				"eps_stock": 0.241,
+				"eps_rel": 0.217
+			}, {
+				"name": "5 Jan 18",
+				"eps_stock": 0.225,
+				"eps_rel": 0.206
+			}, {
+				"name": "12 Jan 18",
+				"eps_stock": 0.197,
+				"eps_rel": 0.179
+			}, {
+				"name": "19 Jan 18",
+				"eps_stock": 0.165,
+				"eps_rel": 0.148
+			}, {
+				"name": "26 Jan 18",
+				"eps_stock": 0.136,
+				"eps_rel": 0.118
+			}, {
+				"name": "2 Feb 18",
+				"eps_stock": 0.107,
+				"eps_rel": 0.088
+			}, {
+				"name": "9 Feb 18",
+				"eps_stock": 0.061,
+				"eps_rel": 0.041
+			}, {
+				"name": "16 Feb 18",
+				"eps_stock": 0.021,
+				"eps_rel": 0.002
+			}, {
+				"name": "23 Feb 18",
+				"eps_stock": 0.001,
+				"eps_rel": -0.02
+			}, {
+				"name": "2 Mar 18",
+				"eps_stock": -0.011,
+				"eps_rel": -0.032
+			}, {
+				"name": "9 Mar 18",
+				"eps_stock": 0.001,
+				"eps_rel": -0.019
+			}, {
+				"name": "16 Mar 18",
+				"eps_stock": 0.02,
+				"eps_rel": 0.001
+			}, {
+				"name": "23 Mar 18",
+				"eps_stock": 0.025,
+				"eps_rel": 0.008
+			}, {
+				"name": "30 Mar 18",
+				"eps_stock": 0.022,
+				"eps_rel": 0.004
+			}, {
+				"name": "6 Apr 18",
+				"eps_stock": 0.016,
+				"eps_rel": -0.003
+			}, {
+				"name": "13 Apr 18",
+				"eps_stock": 0.021,
+				"eps_rel": 0.002
+			}, {
+				"name": "20 Apr 18",
+				"eps_stock": 0.026,
+				"eps_rel": 0.008
+			}, {
+				"name": "27 Apr 18",
+				"eps_stock": 0.034,
+				"eps_rel": 0.018
+			}, {
+				"name": "4 May 18",
+				"eps_stock": 0.043,
+				"eps_rel": 0.027
+			}, {
+				"name": "11 May 18",
+				"eps_stock": 0.046,
+				"eps_rel": 0.032
+			}, {
+				"name": "18 May 18",
+				"eps_stock": 0.048,
+				"eps_rel": 0.03
+			}, {
+				"name": "25 May 18",
+				"eps_stock": 0.048,
+				"eps_rel": 0.027
+			}]
+		}
+	},
+	"iii_ln": {
+		"pe_rel": {
+			"data": [{
+				"name": "12 Jun 15",
+				"pe_rel": -0.472
+			}, {
+				"name": "19 Jun 15",
+				"pe_rel": -0.475
+			}, {
+				"name": "26 Jun 15",
+				"pe_rel": -0.479
+			}, {
+				"name": "3 Jul 15",
+				"pe_rel": -0.472
+			}, {
+				"name": "10 Jul 15",
+				"pe_rel": -0.465
+			}, {
+				"name": "17 Jul 15",
+				"pe_rel": -0.463
+			}, {
+				"name": "24 Jul 15",
+				"pe_rel": -0.452
+			}, {
+				"name": "31 Jul 15",
+				"pe_rel": -0.459
+			}, {
+				"name": "7 Aug 15",
+				"pe_rel": -0.478
+			}, {
+				"name": "14 Aug 15",
+				"pe_rel": -0.468
+			}, {
+				"name": "21 Aug 15",
+				"pe_rel": -0.48
+			}, {
+				"name": "28 Aug 15",
+				"pe_rel": -0.479
+			}, {
+				"name": "4 Sep 15",
+				"pe_rel": -0.463
+			}, {
+				"name": "11 Sep 15",
+				"pe_rel": -0.468
+			}, {
+				"name": "18 Sep 15",
+				"pe_rel": -0.476
+			}, {
+				"name": "25 Sep 15",
+				"pe_rel": -0.451
+			}, {
+				"name": "2 Oct 15",
+				"pe_rel": -0.463
+			}, {
+				"name": "9 Oct 15",
+				"pe_rel": -0.478
+			}, {
+				"name": "16 Oct 15",
+				"pe_rel": -0.481
+			}, {
+				"name": "23 Oct 15",
+				"pe_rel": -0.47
+			}, {
+				"name": "30 Oct 15",
+				"pe_rel": -0.47
+			}, {
+				"name": "6 Nov 15",
+				"pe_rel": -0.479
+			}, {
+				"name": "13 Nov 15",
+				"pe_rel": -0.489
+			}, {
+				"name": "20 Nov 15",
+				"pe_rel": -0.473
+			}, {
+				"name": "27 Nov 15",
+				"pe_rel": -0.473
+			}, {
+				"name": "4 Dec 15",
+				"pe_rel": -0.458
+			}, {
+				"name": "11 Dec 15",
+				"pe_rel": -0.454
+			}, {
+				"name": "18 Dec 15",
+				"pe_rel": -0.46
+			}, {
+				"name": "25 Dec 15",
+				"pe_rel": -0.455
+			}, {
+				"name": "1 Jan 16",
+				"pe_rel": -0.453
+			}, {
+				"name": "8 Jan 16",
+				"pe_rel": -0.457
+			}, {
+				"name": "15 Jan 16",
+				"pe_rel": -0.466
+			}, {
+				"name": "22 Jan 16",
+				"pe_rel": -0.478
+			}, {
+				"name": "29 Jan 16",
+				"pe_rel": -0.457
+			}, {
+				"name": "5 Feb 16",
+				"pe_rel": -0.467
+			}, {
+				"name": "12 Feb 16",
+				"pe_rel": -0.471
+			}, {
+				"name": "19 Feb 16",
+				"pe_rel": -0.469
+			}, {
+				"name": "26 Feb 16",
+				"pe_rel": -0.459
+			}, {
+				"name": "4 Mar 16",
+				"pe_rel": -0.454
+			}, {
+				"name": "11 Mar 16",
+				"pe_rel": -0.469
+			}, {
+				"name": "18 Mar 16",
+				"pe_rel": -0.491
+			}, {
+				"name": "25 Mar 16",
+				"pe_rel": -0.48
+			}, {
+				"name": "1 Apr 16",
+				"pe_rel": -0.479
+			}, {
+				"name": "8 Apr 16",
+				"pe_rel": -0.483
+			}, {
+				"name": "15 Apr 16",
+				"pe_rel": -0.467
+			}, {
+				"name": "22 Apr 16",
+				"pe_rel": -0.479
+			}, {
+				"name": "29 Apr 16",
+				"pe_rel": -0.472
+			}, {
+				"name": "6 May 16",
+				"pe_rel": -0.484
+			}, {
+				"name": "13 May 16",
+				"pe_rel": -0.461
+			}, {
+				"name": "20 May 16",
+				"pe_rel": -0.44
+			}, {
+				"name": "27 May 16",
+				"pe_rel": -0.431
+			}, {
+				"name": "3 Jun 16",
+				"pe_rel": -0.427
+			}, {
+				"name": "10 Jun 16",
+				"pe_rel": -0.419
+			}, {
+				"name": "17 Jun 16",
+				"pe_rel": -0.427
+			}, {
+				"name": "24 Jun 16",
+				"pe_rel": -0.431
+			}, {
+				"name": "1 Jul 16",
+				"pe_rel": -0.418
+			}, {
+				"name": "8 Jul 16",
+				"pe_rel": -0.421
+			}, {
+				"name": "15 Jul 16",
+				"pe_rel": -0.432
+			}, {
+				"name": "22 Jul 16",
+				"pe_rel": -0.425
+			}, {
+				"name": "29 Jul 16",
+				"pe_rel": -0.467
+			}, {
+				"name": "5 Aug 16",
+				"pe_rel": -0.462
+			}, {
+				"name": "12 Aug 16",
+				"pe_rel": -0.488
+			}, {
+				"name": "19 Aug 16",
+				"pe_rel": -0.488
+			}, {
+				"name": "26 Aug 16",
+				"pe_rel": -0.496
+			}, {
+				"name": "2 Sep 16",
+				"pe_rel": -0.504
+			}, {
+				"name": "9 Sep 16",
+				"pe_rel": -0.506
+			}, {
+				"name": "16 Sep 16",
+				"pe_rel": -0.487
+			}, {
+				"name": "23 Sep 16",
+				"pe_rel": -0.485
+			}, {
+				"name": "30 Sep 16",
+				"pe_rel": -0.473
+			}, {
+				"name": "7 Oct 16",
+				"pe_rel": -0.445
+			}, {
+				"name": "14 Oct 16",
+				"pe_rel": -0.457
+			}, {
+				"name": "21 Oct 16",
+				"pe_rel": -0.454
+			}, {
+				"name": "28 Oct 16",
+				"pe_rel": -0.442
+			}, {
+				"name": "4 Nov 16",
+				"pe_rel": -0.46
+			}, {
+				"name": "11 Nov 16",
+				"pe_rel": -0.485
+			}, {
+				"name": "18 Nov 16",
+				"pe_rel": -0.467
+			}, {
+				"name": "25 Nov 16",
+				"pe_rel": -0.445
+			}, {
+				"name": "2 Dec 16",
+				"pe_rel": -0.458
+			}, {
+				"name": "9 Dec 16",
+				"pe_rel": -0.456
+			}, {
+				"name": "16 Dec 16",
+				"pe_rel": -0.463
+			}, {
+				"name": "23 Dec 16",
+				"pe_rel": -0.447
+			}, {
+				"name": "30 Dec 16",
+				"pe_rel": -0.435
+			}, {
+				"name": "6 Jan 17",
+				"pe_rel": -0.419
+			}, {
+				"name": "13 Jan 17",
+				"pe_rel": -0.426
+			}, {
+				"name": "20 Jan 17",
+				"pe_rel": -0.424
+			}, {
+				"name": "27 Jan 17",
+				"pe_rel": -0.427
+			}, {
+				"name": "3 Feb 17",
+				"pe_rel": -0.416
+			}, {
+				"name": "10 Feb 17",
+				"pe_rel": -0.394
+			}, {
+				"name": "17 Feb 17",
+				"pe_rel": -0.385
+			}, {
+				"name": "24 Feb 17",
+				"pe_rel": -0.402
+			}, {
+				"name": "3 Mar 17",
+				"pe_rel": -0.389
+			}, {
+				"name": "10 Mar 17",
+				"pe_rel": -0.36
+			}, {
+				"name": "17 Mar 17",
+				"pe_rel": -0.361
+			}, {
+				"name": "24 Mar 17",
+				"pe_rel": -0.357
+			}, {
+				"name": "31 Mar 17",
+				"pe_rel": -0.335
+			}, {
+				"name": "7 Apr 17",
+				"pe_rel": -0.352
+			}, {
+				"name": "14 Apr 17",
+				"pe_rel": -0.337
+			}, {
+				"name": "21 Apr 17",
+				"pe_rel": -0.323
+			}, {
+				"name": "28 Apr 17",
+				"pe_rel": -0.327
+			}, {
+				"name": "5 May 17",
+				"pe_rel": -0.32
+			}, {
+				"name": "12 May 17",
+				"pe_rel": -0.308
+			}, {
+				"name": "19 May 17",
+				"pe_rel": -0.316
+			}, {
+				"name": "26 May 17",
+				"pe_rel": -0.329
+			}, {
+				"name": "2 Jun 17",
+				"pe_rel": -0.331
+			}, {
+				"name": "9 Jun 17",
+				"pe_rel": -0.327
+			}, {
+				"name": "16 Jun 17",
+				"pe_rel": -0.36
+			}, {
+				"name": "23 Jun 17",
+				"pe_rel": -0.372
+			}, {
+				"name": "30 Jun 17",
+				"pe_rel": -0.364
+			}, {
+				"name": "7 Jul 17",
+				"pe_rel": -0.369
+			}, {
+				"name": "14 Jul 17",
+				"pe_rel": -0.367
+			}, {
+				"name": "21 Jul 17",
+				"pe_rel": -0.348
+			}, {
+				"name": "28 Jul 17",
+				"pe_rel": -0.366
+			}, {
+				"name": "4 Aug 17",
+				"pe_rel": -0.355
+			}, {
+				"name": "11 Aug 17",
+				"pe_rel": -0.345
+			}, {
+				"name": "18 Aug 17",
+				"pe_rel": -0.359
+			}, {
+				"name": "25 Aug 17",
+				"pe_rel": -0.352
+			}, {
+				"name": "1 Sep 17",
+				"pe_rel": -0.345
+			}, {
+				"name": "8 Sep 17",
+				"pe_rel": -0.366
+			}, {
+				"name": "15 Sep 17",
+				"pe_rel": -0.383
+			}, {
+				"name": "22 Sep 17",
+				"pe_rel": -0.389
+			}, {
+				"name": "29 Sep 17",
+				"pe_rel": -0.396
+			}, {
+				"name": "6 Oct 17",
+				"pe_rel": -0.382
+			}, {
+				"name": "13 Oct 17",
+				"pe_rel": -0.364
+			}, {
+				"name": "20 Oct 17",
+				"pe_rel": -0.376
+			}, {
+				"name": "27 Oct 17",
+				"pe_rel": -0.377
+			}, {
+				"name": "3 Nov 17",
+				"pe_rel": -0.367
+			}, {
+				"name": "10 Nov 17",
+				"pe_rel": -0.368
+			}, {
+				"name": "17 Nov 17",
+				"pe_rel": -0.382
+			}, {
+				"name": "24 Nov 17",
+				"pe_rel": -0.4
+			}, {
+				"name": "1 Dec 17",
+				"pe_rel": -0.422
+			}, {
+				"name": "8 Dec 17",
+				"pe_rel": -0.438
+			}, {
+				"name": "15 Dec 17",
+				"pe_rel": -0.414
+			}, {
+				"name": "22 Dec 17",
+				"pe_rel": -0.414
+			}, {
+				"name": "29 Dec 17",
+				"pe_rel": -0.405
+			}, {
+				"name": "5 Jan 18",
+				"pe_rel": -0.397
+			}, {
+				"name": "12 Jan 18",
+				"pe_rel": -0.433
+			}, {
+				"name": "19 Jan 18",
+				"pe_rel": -0.444
+			}, {
+				"name": "26 Jan 18",
+				"pe_rel": -0.456
+			}, {
+				"name": "2 Feb 18",
+				"pe_rel": -0.432
+			}, {
+				"name": "9 Feb 18",
+				"pe_rel": -0.436
+			}, {
+				"name": "16 Feb 18",
+				"pe_rel": -0.45
+			}, {
+				"name": "23 Feb 18",
+				"pe_rel": -0.428
+			}, {
+				"name": "2 Mar 18",
+				"pe_rel": -0.425
+			}, {
+				"name": "9 Mar 18",
+				"pe_rel": -0.43
+			}, {
+				"name": "16 Mar 18",
+				"pe_rel": -0.435
+			}, {
+				"name": "23 Mar 18",
+				"pe_rel": -0.446
+			}, {
+				"name": "30 Mar 18",
+				"pe_rel": -0.453
+			}, {
+				"name": "6 Apr 18",
+				"pe_rel": -0.447
+			}, {
+				"name": "13 Apr 18",
+				"pe_rel": -0.441
+			}, {
+				"name": "20 Apr 18",
+				"pe_rel": -0.434
+			}, {
+				"name": "27 Apr 18",
+				"pe_rel": -0.423
+			}, {
+				"name": "4 May 18",
+				"pe_rel": -0.418
+			}, {
+				"name": "11 May 18",
+				"pe_rel": -0.403
+			}, {
+				"name": "18 May 18",
+				"pe_rel": -0.397
+			}, {
+				"name": "25 May 18",
+				"pe_rel": -0.393
+			}],
+			"avg": -0.454,
+			"avg_plus": -0.402368166257569,
+			"avg_minus": -0.505884707305649
+		},
+		"pe_abs": {
+			"data": [{
+				"name": "12 Jun 15",
+				"pe": 8.242
+			}, {
+				"name": "19 Jun 15",
+				"pe": 8.086
+			}, {
+				"name": "26 Jun 15",
+				"pe": 8.216
+			}, {
+				"name": "3 Jul 15",
+				"pe": 8.022
+			}, {
+				"name": "10 Jul 15",
+				"pe": 8.259
+			}, {
+				"name": "17 Jul 15",
+				"pe": 8.58
+			}, {
+				"name": "24 Jul 15",
+				"pe": 8.579
+			}, {
+				"name": "31 Jul 15",
+				"pe": 8.493
+			}, {
+				"name": "7 Aug 15",
+				"pe": 8.2
+			}, {
+				"name": "14 Aug 15",
+				"pe": 8.153
+			}, {
+				"name": "21 Aug 15",
+				"pe": 7.472
+			}, {
+				"name": "28 Aug 15",
+				"pe": 7.541
+			}, {
+				"name": "4 Sep 15",
+				"pe": 7.573
+			}, {
+				"name": "11 Sep 15",
+				"pe": 7.616
+			}, {
+				"name": "18 Sep 15",
+				"pe": 7.491
+			}, {
+				"name": "25 Sep 15",
+				"pe": 7.746
+			}, {
+				"name": "2 Oct 15",
+				"pe": 7.576
+			}, {
+				"name": "9 Oct 15",
+				"pe": 7.709
+			}, {
+				"name": "16 Oct 15",
+				"pe": 7.67
+			}, {
+				"name": "23 Oct 15",
+				"pe": 8.096
+			}, {
+				"name": "30 Oct 15",
+				"pe": 8.059
+			}, {
+				"name": "6 Nov 15",
+				"pe": 8.01
+			}, {
+				"name": "13 Nov 15",
+				"pe": 7.645
+			}, {
+				"name": "20 Nov 15",
+				"pe": 8.14
+			}, {
+				"name": "27 Nov 15",
+				"pe": 8.179
+			}, {
+				"name": "4 Dec 15",
+				"pe": 8.189
+			}, {
+				"name": "11 Dec 15",
+				"pe": 7.961
+			}, {
+				"name": "18 Dec 15",
+				"pe": 8.009
+			}, {
+				"name": "25 Dec 15",
+				"pe": 8.221
+			}, {
+				"name": "1 Jan 16",
+				"pe": 8.237
+			}, {
+				"name": "8 Jan 16",
+				"pe": 7.662
+			}, {
+				"name": "15 Jan 16",
+				"pe": 7.376
+			}, {
+				"name": "22 Jan 16",
+				"pe": 7.413
+			}, {
+				"name": "29 Jan 16",
+				"pe": 7.882
+			}, {
+				"name": "5 Feb 16",
+				"pe": 7.473
+			}, {
+				"name": "12 Feb 16",
+				"pe": 7.165
+			}, {
+				"name": "19 Feb 16",
+				"pe": 7.49
+			}, {
+				"name": "26 Feb 16",
+				"pe": 7.787
+			}, {
+				"name": "4 Mar 16",
+				"pe": 8.1
+			}, {
+				"name": "11 Mar 16",
+				"pe": 7.927
+			}, {
+				"name": "18 Mar 16",
+				"pe": 7.606
+			}, {
+				"name": "25 Mar 16",
+				"pe": 7.63
+			}, {
+				"name": "1 Apr 16",
+				"pe": 7.63
+			}, {
+				"name": "8 Apr 16",
+				"pe": 7.579
+			}, {
+				"name": "15 Apr 16",
+				"pe": 8.032
+			}, {
+				"name": "22 Apr 16",
+				"pe": 7.968
+			}, {
+				"name": "29 Apr 16",
+				"pe": 7.9
+			}, {
+				"name": "6 May 16",
+				"pe": 7.518
+			}, {
+				"name": "13 May 16",
+				"pe": 7.889
+			}, {
+				"name": "20 May 16",
+				"pe": 8.235
+			}, {
+				"name": "27 May 16",
+				"pe": 8.635
+			}, {
+				"name": "3 Jun 16",
+				"pe": 8.519
+			}, {
+				"name": "10 Jun 16",
+				"pe": 8.413
+			}, {
+				"name": "17 Jun 16",
+				"pe": 8.112
+			}, {
+				"name": "24 Jun 16",
+				"pe": 7.969
+			}, {
+				"name": "1 Jul 16",
+				"pe": 8.515
+			}, {
+				"name": "8 Jul 16",
+				"pe": 8.348
+			}, {
+				"name": "15 Jul 16",
+				"pe": 8.432
+			}, {
+				"name": "22 Jul 16",
+				"pe": 8.565
+			}, {
+				"name": "29 Jul 16",
+				"pe": 7.983
+			}, {
+				"name": "5 Aug 16",
+				"pe": 8.044
+			}, {
+				"name": "12 Aug 16",
+				"pe": 7.754
+			}, {
+				"name": "19 Aug 16",
+				"pe": 7.647
+			}, {
+				"name": "26 Aug 16",
+				"pe": 7.564
+			}, {
+				"name": "2 Sep 16",
+				"pe": 7.552
+			}, {
+				"name": "9 Sep 16",
+				"pe": 7.393
+			}, {
+				"name": "16 Sep 16",
+				"pe": 7.495
+			}, {
+				"name": "23 Sep 16",
+				"pe": 7.693
+			}, {
+				"name": "30 Sep 16",
+				"pe": 7.796
+			}, {
+				"name": "7 Oct 16",
+				"pe": 8.13
+			}, {
+				"name": "14 Oct 16",
+				"pe": 7.953
+			}, {
+				"name": "21 Oct 16",
+				"pe": 8.041
+			}, {
+				"name": "28 Oct 16",
+				"pe": 8.13
+			}, {
+				"name": "4 Nov 16",
+				"pe": 7.601
+			}, {
+				"name": "11 Nov 16",
+				"pe": 7.347
+			}, {
+				"name": "18 Nov 16",
+				"pe": 7.57
+			}, {
+				"name": "25 Nov 16",
+				"pe": 7.913
+			}, {
+				"name": "2 Dec 16",
+				"pe": 7.632
+			}, {
+				"name": "9 Dec 16",
+				"pe": 7.974
+			}, {
+				"name": "16 Dec 16",
+				"pe": 7.907
+			}, {
+				"name": "23 Dec 16",
+				"pe": 8.139
+			}, {
+				"name": "30 Dec 16",
+				"pe": 8.34
+			}, {
+				"name": "6 Jan 17",
+				"pe": 8.671
+			}, {
+				"name": "13 Jan 17",
+				"pe": 8.593
+			}, {
+				"name": "20 Jan 17",
+				"pe": 8.499
+			}, {
+				"name": "27 Jan 17",
+				"pe": 8.491
+			}, {
+				"name": "3 Feb 17",
+				"pe": 8.612
+			}, {
+				"name": "10 Feb 17",
+				"pe": 8.973
+			}, {
+				"name": "17 Feb 17",
+				"pe": 9.165
+			}, {
+				"name": "24 Feb 17",
+				"pe": 8.872
+			}, {
+				"name": "3 Mar 17",
+				"pe": 9.187
+			}, {
+				"name": "10 Mar 17",
+				"pe": 9.58
+			}, {
+				"name": "17 Mar 17",
+				"pe": 9.679
+			}, {
+				"name": "24 Mar 17",
+				"pe": 9.685
+			}, {
+				"name": "31 Mar 17",
+				"pe": 10.089
+			}, {
+				"name": "7 Apr 17",
+				"pe": 9.792
+			}, {
+				"name": "14 Apr 17",
+				"pe": 9.982
+			}, {
+				"name": "21 Apr 17",
+				"pe": 10.024
+			}, {
+				"name": "28 Apr 17",
+				"pe": 10.252
+			}, {
+				"name": "5 May 17",
+				"pe": 10.545
+			}, {
+				"name": "12 May 17",
+				"pe": 10.721
+			}, {
+				"name": "19 May 17",
+				"pe": 10.538
+			}, {
+				"name": "26 May 17",
+				"pe": 10.333
+			}, {
+				"name": "2 Jun 17",
+				"pe": 10.372
+			}, {
+				"name": "9 Jun 17",
+				"pe": 10.371
+			}, {
+				"name": "16 Jun 17",
+				"pe": 9.803
+			}, {
+				"name": "23 Jun 17",
+				"pe": 9.571
+			}, {
+				"name": "30 Jun 17",
+				"pe": 9.504
+			}, {
+				"name": "7 Jul 17",
+				"pe": 9.458
+			}, {
+				"name": "14 Jul 17",
+				"pe": 9.66
+			}, {
+				"name": "21 Jul 17",
+				"pe": 9.829
+			}, {
+				"name": "28 Jul 17",
+				"pe": 9.521
+			}, {
+				"name": "4 Aug 17",
+				"pe": 9.796
+			}, {
+				"name": "11 Aug 17",
+				"pe": 9.68
+			}, {
+				"name": "18 Aug 17",
+				"pe": 9.497
+			}, {
+				"name": "25 Aug 17",
+				"pe": 9.613
+			}, {
+				"name": "1 Sep 17",
+				"pe": 9.754
+			}, {
+				"name": "8 Sep 17",
+				"pe": 9.424
+			}, {
+				"name": "15 Sep 17",
+				"pe": 9.236
+			}, {
+				"name": "22 Sep 17",
+				"pe": 9.176
+			}, {
+				"name": "29 Sep 17",
+				"pe": 9.144
+			}, {
+				"name": "6 Oct 17",
+				"pe": 9.382
+			}, {
+				"name": "13 Oct 17",
+				"pe": 9.701
+			}, {
+				"name": "20 Oct 17",
+				"pe": 9.488
+			}, {
+				"name": "27 Oct 17",
+				"pe": 9.506
+			}, {
+				"name": "3 Nov 17",
+				"pe": 9.73
+			}, {
+				"name": "10 Nov 17",
+				"pe": 9.517
+			}, {
+				"name": "17 Nov 17",
+				"pe": 9.222
+			}, {
+				"name": "24 Nov 17",
+				"pe": 9.012
+			}, {
+				"name": "1 Dec 17",
+				"pe": 8.585
+			}, {
+				"name": "8 Dec 17",
+				"pe": 8.439
+			}, {
+				"name": "15 Dec 17",
+				"pe": 8.751
+			}, {
+				"name": "22 Dec 17",
+				"pe": 8.798
+			}, {
+				"name": "29 Dec 17",
+				"pe": 8.921
+			}, {
+				"name": "5 Jan 18",
+				"pe": 9.223
+			}, {
+				"name": "12 Jan 18",
+				"pe": 8.677
+			}, {
+				"name": "19 Jan 18",
+				"pe": 8.528
+			}, {
+				"name": "26 Jan 18",
+				"pe": 8.317
+			}, {
+				"name": "2 Feb 18",
+				"pe": 8.406
+			}, {
+				"name": "9 Feb 18",
+				"pe": 7.88
+			}, {
+				"name": "16 Feb 18",
+				"pe": 7.969
+			}, {
+				"name": "23 Feb 18",
+				"pe": 8.27
+			}, {
+				"name": "2 Mar 18",
+				"pe": 8.014
+			}, {
+				"name": "9 Mar 18",
+				"pe": 8.178
+			}, {
+				"name": "16 Mar 18",
+				"pe": 8.062
+			}, {
+				"name": "23 Mar 18",
+				"pe": 7.673
+			}, {
+				"name": "30 Mar 18",
+				"pe": 7.666
+			}, {
+				"name": "6 Apr 18",
+				"pe": 7.825
+			}, {
+				"name": "13 Apr 18",
+				"pe": 7.985
+			}, {
+				"name": "20 Apr 18",
+				"pe": 8.153
+			}, {
+				"name": "27 Apr 18",
+				"pe": 8.355
+			}, {
+				"name": "4 May 18",
+				"pe": 8.452
+			}, {
+				"name": "11 May 18",
+				"pe": 8.757
+			}, {
+				"name": "18 May 18",
+				"pe": 8.84
+			}, {
+				"name": "25 May 18",
+				"pe": 8.802
+			}],
+			"avg": 7.95685384615385,
+			"avg_plus": 8.95776236481395,
+			"avg_minus": 6.95594532749375
+		},
+		"eps": {
+			"data": [{
+				"name": "12 Jun 15",
+				"eps_stock": 0.091,
+				"eps_rel": 0.068
+			}, {
+				"name": "19 Jun 15",
+				"eps_stock": 0.093,
+				"eps_rel": 0.074
+			}, {
+				"name": "26 Jun 15",
+				"eps_stock": 0.096,
+				"eps_rel": 0.079
+			}, {
+				"name": "3 Jul 15",
+				"eps_stock": 0.095,
+				"eps_rel": 0.075
+			}, {
+				"name": "10 Jul 15",
+				"eps_stock": 0.094,
+				"eps_rel": 0.071
+			}, {
+				"name": "17 Jul 15",
+				"eps_stock": 0.088,
+				"eps_rel": 0.064
+			}, {
+				"name": "24 Jul 15",
+				"eps_stock": 0.082,
+				"eps_rel": 0.06
+			}, {
+				"name": "31 Jul 15",
+				"eps_stock": 0.087,
+				"eps_rel": 0.064
+			}, {
+				"name": "7 Aug 15",
+				"eps_stock": 0.092,
+				"eps_rel": 0.066
+			}, {
+				"name": "14 Aug 15",
+				"eps_stock": 0.088,
+				"eps_rel": 0.065
+			}, {
+				"name": "21 Aug 15",
+				"eps_stock": 0.069,
+				"eps_rel": 0.049
+			}, {
+				"name": "28 Aug 15",
+				"eps_stock": 0.046,
+				"eps_rel": 0.034
+			}, {
+				"name": "4 Sep 15",
+				"eps_stock": 0.015,
+				"eps_rel": 0.008
+			}, {
+				"name": "11 Sep 15",
+				"eps_stock": -0.008,
+				"eps_rel": -0.009
+			}, {
+				"name": "18 Sep 15",
+				"eps_stock": -0.022,
+				"eps_rel": -0.02
+			}, {
+				"name": "25 Sep 15",
+				"eps_stock": -0.035,
+				"eps_rel": -0.029
+			}, {
+				"name": "2 Oct 15",
+				"eps_stock": -0.039,
+				"eps_rel": -0.026
+			}, {
+				"name": "9 Oct 15",
+				"eps_stock": -0.043,
+				"eps_rel": -0.025
+			}, {
+				"name": "16 Oct 15",
+				"eps_stock": -0.044,
+				"eps_rel": -0.02
+			}, {
+				"name": "23 Oct 15",
+				"eps_stock": -0.045,
+				"eps_rel": -0.021
+			}, {
+				"name": "30 Oct 15",
+				"eps_stock": -0.046,
+				"eps_rel": -0.022
+			}, {
+				"name": "6 Nov 15",
+				"eps_stock": -0.047,
+				"eps_rel": -0.023
+			}, {
+				"name": "13 Nov 15",
+				"eps_stock": -0.048,
+				"eps_rel": -0.028
+			}, {
+				"name": "20 Nov 15",
+				"eps_stock": -0.052,
+				"eps_rel": -0.033
+			}, {
+				"name": "27 Nov 15",
+				"eps_stock": -0.056,
+				"eps_rel": -0.039
+			}, {
+				"name": "4 Dec 15",
+				"eps_stock": -0.057,
+				"eps_rel": -0.04
+			}, {
+				"name": "11 Dec 15",
+				"eps_stock": -0.059,
+				"eps_rel": -0.043
+			}, {
+				"name": "18 Dec 15",
+				"eps_stock": -0.057,
+				"eps_rel": -0.04
+			}, {
+				"name": "25 Dec 15",
+				"eps_stock": -0.054,
+				"eps_rel": -0.036
+			}, {
+				"name": "1 Jan 16",
+				"eps_stock": -0.052,
+				"eps_rel": -0.035
+			}, {
+				"name": "8 Jan 16",
+				"eps_stock": -0.05,
+				"eps_rel": -0.034
+			}, {
+				"name": "15 Jan 16",
+				"eps_stock": -0.048,
+				"eps_rel": -0.03
+			}, {
+				"name": "22 Jan 16",
+				"eps_stock": -0.045,
+				"eps_rel": -0.022
+			}, {
+				"name": "29 Jan 16",
+				"eps_stock": -0.055,
+				"eps_rel": -0.025
+			}, {
+				"name": "5 Feb 16",
+				"eps_stock": -0.062,
+				"eps_rel": -0.021
+			}, {
+				"name": "12 Feb 16",
+				"eps_stock": -0.073,
+				"eps_rel": -0.022
+			}, {
+				"name": "19 Feb 16",
+				"eps_stock": -0.08,
+				"eps_rel": -0.023
+			}, {
+				"name": "26 Feb 16",
+				"eps_stock": -0.075,
+				"eps_rel": -0.012
+			}, {
+				"name": "4 Mar 16",
+				"eps_stock": -0.069,
+				"eps_rel": -0.004
+			}, {
+				"name": "11 Mar 16",
+				"eps_stock": -0.06,
+				"eps_rel": 0.003
+			}, {
+				"name": "18 Mar 16",
+				"eps_stock": -0.039,
+				"eps_rel": 0.026
+			}, {
+				"name": "25 Mar 16",
+				"eps_stock": -0.017,
+				"eps_rel": 0.046
+			}, {
+				"name": "1 Apr 16",
+				"eps_stock": 0.001,
+				"eps_rel": 0.066
+			}, {
+				"name": "8 Apr 16",
+				"eps_stock": 0.018,
+				"eps_rel": 0.085
+			}, {
+				"name": "15 Apr 16",
+				"eps_stock": 0.018,
+				"eps_rel": 0.082
+			}, {
+				"name": "22 Apr 16",
+				"eps_stock": 0.018,
+				"eps_rel": 0.077
+			}, {
+				"name": "29 Apr 16",
+				"eps_stock": 0.031,
+				"eps_rel": 0.082
+			}, {
+				"name": "6 May 16",
+				"eps_stock": 0.046,
+				"eps_rel": 0.085
+			}, {
+				"name": "13 May 16",
+				"eps_stock": 0.064,
+				"eps_rel": 0.092
+			}, {
+				"name": "20 May 16",
+				"eps_stock": 0.083,
+				"eps_rel": 0.102
+			}, {
+				"name": "27 May 16",
+				"eps_stock": 0.099,
+				"eps_rel": 0.109
+			}, {
+				"name": "3 Jun 16",
+				"eps_stock": 0.12,
+				"eps_rel": 0.126
+			}, {
+				"name": "10 Jun 16",
+				"eps_stock": 0.145,
+				"eps_rel": 0.147
+			}, {
+				"name": "17 Jun 16",
+				"eps_stock": 0.151,
+				"eps_rel": 0.15
+			}, {
+				"name": "24 Jun 16",
+				"eps_stock": 0.146,
+				"eps_rel": 0.143
+			}, {
+				"name": "1 Jul 16",
+				"eps_stock": 0.143,
+				"eps_rel": 0.138
+			}, {
+				"name": "8 Jul 16",
+				"eps_stock": 0.134,
+				"eps_rel": 0.129
+			}, {
+				"name": "15 Jul 16",
+				"eps_stock": 0.152,
+				"eps_rel": 0.15
+			}, {
+				"name": "22 Jul 16",
+				"eps_stock": 0.171,
+				"eps_rel": 0.17
+			}, {
+				"name": "29 Jul 16",
+				"eps_stock": 0.215,
+				"eps_rel": 0.214
+			}, {
+				"name": "5 Aug 16",
+				"eps_stock": 0.26,
+				"eps_rel": 0.259
+			}, {
+				"name": "12 Aug 16",
+				"eps_stock": 0.309,
+				"eps_rel": 0.308
+			}, {
+				"name": "19 Aug 16",
+				"eps_stock": 0.353,
+				"eps_rel": 0.356
+			}, {
+				"name": "26 Aug 16",
+				"eps_stock": 0.347,
+				"eps_rel": 0.351
+			}, {
+				"name": "2 Sep 16",
+				"eps_stock": 0.357,
+				"eps_rel": 0.361
+			}, {
+				"name": "9 Sep 16",
+				"eps_stock": 0.342,
+				"eps_rel": 0.345
+			}, {
+				"name": "16 Sep 16",
+				"eps_stock": 0.329,
+				"eps_rel": 0.328
+			}, {
+				"name": "23 Sep 16",
+				"eps_stock": 0.328,
+				"eps_rel": 0.323
+			}, {
+				"name": "30 Sep 16",
+				"eps_stock": 0.299,
+				"eps_rel": 0.287
+			}, {
+				"name": "7 Oct 16",
+				"eps_stock": 0.279,
+				"eps_rel": 0.264
+			}, {
+				"name": "14 Oct 16",
+				"eps_stock": 0.25,
+				"eps_rel": 0.23
+			}, {
+				"name": "21 Oct 16",
+				"eps_stock": 0.223,
+				"eps_rel": 0.198
+			}, {
+				"name": "28 Oct 16",
+				"eps_stock": 0.17,
+				"eps_rel": 0.145
+			}, {
+				"name": "4 Nov 16",
+				"eps_stock": 0.122,
+				"eps_rel": 0.098
+			}, {
+				"name": "11 Nov 16",
+				"eps_stock": 0.075,
+				"eps_rel": 0.048
+			}, {
+				"name": "18 Nov 16",
+				"eps_stock": 0.043,
+				"eps_rel": 0.01
+			}, {
+				"name": "25 Nov 16",
+				"eps_stock": 0.044,
+				"eps_rel": 0.005
+			}, {
+				"name": "2 Dec 16",
+				"eps_stock": 0.041,
+				"eps_rel": -0.004
+			}, {
+				"name": "9 Dec 16",
+				"eps_stock": 0.048,
+				"eps_rel": -0.001
+			}, {
+				"name": "16 Dec 16",
+				"eps_stock": 0.044,
+				"eps_rel": -0.007
+			}, {
+				"name": "23 Dec 16",
+				"eps_stock": 0.038,
+				"eps_rel": -0.014
+			}, {
+				"name": "30 Dec 16",
+				"eps_stock": 0.032,
+				"eps_rel": -0.022
+			}, {
+				"name": "6 Jan 17",
+				"eps_stock": 0.026,
+				"eps_rel": -0.029
+			}, {
+				"name": "13 Jan 17",
+				"eps_stock": 0.026,
+				"eps_rel": -0.028
+			}, {
+				"name": "20 Jan 17",
+				"eps_stock": 0.024,
+				"eps_rel": -0.029
+			}, {
+				"name": "27 Jan 17",
+				"eps_stock": 0.022,
+				"eps_rel": -0.031
+			}, {
+				"name": "3 Feb 17",
+				"eps_stock": 0.014,
+				"eps_rel": -0.039
+			}, {
+				"name": "10 Feb 17",
+				"eps_stock": -0.001,
+				"eps_rel": -0.052
+			}, {
+				"name": "17 Feb 17",
+				"eps_stock": -0.025,
+				"eps_rel": -0.072
+			}, {
+				"name": "24 Feb 17",
+				"eps_stock": -0.05,
+				"eps_rel": -0.093
+			}, {
+				"name": "3 Mar 17",
+				"eps_stock": -0.079,
+				"eps_rel": -0.115
+			}, {
+				"name": "10 Mar 17",
+				"eps_stock": -0.105,
+				"eps_rel": -0.136
+			}, {
+				"name": "17 Mar 17",
+				"eps_stock": -0.121,
+				"eps_rel": -0.147
+			}, {
+				"name": "24 Mar 17",
+				"eps_stock": -0.134,
+				"eps_rel": -0.157
+			}, {
+				"name": "31 Mar 17",
+				"eps_stock": -0.132,
+				"eps_rel": -0.152
+			}, {
+				"name": "7 Apr 17",
+				"eps_stock": -0.118,
+				"eps_rel": -0.14
+			}, {
+				"name": "14 Apr 17",
+				"eps_stock": -0.106,
+				"eps_rel": -0.13
+			}, {
+				"name": "21 Apr 17",
+				"eps_stock": -0.088,
+				"eps_rel": -0.116
+			}, {
+				"name": "28 Apr 17",
+				"eps_stock": -0.073,
+				"eps_rel": -0.103
+			}, {
+				"name": "5 May 17",
+				"eps_stock": -0.064,
+				"eps_rel": -0.094
+			}, {
+				"name": "12 May 17",
+				"eps_stock": -0.049,
+				"eps_rel": -0.078
+			}, {
+				"name": "19 May 17",
+				"eps_stock": -0.031,
+				"eps_rel": -0.056
+			}, {
+				"name": "26 May 17",
+				"eps_stock": 0.005,
+				"eps_rel": -0.02
+			}, {
+				"name": "2 Jun 17",
+				"eps_stock": 0.057,
+				"eps_rel": 0.035
+			}, {
+				"name": "9 Jun 17",
+				"eps_stock": 0.111,
+				"eps_rel": 0.091
+			}, {
+				"name": "16 Jun 17",
+				"eps_stock": 0.179,
+				"eps_rel": 0.16
+			}, {
+				"name": "23 Jun 17",
+				"eps_stock": 0.238,
+				"eps_rel": 0.219
+			}, {
+				"name": "30 Jun 17",
+				"eps_stock": 0.272,
+				"eps_rel": 0.253
+			}, {
+				"name": "7 Jul 17",
+				"eps_stock": 0.289,
+				"eps_rel": 0.272
+			}, {
+				"name": "14 Jul 17",
+				"eps_stock": 0.285,
+				"eps_rel": 0.274
+			}, {
+				"name": "21 Jul 17",
+				"eps_stock": 0.268,
+				"eps_rel": 0.267
+			}, {
+				"name": "28 Jul 17",
+				"eps_stock": 0.263,
+				"eps_rel": 0.267
+			}, {
+				"name": "4 Aug 17",
+				"eps_stock": 0.269,
+				"eps_rel": 0.278
+			}, {
+				"name": "11 Aug 17",
+				"eps_stock": 0.274,
+				"eps_rel": 0.288
+			}, {
+				"name": "18 Aug 17",
+				"eps_stock": 0.282,
+				"eps_rel": 0.295
+			}, {
+				"name": "25 Aug 17",
+				"eps_stock": 0.26,
+				"eps_rel": 0.271
+			}, {
+				"name": "1 Sep 17",
+				"eps_stock": 0.218,
+				"eps_rel": 0.227
+			}, {
+				"name": "8 Sep 17",
+				"eps_stock": 0.18,
+				"eps_rel": 0.186
+			}, {
+				"name": "15 Sep 17",
+				"eps_stock": 0.125,
+				"eps_rel": 0.128
+			}, {
+				"name": "22 Sep 17",
+				"eps_stock": 0.089,
+				"eps_rel": 0.089
+			}, {
+				"name": "29 Sep 17",
+				"eps_stock": 0.071,
+				"eps_rel": 0.068
+			}, {
+				"name": "6 Oct 17",
+				"eps_stock": 0.054,
+				"eps_rel": 0.047
+			}, {
+				"name": "13 Oct 17",
+				"eps_stock": 0.051,
+				"eps_rel": 0.042
+			}, {
+				"name": "20 Oct 17",
+				"eps_stock": 0.05,
+				"eps_rel": 0.037
+			}, {
+				"name": "27 Oct 17",
+				"eps_stock": 0.043,
+				"eps_rel": 0.027
+			}, {
+				"name": "3 Nov 17",
+				"eps_stock": 0.036,
+				"eps_rel": 0.017
+			}, {
+				"name": "10 Nov 17",
+				"eps_stock": 0.03,
+				"eps_rel": 0.007
+			}, {
+				"name": "17 Nov 17",
+				"eps_stock": 0.02,
+				"eps_rel": -0.003
+			}, {
+				"name": "24 Nov 17",
+				"eps_stock": 0.025,
+				"eps_rel": 0.003
+			}, {
+				"name": "1 Dec 17",
+				"eps_stock": 0.03,
+				"eps_rel": 0.009
+			}, {
+				"name": "8 Dec 17",
+				"eps_stock": 0.035,
+				"eps_rel": 0.013
+			}, {
+				"name": "15 Dec 17",
+				"eps_stock": 0.043,
+				"eps_rel": 0.02
+			}, {
+				"name": "22 Dec 17",
+				"eps_stock": 0.041,
+				"eps_rel": 0.019
+			}, {
+				"name": "29 Dec 17",
+				"eps_stock": 0.039,
+				"eps_rel": 0.019
+			}, {
+				"name": "5 Jan 18",
+				"eps_stock": 0.037,
+				"eps_rel": 0.021
+			}, {
+				"name": "12 Jan 18",
+				"eps_stock": 0.053,
+				"eps_rel": 0.037
+			}, {
+				"name": "19 Jan 18",
+				"eps_stock": 0.072,
+				"eps_rel": 0.056
+			}, {
+				"name": "26 Jan 18",
+				"eps_stock": 0.097,
+				"eps_rel": 0.08
+			}, {
+				"name": "2 Feb 18",
+				"eps_stock": 0.125,
+				"eps_rel": 0.106
+			}, {
+				"name": "9 Feb 18",
+				"eps_stock": 0.133,
+				"eps_rel": 0.112
+			}, {
+				"name": "16 Feb 18",
+				"eps_stock": 0.142,
+				"eps_rel": 0.121
+			}, {
+				"name": "23 Feb 18",
+				"eps_stock": 0.136,
+				"eps_rel": 0.113
+			}, {
+				"name": "2 Mar 18",
+				"eps_stock": 0.126,
+				"eps_rel": 0.102
+			}, {
+				"name": "9 Mar 18",
+				"eps_stock": 0.116,
+				"eps_rel": 0.094
+			}, {
+				"name": "16 Mar 18",
+				"eps_stock": 0.106,
+				"eps_rel": 0.085
+			}, {
+				"name": "23 Mar 18",
+				"eps_stock": 0.103,
+				"eps_rel": 0.085
+			}, {
+				"name": "30 Mar 18",
+				"eps_stock": 0.1,
+				"eps_rel": 0.081
+			}, {
+				"name": "6 Apr 18",
+				"eps_stock": 0.098,
+				"eps_rel": 0.078
+			}, {
+				"name": "13 Apr 18",
+				"eps_stock": 0.077,
+				"eps_rel": 0.057
+			}, {
+				"name": "20 Apr 18",
+				"eps_stock": 0.06,
+				"eps_rel": 0.041
+			}, {
+				"name": "27 Apr 18",
+				"eps_stock": 0.039,
+				"eps_rel": 0.023
+			}, {
+				"name": "4 May 18",
+				"eps_stock": 0.013,
+				"eps_rel": -0.003
+			}, {
+				"name": "11 May 18",
+				"eps_stock": 0.006,
+				"eps_rel": -0.008
+			}, {
+				"name": "18 May 18",
+				"eps_stock": -0.005,
+				"eps_rel": -0.022
+			}, {
+				"name": "25 May 18",
+				"eps_stock": -0.01,
+				"eps_rel": -0.029
+			}]
+		}
+	},
+	"a2a_im": {
+		"pe_rel": {
+			"data": [{
+				"name": "12 Jun 15",
+				"pe_rel": -0.128
+			}, {
+				"name": "19 Jun 15",
+				"pe_rel": -0.094
+			}, {
+				"name": "26 Jun 15",
+				"pe_rel": -0.082
+			}, {
+				"name": "3 Jul 15",
+				"pe_rel": -0.11
+			}, {
+				"name": "10 Jul 15",
+				"pe_rel": -0.071
+			}, {
+				"name": "17 Jul 15",
+				"pe_rel": -0.069
+			}, {
+				"name": "24 Jul 15",
+				"pe_rel": -0.06
+			}, {
+				"name": "31 Jul 15",
+				"pe_rel": -0.101
+			}, {
+				"name": "7 Aug 15",
+				"pe_rel": -0.094
+			}, {
+				"name": "14 Aug 15",
+				"pe_rel": -0.074
+			}, {
+				"name": "21 Aug 15",
+				"pe_rel": -0.064
+			}, {
+				"name": "28 Aug 15",
+				"pe_rel": -0.075
+			}, {
+				"name": "4 Sep 15",
+				"pe_rel": -0.061
+			}, {
+				"name": "11 Sep 15",
+				"pe_rel": -0.029
+			}, {
+				"name": "18 Sep 15",
+				"pe_rel": -0.053
+			}, {
+				"name": "25 Sep 15",
+				"pe_rel": -0.034
+			}, {
+				"name": "2 Oct 15",
+				"pe_rel": -0.004
+			}, {
+				"name": "9 Oct 15",
+				"pe_rel": -0.027
+			}, {
+				"name": "16 Oct 15",
+				"pe_rel": -0.003
+			}, {
+				"name": "23 Oct 15",
+				"pe_rel": -0.012
+			}, {
+				"name": "30 Oct 15",
+				"pe_rel": -0.018
+			}, {
+				"name": "6 Nov 15",
+				"pe_rel": -0.047
+			}, {
+				"name": "13 Nov 15",
+				"pe_rel": -0.072
+			}, {
+				"name": "20 Nov 15",
+				"pe_rel": -0.107
+			}, {
+				"name": "27 Nov 15",
+				"pe_rel": -0.1
+			}, {
+				"name": "4 Dec 15",
+				"pe_rel": -0.077
+			}, {
+				"name": "11 Dec 15",
+				"pe_rel": -0.088
+			}, {
+				"name": "18 Dec 15",
+				"pe_rel": -0.124
+			}, {
+				"name": "25 Dec 15",
+				"pe_rel": -0.161
+			}, {
+				"name": "1 Jan 16",
+				"pe_rel": -0.14
+			}, {
+				"name": "8 Jan 16",
+				"pe_rel": -0.086
+			}, {
+				"name": "15 Jan 16",
+				"pe_rel": -0.153
+			}, {
+				"name": "22 Jan 16",
+				"pe_rel": -0.191
+			}, {
+				"name": "29 Jan 16",
+				"pe_rel": -0.198
+			}, {
+				"name": "5 Feb 16",
+				"pe_rel": -0.224
+			}, {
+				"name": "12 Feb 16",
+				"pe_rel": -0.23
+			}, {
+				"name": "19 Feb 16",
+				"pe_rel": -0.231
+			}, {
+				"name": "26 Feb 16",
+				"pe_rel": -0.221
+			}, {
+				"name": "4 Mar 16",
+				"pe_rel": -0.231
+			}, {
+				"name": "11 Mar 16",
+				"pe_rel": -0.18
+			}, {
+				"name": "18 Mar 16",
+				"pe_rel": -0.198
+			}, {
+				"name": "25 Mar 16",
+				"pe_rel": -0.187
+			}, {
+				"name": "1 Apr 16",
+				"pe_rel": -0.192
+			}, {
+				"name": "8 Apr 16",
+				"pe_rel": -0.186
+			}, {
+				"name": "15 Apr 16",
+				"pe_rel": -0.244
+			}, {
+				"name": "22 Apr 16",
+				"pe_rel": -0.23
+			}, {
+				"name": "29 Apr 16",
+				"pe_rel": -0.199
+			}, {
+				"name": "6 May 16",
+				"pe_rel": -0.185
+			}, {
+				"name": "13 May 16",
+				"pe_rel": -0.191
+			}, {
+				"name": "20 May 16",
+				"pe_rel": -0.218
+			}, {
+				"name": "27 May 16",
+				"pe_rel": -0.222
+			}, {
+				"name": "3 Jun 16",
+				"pe_rel": -0.2
+			}, {
+				"name": "10 Jun 16",
+				"pe_rel": -0.196
+			}, {
+				"name": "17 Jun 16",
+				"pe_rel": -0.201
+			}, {
+				"name": "24 Jun 16",
+				"pe_rel": -0.246
+			}, {
+				"name": "1 Jul 16",
+				"pe_rel": -0.216
+			}, {
+				"name": "8 Jul 16",
+				"pe_rel": -0.206
+			}, {
+				"name": "15 Jul 16",
+				"pe_rel": -0.194
+			}, {
+				"name": "22 Jul 16",
+				"pe_rel": -0.185
+			}, {
+				"name": "29 Jul 16",
+				"pe_rel": -0.158
+			}, {
+				"name": "5 Aug 16",
+				"pe_rel": -0.165
+			}, {
+				"name": "12 Aug 16",
+				"pe_rel": -0.192
+			}, {
+				"name": "19 Aug 16",
+				"pe_rel": -0.22
+			}, {
+				"name": "26 Aug 16",
+				"pe_rel": -0.21
+			}, {
+				"name": "2 Sep 16",
+				"pe_rel": -0.215
+			}, {
+				"name": "9 Sep 16",
+				"pe_rel": -0.184
+			}, {
+				"name": "16 Sep 16",
+				"pe_rel": -0.184
+			}, {
+				"name": "23 Sep 16",
+				"pe_rel": -0.185
+			}, {
+				"name": "30 Sep 16",
+				"pe_rel": -0.157
+			}, {
+				"name": "7 Oct 16",
+				"pe_rel": -0.193
+			}, {
+				"name": "14 Oct 16",
+				"pe_rel": -0.161
+			}, {
+				"name": "21 Oct 16",
+				"pe_rel": -0.152
+			}, {
+				"name": "28 Oct 16",
+				"pe_rel": -0.154
+			}, {
+				"name": "4 Nov 16",
+				"pe_rel": -0.165
+			}, {
+				"name": "11 Nov 16",
+				"pe_rel": -0.2
+			}, {
+				"name": "18 Nov 16",
+				"pe_rel": -0.259
+			}, {
+				"name": "25 Nov 16",
+				"pe_rel": -0.243
+			}, {
+				"name": "2 Dec 16",
+				"pe_rel": -0.22
+			}, {
+				"name": "9 Dec 16",
+				"pe_rel": -0.195
+			}, {
+				"name": "16 Dec 16",
+				"pe_rel": -0.189
+			}, {
+				"name": "23 Dec 16",
+				"pe_rel": -0.17
+			}, {
+				"name": "30 Dec 16",
+				"pe_rel": -0.157
+			}, {
+				"name": "6 Jan 17",
+				"pe_rel": -0.151
+			}, {
+				"name": "13 Jan 17",
+				"pe_rel": -0.164
+			}, {
+				"name": "20 Jan 17",
+				"pe_rel": -0.143
+			}, {
+				"name": "27 Jan 17",
+				"pe_rel": -0.174
+			}, {
+				"name": "3 Feb 17",
+				"pe_rel": -0.167
+			}, {
+				"name": "10 Feb 17",
+				"pe_rel": -0.165
+			}, {
+				"name": "17 Feb 17",
+				"pe_rel": -0.196
+			}, {
+				"name": "24 Feb 17",
+				"pe_rel": -0.194
+			}, {
+				"name": "3 Mar 17",
+				"pe_rel": -0.173
+			}, {
+				"name": "10 Mar 17",
+				"pe_rel": -0.208
+			}, {
+				"name": "17 Mar 17",
+				"pe_rel": -0.211
+			}, {
+				"name": "24 Mar 17",
+				"pe_rel": -0.173
+			}, {
+				"name": "31 Mar 17",
+				"pe_rel": -0.172
+			}, {
+				"name": "7 Apr 17",
+				"pe_rel": -0.205
+			}, {
+				"name": "14 Apr 17",
+				"pe_rel": -0.225
+			}, {
+				"name": "21 Apr 17",
+				"pe_rel": -0.22
+			}, {
+				"name": "28 Apr 17",
+				"pe_rel": -0.226
+			}, {
+				"name": "5 May 17",
+				"pe_rel": -0.209
+			}, {
+				"name": "12 May 17",
+				"pe_rel": -0.177
+			}, {
+				"name": "19 May 17",
+				"pe_rel": -0.183
+			}, {
+				"name": "26 May 17",
+				"pe_rel": -0.163
+			}, {
+				"name": "2 Jun 17",
+				"pe_rel": -0.171
+			}, {
+				"name": "9 Jun 17",
+				"pe_rel": -0.157
+			}, {
+				"name": "16 Jun 17",
+				"pe_rel": -0.151
+			}, {
+				"name": "23 Jun 17",
+				"pe_rel": -0.123
+			}, {
+				"name": "30 Jun 17",
+				"pe_rel": -0.145
+			}, {
+				"name": "7 Jul 17",
+				"pe_rel": -0.159
+			}, {
+				"name": "14 Jul 17",
+				"pe_rel": -0.153
+			}, {
+				"name": "21 Jul 17",
+				"pe_rel": -0.168
+			}, {
+				"name": "28 Jul 17",
+				"pe_rel": -0.167
+			}, {
+				"name": "4 Aug 17",
+				"pe_rel": -0.157
+			}, {
+				"name": "11 Aug 17",
+				"pe_rel": -0.153
+			}, {
+				"name": "18 Aug 17",
+				"pe_rel": -0.131
+			}, {
+				"name": "25 Aug 17",
+				"pe_rel": -0.151
+			}, {
+				"name": "1 Sep 17",
+				"pe_rel": -0.132
+			}, {
+				"name": "8 Sep 17",
+				"pe_rel": -0.083
+			}, {
+				"name": "15 Sep 17",
+				"pe_rel": -0.094
+			}, {
+				"name": "22 Sep 17",
+				"pe_rel": -0.115
+			}, {
+				"name": "29 Sep 17",
+				"pe_rel": -0.123
+			}, {
+				"name": "6 Oct 17",
+				"pe_rel": -0.15
+			}, {
+				"name": "13 Oct 17",
+				"pe_rel": -0.137
+			}, {
+				"name": "20 Oct 17",
+				"pe_rel": -0.129
+			}, {
+				"name": "27 Oct 17",
+				"pe_rel": -0.133
+			}, {
+				"name": "3 Nov 17",
+				"pe_rel": -0.112
+			}, {
+				"name": "10 Nov 17",
+				"pe_rel": -0.117
+			}, {
+				"name": "17 Nov 17",
+				"pe_rel": -0.104
+			}, {
+				"name": "24 Nov 17",
+				"pe_rel": -0.135
+			}, {
+				"name": "1 Dec 17",
+				"pe_rel": -0.121
+			}, {
+				"name": "8 Dec 17",
+				"pe_rel": -0.094
+			}, {
+				"name": "15 Dec 17",
+				"pe_rel": -0.121
+			}, {
+				"name": "22 Dec 17",
+				"pe_rel": -0.143
+			}, {
+				"name": "29 Dec 17",
+				"pe_rel": -0.147
+			}, {
+				"name": "5 Jan 18",
+				"pe_rel": -0.135
+			}, {
+				"name": "12 Jan 18",
+				"pe_rel": -0.175
+			}, {
+				"name": "19 Jan 18",
+				"pe_rel": -0.143
+			}, {
+				"name": "26 Jan 18",
+				"pe_rel": -0.147
+			}, {
+				"name": "2 Feb 18",
+				"pe_rel": -0.148
+			}, {
+				"name": "9 Feb 18",
+				"pe_rel": -0.163
+			}, {
+				"name": "16 Feb 18",
+				"pe_rel": -0.181
+			}, {
+				"name": "23 Feb 18",
+				"pe_rel": -0.157
+			}, {
+				"name": "2 Mar 18",
+				"pe_rel": -0.147
+			}, {
+				"name": "9 Mar 18",
+				"pe_rel": -0.142
+			}, {
+				"name": "16 Mar 18",
+				"pe_rel": -0.134
+			}, {
+				"name": "23 Mar 18",
+				"pe_rel": -0.117
+			}, {
+				"name": "30 Mar 18",
+				"pe_rel": -0.105
+			}, {
+				"name": "6 Apr 18",
+				"pe_rel": -0.094
+			}, {
+				"name": "13 Apr 18",
+				"pe_rel": -0.096
+			}, {
+				"name": "20 Apr 18",
+				"pe_rel": -0.089
+			}, {
+				"name": "27 Apr 18",
+				"pe_rel": -0.071
+			}, {
+				"name": "4 May 18",
+				"pe_rel": -0.067
+			}, {
+				"name": "11 May 18",
+				"pe_rel": -0.123
+			}, {
+				"name": "18 May 18",
+				"pe_rel": -0.15
+			}, {
+				"name": "25 May 18",
+				"pe_rel": -0.127
+			}],
+			"avg": -0.148,
+			"avg_plus": -7.62772352974312E-02,
+			"avg_minus": -0.219753416043565
+		},
+		"pe_abs": {
+			"data": [{
+				"name": "12 Jun 15",
+				"pe": 13.605
+			}, {
+				"name": "19 Jun 15",
+				"pe": 13.96
+			}, {
+				"name": "26 Jun 15",
+				"pe": 14.468
+			}, {
+				"name": "3 Jul 15",
+				"pe": 13.517
+			}, {
+				"name": "10 Jul 15",
+				"pe": 14.347
+			}, {
+				"name": "17 Jul 15",
+				"pe": 14.856
+			}, {
+				"name": "24 Jul 15",
+				"pe": 14.707
+			}, {
+				"name": "31 Jul 15",
+				"pe": 14.109
+			}, {
+				"name": "7 Aug 15",
+				"pe": 14.236
+			}, {
+				"name": "14 Aug 15",
+				"pe": 14.208
+			}, {
+				"name": "21 Aug 15",
+				"pe": 13.465
+			}, {
+				"name": "28 Aug 15",
+				"pe": 13.383
+			}, {
+				"name": "4 Sep 15",
+				"pe": 13.247
+			}, {
+				"name": "11 Sep 15",
+				"pe": 13.893
+			}, {
+				"name": "18 Sep 15",
+				"pe": 13.541
+			}, {
+				"name": "25 Sep 15",
+				"pe": 13.621
+			}, {
+				"name": "2 Oct 15",
+				"pe": 14.05
+			}, {
+				"name": "9 Oct 15",
+				"pe": 14.364
+			}, {
+				"name": "16 Oct 15",
+				"pe": 14.735
+			}, {
+				"name": "23 Oct 15",
+				"pe": 15.094
+			}, {
+				"name": "30 Oct 15",
+				"pe": 14.939
+			}, {
+				"name": "6 Nov 15",
+				"pe": 14.639
+			}, {
+				"name": "13 Nov 15",
+				"pe": 13.892
+			}, {
+				"name": "20 Nov 15",
+				"pe": 13.79
+			}, {
+				"name": "27 Nov 15",
+				"pe": 13.975
+			}, {
+				"name": "4 Dec 15",
+				"pe": 13.946
+			}, {
+				"name": "11 Dec 15",
+				"pe": 13.291
+			}, {
+				"name": "18 Dec 15",
+				"pe": 12.987
+			}, {
+				"name": "25 Dec 15",
+				"pe": 12.661
+			}, {
+				"name": "1 Jan 16",
+				"pe": 12.951
+			}, {
+				"name": "8 Jan 16",
+				"pe": 12.891
+			}, {
+				"name": "15 Jan 16",
+				"pe": 11.701
+			}, {
+				"name": "22 Jan 16",
+				"pe": 11.504
+			}, {
+				"name": "29 Jan 16",
+				"pe": 11.638
+			}, {
+				"name": "5 Feb 16",
+				"pe": 10.877
+			}, {
+				"name": "12 Feb 16",
+				"pe": 10.437
+			}, {
+				"name": "19 Feb 16",
+				"pe": 10.836
+			}, {
+				"name": "26 Feb 16",
+				"pe": 11.211
+			}, {
+				"name": "4 Mar 16",
+				"pe": 11.399
+			}, {
+				"name": "11 Mar 16",
+				"pe": 12.244
+			}, {
+				"name": "18 Mar 16",
+				"pe": 11.973
+			}, {
+				"name": "25 Mar 16",
+				"pe": 11.927
+			}, {
+				"name": "1 Apr 16",
+				"pe": 11.836
+			}, {
+				"name": "8 Apr 16",
+				"pe": 11.926
+			}, {
+				"name": "15 Apr 16",
+				"pe": 11.389
+			}, {
+				"name": "22 Apr 16",
+				"pe": 11.776
+			}, {
+				"name": "29 Apr 16",
+				"pe": 11.988
+			}, {
+				"name": "6 May 16",
+				"pe": 11.873
+			}, {
+				"name": "13 May 16",
+				"pe": 11.844
+			}, {
+				"name": "20 May 16",
+				"pe": 11.508
+			}, {
+				"name": "27 May 16",
+				"pe": 11.803
+			}, {
+				"name": "3 Jun 16",
+				"pe": 11.889
+			}, {
+				"name": "10 Jun 16",
+				"pe": 11.652
+			}, {
+				"name": "17 Jun 16",
+				"pe": 11.319
+			}, {
+				"name": "24 Jun 16",
+				"pe": 10.554
+			}, {
+				"name": "1 Jul 16",
+				"pe": 11.469
+			}, {
+				"name": "8 Jul 16",
+				"pe": 11.44
+			}, {
+				"name": "15 Jul 16",
+				"pe": 11.968
+			}, {
+				"name": "22 Jul 16",
+				"pe": 12.154
+			}, {
+				"name": "29 Jul 16",
+				"pe": 12.619
+			}, {
+				"name": "5 Aug 16",
+				"pe": 12.468
+			}, {
+				"name": "12 Aug 16",
+				"pe": 12.243
+			}, {
+				"name": "19 Aug 16",
+				"pe": 11.646
+			}, {
+				"name": "26 Aug 16",
+				"pe": 11.867
+			}, {
+				"name": "2 Sep 16",
+				"pe": 11.962
+			}, {
+				"name": "9 Sep 16",
+				"pe": 12.214
+			}, {
+				"name": "16 Sep 16",
+				"pe": 11.919
+			}, {
+				"name": "23 Sep 16",
+				"pe": 12.17
+			}, {
+				"name": "30 Sep 16",
+				"pe": 12.477
+			}, {
+				"name": "7 Oct 16",
+				"pe": 11.826
+			}, {
+				"name": "14 Oct 16",
+				"pe": 12.288
+			}, {
+				"name": "21 Oct 16",
+				"pe": 12.5
+			}, {
+				"name": "28 Oct 16",
+				"pe": 12.334
+			}, {
+				"name": "4 Nov 16",
+				"pe": 11.757
+			}, {
+				"name": "11 Nov 16",
+				"pe": 11.414
+			}, {
+				"name": "18 Nov 16",
+				"pe": 10.521
+			}, {
+				"name": "25 Nov 16",
+				"pe": 10.796
+			}, {
+				"name": "2 Dec 16",
+				"pe": 10.993
+			}, {
+				"name": "9 Dec 16",
+				"pe": 11.797
+			}, {
+				"name": "16 Dec 16",
+				"pe": 11.957
+			}, {
+				"name": "23 Dec 16",
+				"pe": 12.218
+			}, {
+				"name": "30 Dec 16",
+				"pe": 12.441
+			}, {
+				"name": "6 Jan 17",
+				"pe": 12.68
+			}, {
+				"name": "13 Jan 17",
+				"pe": 12.508
+			}, {
+				"name": "20 Jan 17",
+				"pe": 12.647
+			}, {
+				"name": "27 Jan 17",
+				"pe": 12.243
+			}, {
+				"name": "3 Feb 17",
+				"pe": 12.276
+			}, {
+				"name": "10 Feb 17",
+				"pe": 12.368
+			}, {
+				"name": "17 Feb 17",
+				"pe": 11.975
+			}, {
+				"name": "24 Feb 17",
+				"pe": 11.956
+			}, {
+				"name": "3 Mar 17",
+				"pe": 12.421
+			}, {
+				"name": "10 Mar 17",
+				"pe": 11.858
+			}, {
+				"name": "17 Mar 17",
+				"pe": 11.958
+			}, {
+				"name": "24 Mar 17",
+				"pe": 12.452
+			}, {
+				"name": "31 Mar 17",
+				"pe": 12.567
+			}, {
+				"name": "7 Apr 17",
+				"pe": 12.019
+			}, {
+				"name": "14 Apr 17",
+				"pe": 11.673
+			}, {
+				"name": "21 Apr 17",
+				"pe": 11.544
+			}, {
+				"name": "28 Apr 17",
+				"pe": 11.799
+			}, {
+				"name": "5 May 17",
+				"pe": 12.27
+			}, {
+				"name": "12 May 17",
+				"pe": 12.752
+			}, {
+				"name": "19 May 17",
+				"pe": 12.59
+			}, {
+				"name": "26 May 17",
+				"pe": 12.898
+			}, {
+				"name": "2 Jun 17",
+				"pe": 12.857
+			}, {
+				"name": "9 Jun 17",
+				"pe": 12.99
+			}, {
+				"name": "16 Jun 17",
+				"pe": 13.001
+			}, {
+				"name": "23 Jun 17",
+				"pe": 13.355
+			}, {
+				"name": "30 Jun 17",
+				"pe": 12.781
+			}, {
+				"name": "7 Jul 17",
+				"pe": 12.612
+			}, {
+				"name": "14 Jul 17",
+				"pe": 12.917
+			}, {
+				"name": "21 Jul 17",
+				"pe": 12.54
+			}, {
+				"name": "28 Jul 17",
+				"pe": 12.522
+			}, {
+				"name": "4 Aug 17",
+				"pe": 12.813
+			}, {
+				"name": "11 Aug 17",
+				"pe": 12.513
+			}, {
+				"name": "18 Aug 17",
+				"pe": 12.876
+			}, {
+				"name": "25 Aug 17",
+				"pe": 12.581
+			}, {
+				"name": "1 Sep 17",
+				"pe": 12.926
+			}, {
+				"name": "8 Sep 17",
+				"pe": 13.63
+			}, {
+				"name": "15 Sep 17",
+				"pe": 13.576
+			}, {
+				"name": "22 Sep 17",
+				"pe": 13.297
+			}, {
+				"name": "29 Sep 17",
+				"pe": 13.275
+			}, {
+				"name": "6 Oct 17",
+				"pe": 12.896
+			}, {
+				"name": "13 Oct 17",
+				"pe": 13.166
+			}, {
+				"name": "20 Oct 17",
+				"pe": 13.244
+			}, {
+				"name": "27 Oct 17",
+				"pe": 13.23
+			}, {
+				"name": "3 Nov 17",
+				"pe": 13.637
+			}, {
+				"name": "10 Nov 17",
+				"pe": 13.295
+			}, {
+				"name": "17 Nov 17",
+				"pe": 13.372
+			}, {
+				"name": "24 Nov 17",
+				"pe": 13.003
+			}, {
+				"name": "1 Dec 17",
+				"pe": 13.066
+			}, {
+				"name": "8 Dec 17",
+				"pe": 13.587
+			}, {
+				"name": "15 Dec 17",
+				"pe": 13.124
+			}, {
+				"name": "22 Dec 17",
+				"pe": 12.878
+			}, {
+				"name": "29 Dec 17",
+				"pe": 12.795
+			}, {
+				"name": "5 Jan 18",
+				"pe": 13.218
+			}, {
+				"name": "12 Jan 18",
+				"pe": 12.629
+			}, {
+				"name": "19 Jan 18",
+				"pe": 13.144
+			}, {
+				"name": "26 Jan 18",
+				"pe": 13.044
+			}, {
+				"name": "2 Feb 18",
+				"pe": 12.613
+			}, {
+				"name": "9 Feb 18",
+				"pe": 11.696
+			}, {
+				"name": "16 Feb 18",
+				"pe": 11.862
+			}, {
+				"name": "23 Feb 18",
+				"pe": 12.189
+			}, {
+				"name": "2 Mar 18",
+				"pe": 11.89
+			}, {
+				"name": "9 Mar 18",
+				"pe": 12.317
+			}, {
+				"name": "16 Mar 18",
+				"pe": 12.362
+			}, {
+				"name": "23 Mar 18",
+				"pe": 12.223
+			}, {
+				"name": "30 Mar 18",
+				"pe": 12.546
+			}, {
+				"name": "6 Apr 18",
+				"pe": 12.807
+			}, {
+				"name": "13 Apr 18",
+				"pe": 12.926
+			}, {
+				"name": "20 Apr 18",
+				"pe": 13.121
+			}, {
+				"name": "27 Apr 18",
+				"pe": 13.452
+			}, {
+				"name": "4 May 18",
+				"pe": 13.555
+			}, {
+				"name": "11 May 18",
+				"pe": 12.873
+			}, {
+				"name": "18 May 18",
+				"pe": 12.456
+			}, {
+				"name": "25 May 18",
+				"pe": 12.659
+			}],
+			"avg": 12.4034230769231,
+			"avg_plus": 13.6557522604931,
+			"avg_minus": 11.151093893353
+		},
+		"eps": {
+			"data": [{
+				"name": "12 Jun 15",
+				"eps_stock": 0.098,
+				"eps_rel": 0.074
+			}, {
+				"name": "19 Jun 15",
+				"eps_stock": 0.094,
+				"eps_rel": 0.075
+			}, {
+				"name": "26 Jun 15",
+				"eps_stock": 0.089,
+				"eps_rel": 0.072
+			}, {
+				"name": "3 Jul 15",
+				"eps_stock": 0.085,
+				"eps_rel": 0.065
+			}, {
+				"name": "10 Jul 15",
+				"eps_stock": 0.093,
+				"eps_rel": 0.071
+			}, {
+				"name": "17 Jul 15",
+				"eps_stock": 0.084,
+				"eps_rel": 0.06
+			}, {
+				"name": "24 Jul 15",
+				"eps_stock": 0.072,
+				"eps_rel": 0.05
+			}, {
+				"name": "31 Jul 15",
+				"eps_stock": 0.075,
+				"eps_rel": 0.052
+			}, {
+				"name": "7 Aug 15",
+				"eps_stock": 0.078,
+				"eps_rel": 0.053
+			}, {
+				"name": "14 Aug 15",
+				"eps_stock": 0.097,
+				"eps_rel": 0.073
+			}, {
+				"name": "21 Aug 15",
+				"eps_stock": 0.107,
+				"eps_rel": 0.086
+			}, {
+				"name": "28 Aug 15",
+				"eps_stock": 0.099,
+				"eps_rel": 0.086
+			}, {
+				"name": "4 Sep 15",
+				"eps_stock": 0.087,
+				"eps_rel": 0.079
+			}, {
+				"name": "11 Sep 15",
+				"eps_stock": 0.075,
+				"eps_rel": 0.074
+			}, {
+				"name": "18 Sep 15",
+				"eps_stock": 0.071,
+				"eps_rel": 0.073
+			}, {
+				"name": "25 Sep 15",
+				"eps_stock": 0.068,
+				"eps_rel": 0.074
+			}, {
+				"name": "2 Oct 15",
+				"eps_stock": 0.064,
+				"eps_rel": 0.078
+			}, {
+				"name": "9 Oct 15",
+				"eps_stock": 0.06,
+				"eps_rel": 0.079
+			}, {
+				"name": "16 Oct 15",
+				"eps_stock": 0.06,
+				"eps_rel": 0.086
+			}, {
+				"name": "23 Oct 15",
+				"eps_stock": 0.064,
+				"eps_rel": 0.091
+			}, {
+				"name": "30 Oct 15",
+				"eps_stock": 0.053,
+				"eps_rel": 0.08
+			}, {
+				"name": "6 Nov 15",
+				"eps_stock": 0.038,
+				"eps_rel": 0.065
+			}, {
+				"name": "13 Nov 15",
+				"eps_stock": 0.037,
+				"eps_rel": 0.059
+			}, {
+				"name": "20 Nov 15",
+				"eps_stock": 0.05,
+				"eps_rel": 0.071
+			}, {
+				"name": "27 Nov 15",
+				"eps_stock": 0.077,
+				"eps_rel": 0.097
+			}, {
+				"name": "4 Dec 15",
+				"eps_stock": 0.113,
+				"eps_rel": 0.133
+			}, {
+				"name": "11 Dec 15",
+				"eps_stock": 0.137,
+				"eps_rel": 0.157
+			}, {
+				"name": "18 Dec 15",
+				"eps_stock": 0.15,
+				"eps_rel": 0.171
+			}, {
+				"name": "25 Dec 15",
+				"eps_stock": 0.16,
+				"eps_rel": 0.182
+			}, {
+				"name": "1 Jan 16",
+				"eps_stock": 0.163,
+				"eps_rel": 0.184
+			}, {
+				"name": "8 Jan 16",
+				"eps_stock": 0.16,
+				"eps_rel": 0.18
+			}, {
+				"name": "15 Jan 16",
+				"eps_stock": 0.153,
+				"eps_rel": 0.175
+			}, {
+				"name": "22 Jan 16",
+				"eps_stock": 0.143,
+				"eps_rel": 0.171
+			}, {
+				"name": "29 Jan 16",
+				"eps_stock": 0.137,
+				"eps_rel": 0.173
+			}, {
+				"name": "5 Feb 16",
+				"eps_stock": 0.133,
+				"eps_rel": 0.183
+			}, {
+				"name": "12 Feb 16",
+				"eps_stock": 0.111,
+				"eps_rel": 0.172
+			}, {
+				"name": "19 Feb 16",
+				"eps_stock": 0.08,
+				"eps_rel": 0.146
+			}, {
+				"name": "26 Feb 16",
+				"eps_stock": 0.046,
+				"eps_rel": 0.118
+			}, {
+				"name": "4 Mar 16",
+				"eps_stock": 0.009,
+				"eps_rel": 0.079
+			}, {
+				"name": "11 Mar 16",
+				"eps_stock": -0.015,
+				"eps_rel": 0.051
+			}, {
+				"name": "18 Mar 16",
+				"eps_stock": -0.026,
+				"eps_rel": 0.039
+			}, {
+				"name": "25 Mar 16",
+				"eps_stock": -0.037,
+				"eps_rel": 0.024
+			}, {
+				"name": "1 Apr 16",
+				"eps_stock": -0.037,
+				"eps_rel": 0.026
+			}, {
+				"name": "8 Apr 16",
+				"eps_stock": -0.017,
+				"eps_rel": 0.048
+			}, {
+				"name": "15 Apr 16",
+				"eps_stock": 0.014,
+				"eps_rel": 0.078
+			}, {
+				"name": "22 Apr 16",
+				"eps_stock": 0.055,
+				"eps_rel": 0.116
+			}, {
+				"name": "29 Apr 16",
+				"eps_stock": 0.085,
+				"eps_rel": 0.139
+			}, {
+				"name": "6 May 16",
+				"eps_stock": 0.097,
+				"eps_rel": 0.138
+			}, {
+				"name": "13 May 16",
+				"eps_stock": 0.1,
+				"eps_rel": 0.129
+			}, {
+				"name": "20 May 16",
+				"eps_stock": 0.1,
+				"eps_rel": 0.119
+			}, {
+				"name": "27 May 16",
+				"eps_stock": 0.109,
+				"eps_rel": 0.119
+			}, {
+				"name": "3 Jun 16",
+				"eps_stock": 0.119,
+				"eps_rel": 0.125
+			}, {
+				"name": "10 Jun 16",
+				"eps_stock": 0.128,
+				"eps_rel": 0.13
+			}, {
+				"name": "17 Jun 16",
+				"eps_stock": 0.128,
+				"eps_rel": 0.127
+			}, {
+				"name": "24 Jun 16",
+				"eps_stock": 0.134,
+				"eps_rel": 0.131
+			}, {
+				"name": "1 Jul 16",
+				"eps_stock": 0.134,
+				"eps_rel": 0.129
+			}, {
+				"name": "8 Jul 16",
+				"eps_stock": 0.114,
+				"eps_rel": 0.11
+			}, {
+				"name": "15 Jul 16",
+				"eps_stock": 0.085,
+				"eps_rel": 0.083
+			}, {
+				"name": "22 Jul 16",
+				"eps_stock": 0.047,
+				"eps_rel": 0.046
+			}, {
+				"name": "29 Jul 16",
+				"eps_stock": 0.019,
+				"eps_rel": 0.018
+			}, {
+				"name": "5 Aug 16",
+				"eps_stock": 0.008,
+				"eps_rel": 0.007
+			}, {
+				"name": "12 Aug 16",
+				"eps_stock": 0.013,
+				"eps_rel": 0.012
+			}, {
+				"name": "19 Aug 16",
+				"eps_stock": 0.016,
+				"eps_rel": 0.018
+			}, {
+				"name": "26 Aug 16",
+				"eps_stock": 0.013,
+				"eps_rel": 0.016
+			}, {
+				"name": "2 Sep 16",
+				"eps_stock": 0.011,
+				"eps_rel": 0.014
+			}, {
+				"name": "9 Sep 16",
+				"eps_stock": 0.005,
+				"eps_rel": 0.007
+			}, {
+				"name": "16 Sep 16",
+				"eps_stock": 0.005,
+				"eps_rel": 0.004
+			}, {
+				"name": "23 Sep 16",
+				"eps_stock": 0.003,
+				"eps_rel": -0.001
+			}, {
+				"name": "30 Sep 16",
+				"eps_stock": -0.003,
+				"eps_rel": -0.012
+			}, {
+				"name": "7 Oct 16",
+				"eps_stock": -0.003,
+				"eps_rel": -0.015
+			}, {
+				"name": "14 Oct 16",
+				"eps_stock": -0.005,
+				"eps_rel": -0.021
+			}, {
+				"name": "21 Oct 16",
+				"eps_stock": -0.003,
+				"eps_rel": -0.024
+			}, {
+				"name": "28 Oct 16",
+				"eps_stock": 0,
+				"eps_rel": -0.022
+			}, {
+				"name": "4 Nov 16",
+				"eps_stock": -0.005,
+				"eps_rel": -0.026
+			}, {
+				"name": "11 Nov 16",
+				"eps_stock": -0.013,
+				"eps_rel": -0.038
+			}, {
+				"name": "18 Nov 16",
+				"eps_stock": -0.013,
+				"eps_rel": -0.045
+			}, {
+				"name": "25 Nov 16",
+				"eps_stock": -0.011,
+				"eps_rel": -0.048
+			}, {
+				"name": "2 Dec 16",
+				"eps_stock": -0.01,
+				"eps_rel": -0.053
+			}, {
+				"name": "9 Dec 16",
+				"eps_stock": -0.01,
+				"eps_rel": -0.056
+			}, {
+				"name": "16 Dec 16",
+				"eps_stock": -0.016,
+				"eps_rel": -0.064
+			}, {
+				"name": "23 Dec 16",
+				"eps_stock": -0.024,
+				"eps_rel": -0.073
+			}, {
+				"name": "30 Dec 16",
+				"eps_stock": -0.026,
+				"eps_rel": -0.077
+			}, {
+				"name": "6 Jan 17",
+				"eps_stock": -0.029,
+				"eps_rel": -0.081
+			}, {
+				"name": "13 Jan 17",
+				"eps_stock": -0.018,
+				"eps_rel": -0.07
+			}, {
+				"name": "20 Jan 17",
+				"eps_stock": -0.005,
+				"eps_rel": -0.057
+			}, {
+				"name": "27 Jan 17",
+				"eps_stock": 0.008,
+				"eps_rel": -0.045
+			}, {
+				"name": "3 Feb 17",
+				"eps_stock": 0.027,
+				"eps_rel": -0.027
+			}, {
+				"name": "10 Feb 17",
+				"eps_stock": 0.035,
+				"eps_rel": -0.018
+			}, {
+				"name": "17 Feb 17",
+				"eps_stock": 0.04,
+				"eps_rel": -0.01
+			}, {
+				"name": "24 Feb 17",
+				"eps_stock": 0.043,
+				"eps_rel": -0.004
+			}, {
+				"name": "3 Mar 17",
+				"eps_stock": 0.05,
+				"eps_rel": 0.009
+			}, {
+				"name": "10 Mar 17",
+				"eps_stock": 0.064,
+				"eps_rel": 0.027
+			}, {
+				"name": "17 Mar 17",
+				"eps_stock": 0.085,
+				"eps_rel": 0.052
+			}, {
+				"name": "24 Mar 17",
+				"eps_stock": 0.11,
+				"eps_rel": 0.081
+			}, {
+				"name": "31 Mar 17",
+				"eps_stock": 0.13,
+				"eps_rel": 0.104
+			}, {
+				"name": "7 Apr 17",
+				"eps_stock": 0.144,
+				"eps_rel": 0.116
+			}, {
+				"name": "14 Apr 17",
+				"eps_stock": 0.142,
+				"eps_rel": 0.111
+			}, {
+				"name": "21 Apr 17",
+				"eps_stock": 0.138,
+				"eps_rel": 0.103
+			}, {
+				"name": "28 Apr 17",
+				"eps_stock": 0.134,
+				"eps_rel": 0.098
+			}, {
+				"name": "5 May 17",
+				"eps_stock": 0.125,
+				"eps_rel": 0.089
+			}, {
+				"name": "12 May 17",
+				"eps_stock": 0.122,
+				"eps_rel": 0.087
+			}, {
+				"name": "19 May 17",
+				"eps_stock": 0.116,
+				"eps_rel": 0.087
+			}, {
+				"name": "26 May 17",
+				"eps_stock": 0.115,
+				"eps_rel": 0.088
+			}, {
+				"name": "2 Jun 17",
+				"eps_stock": 0.111,
+				"eps_rel": 0.088
+			}, {
+				"name": "9 Jun 17",
+				"eps_stock": 0.102,
+				"eps_rel": 0.083
+			}, {
+				"name": "16 Jun 17",
+				"eps_stock": 0.091,
+				"eps_rel": 0.074
+			}, {
+				"name": "23 Jun 17",
+				"eps_stock": 0.07,
+				"eps_rel": 0.053
+			}, {
+				"name": "30 Jun 17",
+				"eps_stock": 0.055,
+				"eps_rel": 0.039
+			}, {
+				"name": "7 Jul 17",
+				"eps_stock": 0.043,
+				"eps_rel": 0.03
+			}, {
+				"name": "14 Jul 17",
+				"eps_stock": 0.033,
+				"eps_rel": 0.024
+			}, {
+				"name": "21 Jul 17",
+				"eps_stock": 0.026,
+				"eps_rel": 0.025
+			}, {
+				"name": "28 Jul 17",
+				"eps_stock": 0.016,
+				"eps_rel": 0.019
+			}, {
+				"name": "4 Aug 17",
+				"eps_stock": 0.007,
+				"eps_rel": 0.014
+			}, {
+				"name": "11 Aug 17",
+				"eps_stock": -0.002,
+				"eps_rel": 0.009
+			}, {
+				"name": "18 Aug 17",
+				"eps_stock": -0.009,
+				"eps_rel": 0.001
+			}, {
+				"name": "25 Aug 17",
+				"eps_stock": -0.021,
+				"eps_rel": -0.012
+			}, {
+				"name": "1 Sep 17",
+				"eps_stock": -0.027,
+				"eps_rel": -0.02
+			}, {
+				"name": "8 Sep 17",
+				"eps_stock": -0.038,
+				"eps_rel": -0.033
+			}, {
+				"name": "15 Sep 17",
+				"eps_stock": -0.05,
+				"eps_rel": -0.047
+			}, {
+				"name": "22 Sep 17",
+				"eps_stock": -0.048,
+				"eps_rel": -0.048
+			}, {
+				"name": "29 Sep 17",
+				"eps_stock": -0.048,
+				"eps_rel": -0.051
+			}, {
+				"name": "6 Oct 17",
+				"eps_stock": -0.043,
+				"eps_rel": -0.05
+			}, {
+				"name": "13 Oct 17",
+				"eps_stock": -0.039,
+				"eps_rel": -0.048
+			}, {
+				"name": "20 Oct 17",
+				"eps_stock": -0.041,
+				"eps_rel": -0.053
+			}, {
+				"name": "27 Oct 17",
+				"eps_stock": -0.041,
+				"eps_rel": -0.056
+			}, {
+				"name": "3 Nov 17",
+				"eps_stock": -0.034,
+				"eps_rel": -0.052
+			}, {
+				"name": "10 Nov 17",
+				"eps_stock": -0.028,
+				"eps_rel": -0.05
+			}, {
+				"name": "17 Nov 17",
+				"eps_stock": -0.012,
+				"eps_rel": -0.034
+			}, {
+				"name": "24 Nov 17",
+				"eps_stock": 0.016,
+				"eps_rel": -0.006
+			}, {
+				"name": "1 Dec 17",
+				"eps_stock": 0.04,
+				"eps_rel": 0.019
+			}, {
+				"name": "8 Dec 17",
+				"eps_stock": 0.073,
+				"eps_rel": 0.05
+			}, {
+				"name": "15 Dec 17",
+				"eps_stock": 0.095,
+				"eps_rel": 0.07
+			}, {
+				"name": "22 Dec 17",
+				"eps_stock": 0.1,
+				"eps_rel": 0.076
+			}, {
+				"name": "29 Dec 17",
+				"eps_stock": 0.105,
+				"eps_rel": 0.083
+			}, {
+				"name": "5 Jan 18",
+				"eps_stock": 0.102,
+				"eps_rel": 0.085
+			}, {
+				"name": "12 Jan 18",
+				"eps_stock": 0.1,
+				"eps_rel": 0.084
+			}, {
+				"name": "19 Jan 18",
+				"eps_stock": 0.102,
+				"eps_rel": 0.086
+			}, {
+				"name": "26 Jan 18",
+				"eps_stock": 0.105,
+				"eps_rel": 0.088
+			}, {
+				"name": "2 Feb 18",
+				"eps_stock": 0.105,
+				"eps_rel": 0.087
+			}, {
+				"name": "9 Feb 18",
+				"eps_stock": 0.105,
+				"eps_rel": 0.084
+			}, {
+				"name": "16 Feb 18",
+				"eps_stock": 0.092,
+				"eps_rel": 0.072
+			}, {
+				"name": "23 Feb 18",
+				"eps_stock": 0.067,
+				"eps_rel": 0.045
+			}, {
+				"name": "2 Mar 18",
+				"eps_stock": 0.043,
+				"eps_rel": 0.021
+			}, {
+				"name": "9 Mar 18",
+				"eps_stock": 0.015,
+				"eps_rel": -0.005
+			}, {
+				"name": "16 Mar 18",
+				"eps_stock": 0.002,
+				"eps_rel": -0.017
+			}, {
+				"name": "23 Mar 18",
+				"eps_stock": 0.004,
+				"eps_rel": -0.013
+			}, {
+				"name": "30 Mar 18",
+				"eps_stock": 0.009,
+				"eps_rel": -0.009
+			}, {
+				"name": "6 Apr 18",
+				"eps_stock": 0.017,
+				"eps_rel": -0.002
+			}, {
+				"name": "13 Apr 18",
+				"eps_stock": 0.024,
+				"eps_rel": 0.005
+			}, {
+				"name": "20 Apr 18",
+				"eps_stock": 0.026,
+				"eps_rel": 0.008
+			}, {
+				"name": "27 Apr 18",
+				"eps_stock": 0.026,
+				"eps_rel": 0.01
+			}, {
+				"name": "4 May 18",
+				"eps_stock": 0.026,
+				"eps_rel": 0.01
+			}, {
+				"name": "11 May 18",
+				"eps_stock": 0.028,
+				"eps_rel": 0.014
+			}, {
+				"name": "18 May 18",
+				"eps_stock": 0.028,
+				"eps_rel": 0.011
+			}, {
+				"name": "25 May 18",
+				"eps_stock": 0.028,
+				"eps_rel": 0.008
+			}]
+		}
+	},
+	"aalb_na": {
+		"pe_rel": {
+			"data": [{
+				"name": "12 Jun 15",
+				"pe_rel": -0.089
+			}, {
+				"name": "19 Jun 15",
+				"pe_rel": -0.093
+			}, {
+				"name": "26 Jun 15",
+				"pe_rel": -0.088
+			}, {
+				"name": "3 Jul 15",
+				"pe_rel": -0.044
+			}, {
+				"name": "10 Jul 15",
+				"pe_rel": -0.058
+			}, {
+				"name": "17 Jul 15",
+				"pe_rel": -0.066
+			}, {
+				"name": "24 Jul 15",
+				"pe_rel": -0.06
+			}, {
+				"name": "31 Jul 15",
+				"pe_rel": -0.051
+			}, {
+				"name": "7 Aug 15",
+				"pe_rel": -0.044
+			}, {
+				"name": "14 Aug 15",
+				"pe_rel": 0.003
+			}, {
+				"name": "21 Aug 15",
+				"pe_rel": -0.005
+			}, {
+				"name": "28 Aug 15",
+				"pe_rel": -0.009
+			}, {
+				"name": "4 Sep 15",
+				"pe_rel": -0.006
+			}, {
+				"name": "11 Sep 15",
+				"pe_rel": -0.024
+			}, {
+				"name": "18 Sep 15",
+				"pe_rel": -0.058
+			}, {
+				"name": "25 Sep 15",
+				"pe_rel": -0.078
+			}, {
+				"name": "2 Oct 15",
+				"pe_rel": -0.045
+			}, {
+				"name": "9 Oct 15",
+				"pe_rel": -0.004
+			}, {
+				"name": "16 Oct 15",
+				"pe_rel": -0.063
+			}, {
+				"name": "23 Oct 15",
+				"pe_rel": -0.033
+			}, {
+				"name": "30 Oct 15",
+				"pe_rel": -0.009
+			}, {
+				"name": "6 Nov 15",
+				"pe_rel": 0.008
+			}, {
+				"name": "13 Nov 15",
+				"pe_rel": 0.02
+			}, {
+				"name": "20 Nov 15",
+				"pe_rel": 0.037
+			}, {
+				"name": "27 Nov 15",
+				"pe_rel": 0.016
+			}, {
+				"name": "4 Dec 15",
+				"pe_rel": 0.039
+			}, {
+				"name": "11 Dec 15",
+				"pe_rel": 0.062
+			}, {
+				"name": "18 Dec 15",
+				"pe_rel": 0.047
+			}, {
+				"name": "25 Dec 15",
+				"pe_rel": 0.035
+			}, {
+				"name": "1 Jan 16",
+				"pe_rel": 0.056
+			}, {
+				"name": "8 Jan 16",
+				"pe_rel": 0.023
+			}, {
+				"name": "15 Jan 16",
+				"pe_rel": -0.017
+			}, {
+				"name": "22 Jan 16",
+				"pe_rel": -0.006
+			}, {
+				"name": "29 Jan 16",
+				"pe_rel": -0.009
+			}, {
+				"name": "5 Feb 16",
+				"pe_rel": -0.003
+			}, {
+				"name": "12 Feb 16",
+				"pe_rel": -0.03
+			}, {
+				"name": "19 Feb 16",
+				"pe_rel": 0
+			}, {
+				"name": "26 Feb 16",
+				"pe_rel": -0.024
+			}, {
+				"name": "4 Mar 16",
+				"pe_rel": -0.011
+			}, {
+				"name": "11 Mar 16",
+				"pe_rel": -0.03
+			}, {
+				"name": "18 Mar 16",
+				"pe_rel": 0.028
+			}, {
+				"name": "25 Mar 16",
+				"pe_rel": 0.04
+			}, {
+				"name": "1 Apr 16",
+				"pe_rel": 0.039
+			}, {
+				"name": "8 Apr 16",
+				"pe_rel": 0.026
+			}, {
+				"name": "15 Apr 16",
+				"pe_rel": 0.015
+			}, {
+				"name": "22 Apr 16",
+				"pe_rel": 0.007
+			}, {
+				"name": "29 Apr 16",
+				"pe_rel": 0.02
+			}, {
+				"name": "6 May 16",
+				"pe_rel": 0.056
+			}, {
+				"name": "13 May 16",
+				"pe_rel": 0.063
+			}, {
+				"name": "20 May 16",
+				"pe_rel": 0.074
+			}, {
+				"name": "27 May 16",
+				"pe_rel": 0.058
+			}, {
+				"name": "3 Jun 16",
+				"pe_rel": 0.073
+			}, {
+				"name": "10 Jun 16",
+				"pe_rel": 0.032
+			}, {
+				"name": "17 Jun 16",
+				"pe_rel": -0.01
+			}, {
+				"name": "24 Jun 16",
+				"pe_rel": -0.021
+			}, {
+				"name": "1 Jul 16",
+				"pe_rel": -0.069
+			}, {
+				"name": "8 Jul 16",
+				"pe_rel": -0.078
+			}, {
+				"name": "15 Jul 16",
+				"pe_rel": -0.054
+			}, {
+				"name": "22 Jul 16",
+				"pe_rel": -0.047
+			}, {
+				"name": "29 Jul 16",
+				"pe_rel": -0.014
+			}, {
+				"name": "5 Aug 16",
+				"pe_rel": -0.025
+			}, {
+				"name": "12 Aug 16",
+				"pe_rel": -0.036
+			}, {
+				"name": "19 Aug 16",
+				"pe_rel": -0.022
+			}, {
+				"name": "26 Aug 16",
+				"pe_rel": -0.024
+			}, {
+				"name": "2 Sep 16",
+				"pe_rel": -0.033
+			}, {
+				"name": "9 Sep 16",
+				"pe_rel": -0.025
+			}, {
+				"name": "16 Sep 16",
+				"pe_rel": -0.026
+			}, {
+				"name": "23 Sep 16",
+				"pe_rel": -0.009
+			}, {
+				"name": "30 Sep 16",
+				"pe_rel": -0.012
+			}, {
+				"name": "7 Oct 16",
+				"pe_rel": -0.03
+			}, {
+				"name": "14 Oct 16",
+				"pe_rel": -0.042
+			}, {
+				"name": "21 Oct 16",
+				"pe_rel": -0.046
+			}, {
+				"name": "28 Oct 16",
+				"pe_rel": -0.043
+			}, {
+				"name": "4 Nov 16",
+				"pe_rel": -0.048
+			}, {
+				"name": "11 Nov 16",
+				"pe_rel": -0.039
+			}, {
+				"name": "18 Nov 16",
+				"pe_rel": -0.025
+			}, {
+				"name": "25 Nov 16",
+				"pe_rel": -0.032
+			}, {
+				"name": "2 Dec 16",
+				"pe_rel": -0.038
+			}, {
+				"name": "9 Dec 16",
+				"pe_rel": -0.035
+			}, {
+				"name": "16 Dec 16",
+				"pe_rel": -0.032
+			}, {
+				"name": "23 Dec 16",
+				"pe_rel": -0.016
+			}, {
+				"name": "30 Dec 16",
+				"pe_rel": -0.016
+			}, {
+				"name": "6 Jan 17",
+				"pe_rel": -0.031
+			}, {
+				"name": "13 Jan 17",
+				"pe_rel": -0.04
+			}, {
+				"name": "20 Jan 17",
+				"pe_rel": -0.02
+			}, {
+				"name": "27 Jan 17",
+				"pe_rel": 0.038
+			}, {
+				"name": "3 Feb 17",
+				"pe_rel": 0.042
+			}, {
+				"name": "10 Feb 17",
+				"pe_rel": 0.039
+			}, {
+				"name": "17 Feb 17",
+				"pe_rel": 0.022
+			}, {
+				"name": "24 Feb 17",
+				"pe_rel": 0.045
+			}, {
+				"name": "3 Mar 17",
+				"pe_rel": 0.095
+			}, {
+				"name": "10 Mar 17",
+				"pe_rel": 0.116
+			}, {
+				"name": "17 Mar 17",
+				"pe_rel": 0.105
+			}, {
+				"name": "24 Mar 17",
+				"pe_rel": 0.104
+			}, {
+				"name": "31 Mar 17",
+				"pe_rel": 0.093
+			}, {
+				"name": "7 Apr 17",
+				"pe_rel": 0.105
+			}, {
+				"name": "14 Apr 17",
+				"pe_rel": 0.102
+			}, {
+				"name": "21 Apr 17",
+				"pe_rel": 0.146
+			}, {
+				"name": "28 Apr 17",
+				"pe_rel": 0.146
+			}, {
+				"name": "5 May 17",
+				"pe_rel": 0.136
+			}, {
+				"name": "12 May 17",
+				"pe_rel": 0.127
+			}, {
+				"name": "19 May 17",
+				"pe_rel": 0.07
+			}, {
+				"name": "26 May 17",
+				"pe_rel": 0.069
+			}, {
+				"name": "2 Jun 17",
+				"pe_rel": 0.079
+			}, {
+				"name": "9 Jun 17",
+				"pe_rel": 0.068
+			}, {
+				"name": "16 Jun 17",
+				"pe_rel": 0.084
+			}, {
+				"name": "23 Jun 17",
+				"pe_rel": 0.093
+			}, {
+				"name": "30 Jun 17",
+				"pe_rel": 0.072
+			}, {
+				"name": "7 Jul 17",
+				"pe_rel": 0.075
+			}, {
+				"name": "14 Jul 17",
+				"pe_rel": 0.072
+			}, {
+				"name": "21 Jul 17",
+				"pe_rel": 0.079
+			}, {
+				"name": "28 Jul 17",
+				"pe_rel": 0.12
+			}, {
+				"name": "4 Aug 17",
+				"pe_rel": 0.117
+			}, {
+				"name": "11 Aug 17",
+				"pe_rel": 0.134
+			}, {
+				"name": "18 Aug 17",
+				"pe_rel": 0.147
+			}, {
+				"name": "25 Aug 17",
+				"pe_rel": 0.146
+			}, {
+				"name": "1 Sep 17",
+				"pe_rel": 0.138
+			}, {
+				"name": "8 Sep 17",
+				"pe_rel": 0.152
+			}, {
+				"name": "15 Sep 17",
+				"pe_rel": 0.183
+			}, {
+				"name": "22 Sep 17",
+				"pe_rel": 0.185
+			}, {
+				"name": "29 Sep 17",
+				"pe_rel": 0.207
+			}, {
+				"name": "6 Oct 17",
+				"pe_rel": 0.203
+			}, {
+				"name": "13 Oct 17",
+				"pe_rel": 0.194
+			}, {
+				"name": "20 Oct 17",
+				"pe_rel": 0.2
+			}, {
+				"name": "27 Oct 17",
+				"pe_rel": 0.215
+			}, {
+				"name": "3 Nov 17",
+				"pe_rel": 0.234
+			}, {
+				"name": "10 Nov 17",
+				"pe_rel": 0.214
+			}, {
+				"name": "17 Nov 17",
+				"pe_rel": 0.215
+			}, {
+				"name": "24 Nov 17",
+				"pe_rel": 0.214
+			}, {
+				"name": "1 Dec 17",
+				"pe_rel": 0.243
+			}, {
+				"name": "8 Dec 17",
+				"pe_rel": 0.247
+			}, {
+				"name": "15 Dec 17",
+				"pe_rel": 0.218
+			}, {
+				"name": "22 Dec 17",
+				"pe_rel": 0.211
+			}, {
+				"name": "29 Dec 17",
+				"pe_rel": 0.208
+			}, {
+				"name": "5 Jan 18",
+				"pe_rel": 0.232
+			}, {
+				"name": "12 Jan 18",
+				"pe_rel": 0.235
+			}, {
+				"name": "19 Jan 18",
+				"pe_rel": 0.237
+			}, {
+				"name": "26 Jan 18",
+				"pe_rel": 0.21
+			}, {
+				"name": "2 Feb 18",
+				"pe_rel": 0.201
+			}, {
+				"name": "9 Feb 18",
+				"pe_rel": 0.188
+			}, {
+				"name": "16 Feb 18",
+				"pe_rel": 0.17
+			}, {
+				"name": "23 Feb 18",
+				"pe_rel": 0.18
+			}, {
+				"name": "2 Mar 18",
+				"pe_rel": 0.149
+			}, {
+				"name": "9 Mar 18",
+				"pe_rel": 0.238
+			}, {
+				"name": "16 Mar 18",
+				"pe_rel": 0.247
+			}, {
+				"name": "23 Mar 18",
+				"pe_rel": 0.226
+			}, {
+				"name": "30 Mar 18",
+				"pe_rel": 0.196
+			}, {
+				"name": "6 Apr 18",
+				"pe_rel": 0.187
+			}, {
+				"name": "13 Apr 18",
+				"pe_rel": 0.182
+			}, {
+				"name": "20 Apr 18",
+				"pe_rel": 0.179
+			}, {
+				"name": "27 Apr 18",
+				"pe_rel": 0.173
+			}, {
+				"name": "4 May 18",
+				"pe_rel": 0.173
+			}, {
+				"name": "11 May 18",
+				"pe_rel": 0.165
+			}, {
+				"name": "18 May 18",
+				"pe_rel": 0.18
+			}, {
+				"name": "25 May 18",
+				"pe_rel": 0.25
+			}],
+			"avg": 0.006,
+			"avg_plus": 0.113264197724013,
+			"avg_minus": -0.10160136247497
+		},
+		"pe_abs": {
+			"data": [{
+				"name": "12 Jun 15",
+				"pe": 14.221
+			}, {
+				"name": "19 Jun 15",
+				"pe": 13.979
+			}, {
+				"name": "26 Jun 15",
+				"pe": 14.384
+			}, {
+				"name": "3 Jul 15",
+				"pe": 14.523
+			}, {
+				"name": "10 Jul 15",
+				"pe": 14.54
+			}, {
+				"name": "17 Jul 15",
+				"pe": 14.909
+			}, {
+				"name": "24 Jul 15",
+				"pe": 14.696
+			}, {
+				"name": "31 Jul 15",
+				"pe": 14.891
+			}, {
+				"name": "7 Aug 15",
+				"pe": 15.029
+			}, {
+				"name": "14 Aug 15",
+				"pe": 15.383
+			}, {
+				"name": "21 Aug 15",
+				"pe": 14.314
+			}, {
+				"name": "28 Aug 15",
+				"pe": 14.35
+			}, {
+				"name": "4 Sep 15",
+				"pe": 14.02
+			}, {
+				"name": "11 Sep 15",
+				"pe": 13.971
+			}, {
+				"name": "18 Sep 15",
+				"pe": 13.468
+			}, {
+				"name": "25 Sep 15",
+				"pe": 13.002
+			}, {
+				"name": "2 Oct 15",
+				"pe": 13.461
+			}, {
+				"name": "9 Oct 15",
+				"pe": 14.705
+			}, {
+				"name": "16 Oct 15",
+				"pe": 13.851
+			}, {
+				"name": "23 Oct 15",
+				"pe": 14.774
+			}, {
+				"name": "30 Oct 15",
+				"pe": 15.077
+			}, {
+				"name": "6 Nov 15",
+				"pe": 15.493
+			}, {
+				"name": "13 Nov 15",
+				"pe": 15.269
+			}, {
+				"name": "20 Nov 15",
+				"pe": 16.011
+			}, {
+				"name": "27 Nov 15",
+				"pe": 15.768
+			}, {
+				"name": "4 Dec 15",
+				"pe": 15.706
+			}, {
+				"name": "11 Dec 15",
+				"pe": 15.489
+			}, {
+				"name": "18 Dec 15",
+				"pe": 15.522
+			}, {
+				"name": "25 Dec 15",
+				"pe": 15.612
+			}, {
+				"name": "1 Jan 16",
+				"pe": 15.89
+			}, {
+				"name": "8 Jan 16",
+				"pe": 14.438
+			}, {
+				"name": "15 Jan 16",
+				"pe": 13.575
+			}, {
+				"name": "22 Jan 16",
+				"pe": 14.134
+			}, {
+				"name": "29 Jan 16",
+				"pe": 14.379
+			}, {
+				"name": "5 Feb 16",
+				"pe": 13.968
+			}, {
+				"name": "12 Feb 16",
+				"pe": 13.155
+			}, {
+				"name": "19 Feb 16",
+				"pe": 14.097
+			}, {
+				"name": "26 Feb 16",
+				"pe": 14.048
+			}, {
+				"name": "4 Mar 16",
+				"pe": 14.661
+			}, {
+				"name": "11 Mar 16",
+				"pe": 14.485
+			}, {
+				"name": "18 Mar 16",
+				"pe": 15.355
+			}, {
+				"name": "25 Mar 16",
+				"pe": 15.26
+			}, {
+				"name": "1 Apr 16",
+				"pe": 15.231
+			}, {
+				"name": "8 Apr 16",
+				"pe": 15.022
+			}, {
+				"name": "15 Apr 16",
+				"pe": 15.294
+			}, {
+				"name": "22 Apr 16",
+				"pe": 15.394
+			}, {
+				"name": "29 Apr 16",
+				"pe": 15.261
+			}, {
+				"name": "6 May 16",
+				"pe": 15.371
+			}, {
+				"name": "13 May 16",
+				"pe": 15.564
+			}, {
+				"name": "20 May 16",
+				"pe": 15.8
+			}, {
+				"name": "27 May 16",
+				"pe": 16.059
+			}, {
+				"name": "3 Jun 16",
+				"pe": 15.949
+			}, {
+				"name": "10 Jun 16",
+				"pe": 14.956
+			}, {
+				"name": "17 Jun 16",
+				"pe": 14.02
+			}, {
+				"name": "24 Jun 16",
+				"pe": 13.717
+			}, {
+				"name": "1 Jul 16",
+				"pe": 13.609
+			}, {
+				"name": "8 Jul 16",
+				"pe": 13.283
+			}, {
+				"name": "15 Jul 16",
+				"pe": 14.043
+			}, {
+				"name": "22 Jul 16",
+				"pe": 14.204
+			}, {
+				"name": "29 Jul 16",
+				"pe": 14.786
+			}, {
+				"name": "5 Aug 16",
+				"pe": 14.565
+			}, {
+				"name": "12 Aug 16",
+				"pe": 14.603
+			}, {
+				"name": "19 Aug 16",
+				"pe": 14.599
+			}, {
+				"name": "26 Aug 16",
+				"pe": 14.652
+			}, {
+				"name": "2 Sep 16",
+				"pe": 14.733
+			}, {
+				"name": "9 Sep 16",
+				"pe": 14.589
+			}, {
+				"name": "16 Sep 16",
+				"pe": 14.236
+			}, {
+				"name": "23 Sep 16",
+				"pe": 14.803
+			}, {
+				"name": "30 Sep 16",
+				"pe": 14.633
+			}, {
+				"name": "7 Oct 16",
+				"pe": 14.216
+			}, {
+				"name": "14 Oct 16",
+				"pe": 14.033
+			}, {
+				"name": "21 Oct 16",
+				"pe": 14.062
+			}, {
+				"name": "28 Oct 16",
+				"pe": 13.951
+			}, {
+				"name": "4 Nov 16",
+				"pe": 13.405
+			}, {
+				"name": "11 Nov 16",
+				"pe": 13.715
+			}, {
+				"name": "18 Nov 16",
+				"pe": 13.84
+			}, {
+				"name": "25 Nov 16",
+				"pe": 13.813
+			}, {
+				"name": "2 Dec 16",
+				"pe": 13.553
+			}, {
+				"name": "9 Dec 16",
+				"pe": 14.145
+			}, {
+				"name": "16 Dec 16",
+				"pe": 14.264
+			}, {
+				"name": "23 Dec 16",
+				"pe": 14.491
+			}, {
+				"name": "30 Dec 16",
+				"pe": 14.52
+			}, {
+				"name": "6 Jan 17",
+				"pe": 14.469
+			}, {
+				"name": "13 Jan 17",
+				"pe": 14.355
+			}, {
+				"name": "20 Jan 17",
+				"pe": 14.463
+			}, {
+				"name": "27 Jan 17",
+				"pe": 15.388
+			}, {
+				"name": "3 Feb 17",
+				"pe": 15.358
+			}, {
+				"name": "10 Feb 17",
+				"pe": 15.389
+			}, {
+				"name": "17 Feb 17",
+				"pe": 15.223
+			}, {
+				"name": "24 Feb 17",
+				"pe": 15.494
+			}, {
+				"name": "3 Mar 17",
+				"pe": 16.456
+			}, {
+				"name": "10 Mar 17",
+				"pe": 16.716
+			}, {
+				"name": "17 Mar 17",
+				"pe": 16.747
+			}, {
+				"name": "24 Mar 17",
+				"pe": 16.63
+			}, {
+				"name": "31 Mar 17",
+				"pe": 16.592
+			}, {
+				"name": "7 Apr 17",
+				"pe": 16.703
+			}, {
+				"name": "14 Apr 17",
+				"pe": 16.586
+			}, {
+				"name": "21 Apr 17",
+				"pe": 16.967
+			}, {
+				"name": "28 Apr 17",
+				"pe": 17.463
+			}, {
+				"name": "5 May 17",
+				"pe": 17.621
+			}, {
+				"name": "12 May 17",
+				"pe": 17.457
+			}, {
+				"name": "19 May 17",
+				"pe": 16.487
+			}, {
+				"name": "26 May 17",
+				"pe": 16.472
+			}, {
+				"name": "2 Jun 17",
+				"pe": 16.728
+			}, {
+				"name": "9 Jun 17",
+				"pe": 16.45
+			}, {
+				"name": "16 Jun 17",
+				"pe": 16.597
+			}, {
+				"name": "23 Jun 17",
+				"pe": 16.645
+			}, {
+				"name": "30 Jun 17",
+				"pe": 16.023
+			}, {
+				"name": "7 Jul 17",
+				"pe": 16.11
+			}, {
+				"name": "14 Jul 17",
+				"pe": 16.343
+			}, {
+				"name": "21 Jul 17",
+				"pe": 16.277
+			}, {
+				"name": "28 Jul 17",
+				"pe": 16.837
+			}, {
+				"name": "4 Aug 17",
+				"pe": 16.973
+			}, {
+				"name": "11 Aug 17",
+				"pe": 16.749
+			}, {
+				"name": "18 Aug 17",
+				"pe": 16.991
+			}, {
+				"name": "25 Aug 17",
+				"pe": 16.997
+			}, {
+				"name": "1 Sep 17",
+				"pe": 16.939
+			}, {
+				"name": "8 Sep 17",
+				"pe": 17.126
+			}, {
+				"name": "15 Sep 17",
+				"pe": 17.72
+			}, {
+				"name": "22 Sep 17",
+				"pe": 17.801
+			}, {
+				"name": "29 Sep 17",
+				"pe": 18.266
+			}, {
+				"name": "6 Oct 17",
+				"pe": 18.256
+			}, {
+				"name": "13 Oct 17",
+				"pe": 18.232
+			}, {
+				"name": "20 Oct 17",
+				"pe": 18.255
+			}, {
+				"name": "27 Oct 17",
+				"pe": 18.539
+			}, {
+				"name": "3 Nov 17",
+				"pe": 18.957
+			}, {
+				"name": "10 Nov 17",
+				"pe": 18.274
+			}, {
+				"name": "17 Nov 17",
+				"pe": 18.134
+			}, {
+				"name": "24 Nov 17",
+				"pe": 18.242
+			}, {
+				"name": "1 Dec 17",
+				"pe": 18.479
+			}, {
+				"name": "8 Dec 17",
+				"pe": 18.702
+			}, {
+				"name": "15 Dec 17",
+				"pe": 18.188
+			}, {
+				"name": "22 Dec 17",
+				"pe": 18.189
+			}, {
+				"name": "29 Dec 17",
+				"pe": 18.12
+			}, {
+				"name": "5 Jan 18",
+				"pe": 18.836
+			}, {
+				"name": "12 Jan 18",
+				"pe": 18.889
+			}, {
+				"name": "19 Jan 18",
+				"pe": 18.98
+			}, {
+				"name": "26 Jan 18",
+				"pe": 18.494
+			}, {
+				"name": "2 Feb 18",
+				"pe": 17.766
+			}, {
+				"name": "9 Feb 18",
+				"pe": 16.603
+			}, {
+				"name": "16 Feb 18",
+				"pe": 16.939
+			}, {
+				"name": "23 Feb 18",
+				"pe": 17.053
+			}, {
+				"name": "2 Mar 18",
+				"pe": 16.021
+			}, {
+				"name": "9 Mar 18",
+				"pe": 17.778
+			}, {
+				"name": "16 Mar 18",
+				"pe": 17.805
+			}, {
+				"name": "23 Mar 18",
+				"pe": 16.973
+			}, {
+				"name": "30 Mar 18",
+				"pe": 16.764
+			}, {
+				"name": "6 Apr 18",
+				"pe": 16.792
+			}, {
+				"name": "13 Apr 18",
+				"pe": 16.899
+			}, {
+				"name": "20 Apr 18",
+				"pe": 16.97
+			}, {
+				"name": "27 Apr 18",
+				"pe": 16.988
+			}, {
+				"name": "4 May 18",
+				"pe": 17.039
+			}, {
+				"name": "11 May 18",
+				"pe": 17.098
+			}, {
+				"name": "18 May 18",
+				"pe": 17.294
+			}, {
+				"name": "25 May 18",
+				"pe": 18.121
+			}],
+			"avg": 14.6689923076923,
+			"avg_plus": 16.6402456886235,
+			"avg_minus": 12.6977389267611
+		},
+		"eps": {
+			"data": [{
+				"name": "12 Jun 15",
+				"eps_stock": 0.023,
+				"eps_rel": 0.001
+			}, {
+				"name": "19 Jun 15",
+				"eps_stock": 0.02,
+				"eps_rel": 0.002
+			}, {
+				"name": "26 Jun 15",
+				"eps_stock": 0.022,
+				"eps_rel": 0.006
+			}, {
+				"name": "3 Jul 15",
+				"eps_stock": 0.026,
+				"eps_rel": 0.007
+			}, {
+				"name": "10 Jul 15",
+				"eps_stock": 0.024,
+				"eps_rel": 0.003
+			}, {
+				"name": "17 Jul 15",
+				"eps_stock": 0.025,
+				"eps_rel": 0.002
+			}, {
+				"name": "24 Jul 15",
+				"eps_stock": 0.022,
+				"eps_rel": 0.001
+			}, {
+				"name": "31 Jul 15",
+				"eps_stock": 0.019,
+				"eps_rel": -0.003
+			}, {
+				"name": "7 Aug 15",
+				"eps_stock": 0.02,
+				"eps_rel": -0.004
+			}, {
+				"name": "14 Aug 15",
+				"eps_stock": 0.019,
+				"eps_rel": -0.003
+			}, {
+				"name": "21 Aug 15",
+				"eps_stock": 0.019,
+				"eps_rel": 0
+			}, {
+				"name": "28 Aug 15",
+				"eps_stock": 0.018,
+				"eps_rel": 0.006
+			}, {
+				"name": "4 Sep 15",
+				"eps_stock": 0.019,
+				"eps_rel": 0.012
+			}, {
+				"name": "11 Sep 15",
+				"eps_stock": 0.02,
+				"eps_rel": 0.019
+			}, {
+				"name": "18 Sep 15",
+				"eps_stock": 0.022,
+				"eps_rel": 0.024
+			}, {
+				"name": "25 Sep 15",
+				"eps_stock": 0.022,
+				"eps_rel": 0.028
+			}, {
+				"name": "2 Oct 15",
+				"eps_stock": 0.021,
+				"eps_rel": 0.034
+			}, {
+				"name": "9 Oct 15",
+				"eps_stock": 0.021,
+				"eps_rel": 0.04
+			}, {
+				"name": "16 Oct 15",
+				"eps_stock": 0.02,
+				"eps_rel": 0.045
+			}, {
+				"name": "23 Oct 15",
+				"eps_stock": 0.021,
+				"eps_rel": 0.047
+			}, {
+				"name": "30 Oct 15",
+				"eps_stock": 0.022,
+				"eps_rel": 0.048
+			}, {
+				"name": "6 Nov 15",
+				"eps_stock": 0.023,
+				"eps_rel": 0.049
+			}, {
+				"name": "13 Nov 15",
+				"eps_stock": 0.024,
+				"eps_rel": 0.046
+			}, {
+				"name": "20 Nov 15",
+				"eps_stock": 0.024,
+				"eps_rel": 0.045
+			}, {
+				"name": "27 Nov 15",
+				"eps_stock": 0.024,
+				"eps_rel": 0.043
+			}, {
+				"name": "4 Dec 15",
+				"eps_stock": 0.023,
+				"eps_rel": 0.042
+			}, {
+				"name": "11 Dec 15",
+				"eps_stock": 0.022,
+				"eps_rel": 0.04
+			}, {
+				"name": "18 Dec 15",
+				"eps_stock": 0.021,
+				"eps_rel": 0.04
+			}, {
+				"name": "25 Dec 15",
+				"eps_stock": 0.019,
+				"eps_rel": 0.039
+			}, {
+				"name": "1 Jan 16",
+				"eps_stock": 0.017,
+				"eps_rel": 0.036
+			}, {
+				"name": "8 Jan 16",
+				"eps_stock": 0.018,
+				"eps_rel": 0.036
+			}, {
+				"name": "15 Jan 16",
+				"eps_stock": 0.021,
+				"eps_rel": 0.041
+			}, {
+				"name": "22 Jan 16",
+				"eps_stock": 0.025,
+				"eps_rel": 0.05
+			}, {
+				"name": "29 Jan 16",
+				"eps_stock": 0.029,
+				"eps_rel": 0.062
+			}, {
+				"name": "5 Feb 16",
+				"eps_stock": 0.031,
+				"eps_rel": 0.076
+			}, {
+				"name": "12 Feb 16",
+				"eps_stock": 0.033,
+				"eps_rel": 0.09
+			}, {
+				"name": "19 Feb 16",
+				"eps_stock": 0.031,
+				"eps_rel": 0.094
+			}, {
+				"name": "26 Feb 16",
+				"eps_stock": 0.029,
+				"eps_rel": 0.099
+			}, {
+				"name": "4 Mar 16",
+				"eps_stock": 0.027,
+				"eps_rel": 0.098
+			}, {
+				"name": "11 Mar 16",
+				"eps_stock": 0.021,
+				"eps_rel": 0.09
+			}, {
+				"name": "18 Mar 16",
+				"eps_stock": 0.013,
+				"eps_rel": 0.081
+			}, {
+				"name": "25 Mar 16",
+				"eps_stock": 0.004,
+				"eps_rel": 0.068
+			}, {
+				"name": "1 Apr 16",
+				"eps_stock": -0.004,
+				"eps_rel": 0.061
+			}, {
+				"name": "8 Apr 16",
+				"eps_stock": -0.009,
+				"eps_rel": 0.057
+			}, {
+				"name": "15 Apr 16",
+				"eps_stock": -0.009,
+				"eps_rel": 0.053
+			}, {
+				"name": "22 Apr 16",
+				"eps_stock": -0.01,
+				"eps_rel": 0.048
+			}, {
+				"name": "29 Apr 16",
+				"eps_stock": -0.011,
+				"eps_rel": 0.038
+			}, {
+				"name": "6 May 16",
+				"eps_stock": -0.014,
+				"eps_rel": 0.023
+			}, {
+				"name": "13 May 16",
+				"eps_stock": -0.016,
+				"eps_rel": 0.01
+			}, {
+				"name": "20 May 16",
+				"eps_stock": -0.016,
+				"eps_rel": 0.001
+			}, {
+				"name": "27 May 16",
+				"eps_stock": -0.015,
+				"eps_rel": -0.006
+			}, {
+				"name": "3 Jun 16",
+				"eps_stock": -0.013,
+				"eps_rel": -0.008
+			}, {
+				"name": "10 Jun 16",
+				"eps_stock": 0.001,
+				"eps_rel": 0.003
+			}, {
+				"name": "17 Jun 16",
+				"eps_stock": 0.017,
+				"eps_rel": 0.016
+			}, {
+				"name": "24 Jun 16",
+				"eps_stock": 0.034,
+				"eps_rel": 0.031
+			}, {
+				"name": "1 Jul 16",
+				"eps_stock": 0.044,
+				"eps_rel": 0.04
+			}, {
+				"name": "8 Jul 16",
+				"eps_stock": 0.042,
+				"eps_rel": 0.038
+			}, {
+				"name": "15 Jul 16",
+				"eps_stock": 0.036,
+				"eps_rel": 0.034
+			}, {
+				"name": "22 Jul 16",
+				"eps_stock": 0.028,
+				"eps_rel": 0.027
+			}, {
+				"name": "29 Jul 16",
+				"eps_stock": 0.026,
+				"eps_rel": 0.025
+			}, {
+				"name": "5 Aug 16",
+				"eps_stock": 0.026,
+				"eps_rel": 0.025
+			}, {
+				"name": "12 Aug 16",
+				"eps_stock": 0.029,
+				"eps_rel": 0.028
+			}, {
+				"name": "19 Aug 16",
+				"eps_stock": 0.033,
+				"eps_rel": 0.035
+			}, {
+				"name": "26 Aug 16",
+				"eps_stock": 0.038,
+				"eps_rel": 0.041
+			}, {
+				"name": "2 Sep 16",
+				"eps_stock": 0.043,
+				"eps_rel": 0.046
+			}, {
+				"name": "9 Sep 16",
+				"eps_stock": 0.034,
+				"eps_rel": 0.036
+			}, {
+				"name": "16 Sep 16",
+				"eps_stock": 0.026,
+				"eps_rel": 0.025
+			}, {
+				"name": "23 Sep 16",
+				"eps_stock": 0.017,
+				"eps_rel": 0.013
+			}, {
+				"name": "30 Sep 16",
+				"eps_stock": 0.014,
+				"eps_rel": 0.005
+			}, {
+				"name": "7 Oct 16",
+				"eps_stock": 0.021,
+				"eps_rel": 0.009
+			}, {
+				"name": "14 Oct 16",
+				"eps_stock": 0.028,
+				"eps_rel": 0.012
+			}, {
+				"name": "21 Oct 16",
+				"eps_stock": 0.036,
+				"eps_rel": 0.015
+			}, {
+				"name": "28 Oct 16",
+				"eps_stock": 0.036,
+				"eps_rel": 0.014
+			}, {
+				"name": "4 Nov 16",
+				"eps_stock": 0.034,
+				"eps_rel": 0.012
+			}, {
+				"name": "11 Nov 16",
+				"eps_stock": 0.03,
+				"eps_rel": 0.004
+			}, {
+				"name": "18 Nov 16",
+				"eps_stock": 0.024,
+				"eps_rel": -0.009
+			}, {
+				"name": "25 Nov 16",
+				"eps_stock": 0.02,
+				"eps_rel": -0.018
+			}, {
+				"name": "2 Dec 16",
+				"eps_stock": 0.017,
+				"eps_rel": -0.027
+			}, {
+				"name": "9 Dec 16",
+				"eps_stock": 0.017,
+				"eps_rel": -0.031
+			}, {
+				"name": "16 Dec 16",
+				"eps_stock": 0.019,
+				"eps_rel": -0.03
+			}, {
+				"name": "23 Dec 16",
+				"eps_stock": 0.02,
+				"eps_rel": -0.031
+			}, {
+				"name": "30 Dec 16",
+				"eps_stock": 0.022,
+				"eps_rel": -0.031
+			}, {
+				"name": "6 Jan 17",
+				"eps_stock": 0.023,
+				"eps_rel": -0.032
+			}, {
+				"name": "13 Jan 17",
+				"eps_stock": 0.023,
+				"eps_rel": -0.031
+			}, {
+				"name": "20 Jan 17",
+				"eps_stock": 0.023,
+				"eps_rel": -0.03
+			}, {
+				"name": "27 Jan 17",
+				"eps_stock": 0.024,
+				"eps_rel": -0.029
+			}, {
+				"name": "3 Feb 17",
+				"eps_stock": 0.025,
+				"eps_rel": -0.028
+			}, {
+				"name": "10 Feb 17",
+				"eps_stock": 0.026,
+				"eps_rel": -0.027
+			}, {
+				"name": "17 Feb 17",
+				"eps_stock": 0.027,
+				"eps_rel": -0.023
+			}, {
+				"name": "24 Feb 17",
+				"eps_stock": 0.027,
+				"eps_rel": -0.019
+			}, {
+				"name": "3 Mar 17",
+				"eps_stock": 0.02,
+				"eps_rel": -0.02
+			}, {
+				"name": "10 Mar 17",
+				"eps_stock": 0.013,
+				"eps_rel": -0.022
+			}, {
+				"name": "17 Mar 17",
+				"eps_stock": 0.005,
+				"eps_rel": -0.025
+			}, {
+				"name": "24 Mar 17",
+				"eps_stock": -0.003,
+				"eps_rel": -0.029
+			}, {
+				"name": "31 Mar 17",
+				"eps_stock": -0.004,
+				"eps_rel": -0.027
+			}, {
+				"name": "7 Apr 17",
+				"eps_stock": -0.006,
+				"eps_rel": -0.03
+			}, {
+				"name": "14 Apr 17",
+				"eps_stock": -0.006,
+				"eps_rel": -0.033
+			}, {
+				"name": "21 Apr 17",
+				"eps_stock": -0.006,
+				"eps_rel": -0.037
+			}, {
+				"name": "28 Apr 17",
+				"eps_stock": -0.005,
+				"eps_rel": -0.037
+			}, {
+				"name": "5 May 17",
+				"eps_stock": -0.005,
+				"eps_rel": -0.037
+			}, {
+				"name": "12 May 17",
+				"eps_stock": -0.005,
+				"eps_rel": -0.036
+			}, {
+				"name": "19 May 17",
+				"eps_stock": -0.002,
+				"eps_rel": -0.028
+			}, {
+				"name": "26 May 17",
+				"eps_stock": 0.007,
+				"eps_rel": -0.018
+			}, {
+				"name": "2 Jun 17",
+				"eps_stock": 0.022,
+				"eps_rel": 0.001
+			}, {
+				"name": "9 Jun 17",
+				"eps_stock": 0.036,
+				"eps_rel": 0.018
+			}, {
+				"name": "16 Jun 17",
+				"eps_stock": 0.048,
+				"eps_rel": 0.031
+			}, {
+				"name": "23 Jun 17",
+				"eps_stock": 0.052,
+				"eps_rel": 0.035
+			}, {
+				"name": "30 Jun 17",
+				"eps_stock": 0.051,
+				"eps_rel": 0.035
+			}, {
+				"name": "7 Jul 17",
+				"eps_stock": 0.05,
+				"eps_rel": 0.037
+			}, {
+				"name": "14 Jul 17",
+				"eps_stock": 0.049,
+				"eps_rel": 0.04
+			}, {
+				"name": "21 Jul 17",
+				"eps_stock": 0.047,
+				"eps_rel": 0.046
+			}, {
+				"name": "28 Jul 17",
+				"eps_stock": 0.046,
+				"eps_rel": 0.049
+			}, {
+				"name": "4 Aug 17",
+				"eps_stock": 0.046,
+				"eps_rel": 0.053
+			}, {
+				"name": "11 Aug 17",
+				"eps_stock": 0.046,
+				"eps_rel": 0.058
+			}, {
+				"name": "18 Aug 17",
+				"eps_stock": 0.045,
+				"eps_rel": 0.056
+			}, {
+				"name": "25 Aug 17",
+				"eps_stock": 0.037,
+				"eps_rel": 0.046
+			}, {
+				"name": "1 Sep 17",
+				"eps_stock": 0.03,
+				"eps_rel": 0.037
+			}, {
+				"name": "8 Sep 17",
+				"eps_stock": 0.024,
+				"eps_rel": 0.029
+			}, {
+				"name": "15 Sep 17",
+				"eps_stock": 0.021,
+				"eps_rel": 0.024
+			}, {
+				"name": "22 Sep 17",
+				"eps_stock": 0.025,
+				"eps_rel": 0.025
+			}, {
+				"name": "29 Sep 17",
+				"eps_stock": 0.027,
+				"eps_rel": 0.024
+			}, {
+				"name": "6 Oct 17",
+				"eps_stock": 0.03,
+				"eps_rel": 0.023
+			}, {
+				"name": "13 Oct 17",
+				"eps_stock": 0.033,
+				"eps_rel": 0.024
+			}, {
+				"name": "20 Oct 17",
+				"eps_stock": 0.037,
+				"eps_rel": 0.024
+			}, {
+				"name": "27 Oct 17",
+				"eps_stock": 0.041,
+				"eps_rel": 0.025
+			}, {
+				"name": "3 Nov 17",
+				"eps_stock": 0.041,
+				"eps_rel": 0.022
+			}, {
+				"name": "10 Nov 17",
+				"eps_stock": 0.041,
+				"eps_rel": 0.018
+			}, {
+				"name": "17 Nov 17",
+				"eps_stock": 0.04,
+				"eps_rel": 0.017
+			}, {
+				"name": "24 Nov 17",
+				"eps_stock": 0.038,
+				"eps_rel": 0.016
+			}, {
+				"name": "1 Dec 17",
+				"eps_stock": 0.037,
+				"eps_rel": 0.016
+			}, {
+				"name": "8 Dec 17",
+				"eps_stock": 0.038,
+				"eps_rel": 0.016
+			}, {
+				"name": "15 Dec 17",
+				"eps_stock": 0.04,
+				"eps_rel": 0.017
+			}, {
+				"name": "22 Dec 17",
+				"eps_stock": 0.041,
+				"eps_rel": 0.019
+			}, {
+				"name": "29 Dec 17",
+				"eps_stock": 0.044,
+				"eps_rel": 0.024
+			}, {
+				"name": "5 Jan 18",
+				"eps_stock": 0.042,
+				"eps_rel": 0.026
+			}, {
+				"name": "12 Jan 18",
+				"eps_stock": 0.04,
+				"eps_rel": 0.025
+			}, {
+				"name": "19 Jan 18",
+				"eps_stock": 0.038,
+				"eps_rel": 0.023
+			}, {
+				"name": "26 Jan 18",
+				"eps_stock": 0.036,
+				"eps_rel": 0.02
+			}, {
+				"name": "2 Feb 18",
+				"eps_stock": 0.039,
+				"eps_rel": 0.022
+			}, {
+				"name": "9 Feb 18",
+				"eps_stock": 0.043,
+				"eps_rel": 0.024
+			}, {
+				"name": "16 Feb 18",
+				"eps_stock": 0.047,
+				"eps_rel": 0.027
+			}, {
+				"name": "23 Feb 18",
+				"eps_stock": 0.051,
+				"eps_rel": 0.029
+			}, {
+				"name": "2 Mar 18",
+				"eps_stock": 0.056,
+				"eps_rel": 0.033
+			}, {
+				"name": "9 Mar 18",
+				"eps_stock": 0.056,
+				"eps_rel": 0.035
+			}, {
+				"name": "16 Mar 18",
+				"eps_stock": 0.055,
+				"eps_rel": 0.035
+			}, {
+				"name": "23 Mar 18",
+				"eps_stock": 0.055,
+				"eps_rel": 0.037
+			}, {
+				"name": "30 Mar 18",
+				"eps_stock": 0.052,
+				"eps_rel": 0.033
+			}, {
+				"name": "6 Apr 18",
+				"eps_stock": 0.054,
+				"eps_rel": 0.034
+			}, {
+				"name": "13 Apr 18",
+				"eps_stock": 0.05,
+				"eps_rel": 0.03
+			}, {
+				"name": "20 Apr 18",
+				"eps_stock": 0.046,
+				"eps_rel": 0.028
+			}, {
+				"name": "27 Apr 18",
+				"eps_stock": 0.042,
+				"eps_rel": 0.026
+			}, {
+				"name": "4 May 18",
+				"eps_stock": 0.036,
+				"eps_rel": 0.02
+			}, {
+				"name": "11 May 18",
+				"eps_stock": 0.033,
+				"eps_rel": 0.019
+			}, {
+				"name": "18 May 18",
+				"eps_stock": 0.029,
+				"eps_rel": 0.012
+			}, {
+				"name": "25 May 18",
+				"eps_stock": 0.023,
+				"eps_rel": 0.003
+			}]
+		}
+	},
+	"arl_gy": {
+		"pe_rel": {
+			"data": [{
+				"name": "12 Jun 15",
+				"pe_rel": -0.462
+			}, {
+				"name": "19 Jun 15",
+				"pe_rel": -0.473
+			}, {
+				"name": "26 Jun 15",
+				"pe_rel": -0.452
+			}, {
+				"name": "3 Jul 15",
+				"pe_rel": -0.446
+			}, {
+				"name": "10 Jul 15",
+				"pe_rel": -0.459
+			}, {
+				"name": "17 Jul 15",
+				"pe_rel": -0.453
+			}, {
+				"name": "24 Jul 15",
+				"pe_rel": -0.438
+			}, {
+				"name": "31 Jul 15",
+				"pe_rel": -0.436
+			}, {
+				"name": "7 Aug 15",
+				"pe_rel": -0.427
+			}, {
+				"name": "14 Aug 15",
+				"pe_rel": -0.424
+			}, {
+				"name": "21 Aug 15",
+				"pe_rel": -0.422
+			}, {
+				"name": "28 Aug 15",
+				"pe_rel": -0.413
+			}, {
+				"name": "4 Sep 15",
+				"pe_rel": -0.431
+			}, {
+				"name": "11 Sep 15",
+				"pe_rel": -0.42
+			}, {
+				"name": "18 Sep 15",
+				"pe_rel": -0.44
+			}, {
+				"name": "25 Sep 15",
+				"pe_rel": -0.441
+			}, {
+				"name": "2 Oct 15",
+				"pe_rel": -0.434
+			}, {
+				"name": "9 Oct 15",
+				"pe_rel": -0.43
+			}, {
+				"name": "16 Oct 15",
+				"pe_rel": -0.423
+			}, {
+				"name": "23 Oct 15",
+				"pe_rel": -0.411
+			}, {
+				"name": "30 Oct 15",
+				"pe_rel": -0.406
+			}, {
+				"name": "6 Nov 15",
+				"pe_rel": -0.398
+			}, {
+				"name": "13 Nov 15",
+				"pe_rel": -0.429
+			}, {
+				"name": "20 Nov 15",
+				"pe_rel": -0.425
+			}, {
+				"name": "27 Nov 15",
+				"pe_rel": -0.458
+			}, {
+				"name": "4 Dec 15",
+				"pe_rel": -0.453
+			}, {
+				"name": "11 Dec 15",
+				"pe_rel": -0.479
+			}, {
+				"name": "18 Dec 15",
+				"pe_rel": -0.478
+			}, {
+				"name": "25 Dec 15",
+				"pe_rel": -0.492
+			}, {
+				"name": "1 Jan 16",
+				"pe_rel": -0.492
+			}, {
+				"name": "8 Jan 16",
+				"pe_rel": -0.507
+			}, {
+				"name": "15 Jan 16",
+				"pe_rel": -0.512
+			}, {
+				"name": "22 Jan 16",
+				"pe_rel": -0.514
+			}, {
+				"name": "29 Jan 16",
+				"pe_rel": -0.536
+			}, {
+				"name": "5 Feb 16",
+				"pe_rel": -0.535
+			}, {
+				"name": "12 Feb 16",
+				"pe_rel": -0.537
+			}, {
+				"name": "19 Feb 16",
+				"pe_rel": -0.533
+			}, {
+				"name": "26 Feb 16",
+				"pe_rel": -0.493
+			}, {
+				"name": "4 Mar 16",
+				"pe_rel": -0.476
+			}, {
+				"name": "11 Mar 16",
+				"pe_rel": -0.457
+			}, {
+				"name": "18 Mar 16",
+				"pe_rel": -0.455
+			}, {
+				"name": "25 Mar 16",
+				"pe_rel": -0.471
+			}, {
+				"name": "1 Apr 16",
+				"pe_rel": -0.466
+			}, {
+				"name": "8 Apr 16",
+				"pe_rel": -0.454
+			}, {
+				"name": "15 Apr 16",
+				"pe_rel": -0.451
+			}, {
+				"name": "22 Apr 16",
+				"pe_rel": -0.438
+			}, {
+				"name": "29 Apr 16",
+				"pe_rel": -0.435
+			}, {
+				"name": "6 May 16",
+				"pe_rel": -0.435
+			}, {
+				"name": "13 May 16",
+				"pe_rel": -0.384
+			}, {
+				"name": "20 May 16",
+				"pe_rel": -0.371
+			}, {
+				"name": "27 May 16",
+				"pe_rel": -0.37
+			}, {
+				"name": "3 Jun 16",
+				"pe_rel": -0.381
+			}, {
+				"name": "10 Jun 16",
+				"pe_rel": -0.389
+			}, {
+				"name": "17 Jun 16",
+				"pe_rel": -0.394
+			}, {
+				"name": "24 Jun 16",
+				"pe_rel": -0.409
+			}, {
+				"name": "1 Jul 16",
+				"pe_rel": -0.445
+			}, {
+				"name": "8 Jul 16",
+				"pe_rel": -0.462
+			}, {
+				"name": "15 Jul 16",
+				"pe_rel": -0.448
+			}, {
+				"name": "22 Jul 16",
+				"pe_rel": -0.441
+			}, {
+				"name": "29 Jul 16",
+				"pe_rel": -0.437
+			}, {
+				"name": "5 Aug 16",
+				"pe_rel": -0.452
+			}, {
+				"name": "12 Aug 16",
+				"pe_rel": -0.431
+			}, {
+				"name": "19 Aug 16",
+				"pe_rel": -0.447
+			}, {
+				"name": "26 Aug 16",
+				"pe_rel": -0.437
+			}, {
+				"name": "2 Sep 16",
+				"pe_rel": -0.412
+			}, {
+				"name": "9 Sep 16",
+				"pe_rel": -0.406
+			}, {
+				"name": "16 Sep 16",
+				"pe_rel": -0.416
+			}, {
+				"name": "23 Sep 16",
+				"pe_rel": -0.425
+			}, {
+				"name": "30 Sep 16",
+				"pe_rel": -0.418
+			}, {
+				"name": "7 Oct 16",
+				"pe_rel": -0.398
+			}, {
+				"name": "14 Oct 16",
+				"pe_rel": -0.395
+			}, {
+				"name": "21 Oct 16",
+				"pe_rel": -0.366
+			}, {
+				"name": "28 Oct 16",
+				"pe_rel": -0.326
+			}, {
+				"name": "4 Nov 16",
+				"pe_rel": -0.329
+			}, {
+				"name": "11 Nov 16",
+				"pe_rel": -0.341
+			}, {
+				"name": "18 Nov 16",
+				"pe_rel": -0.29
+			}, {
+				"name": "25 Nov 16",
+				"pe_rel": -0.286
+			}, {
+				"name": "2 Dec 16",
+				"pe_rel": -0.269
+			}, {
+				"name": "9 Dec 16",
+				"pe_rel": -0.235
+			}, {
+				"name": "16 Dec 16",
+				"pe_rel": -0.25
+			}, {
+				"name": "23 Dec 16",
+				"pe_rel": -0.245
+			}, {
+				"name": "30 Dec 16",
+				"pe_rel": -0.256
+			}, {
+				"name": "6 Jan 17",
+				"pe_rel": -0.247
+			}, {
+				"name": "13 Jan 17",
+				"pe_rel": -0.239
+			}, {
+				"name": "20 Jan 17",
+				"pe_rel": -0.236
+			}, {
+				"name": "27 Jan 17",
+				"pe_rel": -0.239
+			}, {
+				"name": "3 Feb 17",
+				"pe_rel": -0.238
+			}, {
+				"name": "10 Feb 17",
+				"pe_rel": -0.233
+			}, {
+				"name": "17 Feb 17",
+				"pe_rel": -0.225
+			}, {
+				"name": "24 Feb 17",
+				"pe_rel": -0.257
+			}, {
+				"name": "3 Mar 17",
+				"pe_rel": -0.232
+			}, {
+				"name": "10 Mar 17",
+				"pe_rel": -0.239
+			}, {
+				"name": "17 Mar 17",
+				"pe_rel": -0.258
+			}, {
+				"name": "24 Mar 17",
+				"pe_rel": -0.28
+			}, {
+				"name": "31 Mar 17",
+				"pe_rel": -0.261
+			}, {
+				"name": "7 Apr 17",
+				"pe_rel": -0.289
+			}, {
+				"name": "14 Apr 17",
+				"pe_rel": -0.302
+			}, {
+				"name": "21 Apr 17",
+				"pe_rel": -0.286
+			}, {
+				"name": "28 Apr 17",
+				"pe_rel": -0.296
+			}, {
+				"name": "5 May 17",
+				"pe_rel": -0.295
+			}, {
+				"name": "12 May 17",
+				"pe_rel": -0.294
+			}, {
+				"name": "19 May 17",
+				"pe_rel": -0.306
+			}, {
+				"name": "26 May 17",
+				"pe_rel": -0.304
+			}, {
+				"name": "2 Jun 17",
+				"pe_rel": -0.317
+			}, {
+				"name": "9 Jun 17",
+				"pe_rel": -0.316
+			}, {
+				"name": "16 Jun 17",
+				"pe_rel": -0.316
+			}, {
+				"name": "23 Jun 17",
+				"pe_rel": -0.336
+			}, {
+				"name": "30 Jun 17",
+				"pe_rel": -0.301
+			}, {
+				"name": "7 Jul 17",
+				"pe_rel": -0.282
+			}, {
+				"name": "14 Jul 17",
+				"pe_rel": -0.297
+			}, {
+				"name": "21 Jul 17",
+				"pe_rel": -0.304
+			}, {
+				"name": "28 Jul 17",
+				"pe_rel": -0.289
+			}, {
+				"name": "4 Aug 17",
+				"pe_rel": -0.286
+			}, {
+				"name": "11 Aug 17",
+				"pe_rel": -0.288
+			}, {
+				"name": "18 Aug 17",
+				"pe_rel": -0.268
+			}, {
+				"name": "25 Aug 17",
+				"pe_rel": -0.275
+			}, {
+				"name": "1 Sep 17",
+				"pe_rel": -0.279
+			}, {
+				"name": "8 Sep 17",
+				"pe_rel": -0.291
+			}, {
+				"name": "15 Sep 17",
+				"pe_rel": -0.29
+			}, {
+				"name": "22 Sep 17",
+				"pe_rel": -0.287
+			}, {
+				"name": "29 Sep 17",
+				"pe_rel": -0.259
+			}, {
+				"name": "6 Oct 17",
+				"pe_rel": -0.263
+			}, {
+				"name": "13 Oct 17",
+				"pe_rel": -0.275
+			}, {
+				"name": "20 Oct 17",
+				"pe_rel": -0.264
+			}, {
+				"name": "27 Oct 17",
+				"pe_rel": -0.261
+			}, {
+				"name": "3 Nov 17",
+				"pe_rel": -0.274
+			}, {
+				"name": "10 Nov 17",
+				"pe_rel": -0.249
+			}, {
+				"name": "17 Nov 17",
+				"pe_rel": -0.253
+			}, {
+				"name": "24 Nov 17",
+				"pe_rel": -0.249
+			}, {
+				"name": "1 Dec 17",
+				"pe_rel": -0.216
+			}, {
+				"name": "8 Dec 17",
+				"pe_rel": -0.202
+			}, {
+				"name": "15 Dec 17",
+				"pe_rel": -0.19
+			}, {
+				"name": "22 Dec 17",
+				"pe_rel": -0.195
+			}, {
+				"name": "29 Dec 17",
+				"pe_rel": -0.201
+			}, {
+				"name": "5 Jan 18",
+				"pe_rel": -0.204
+			}, {
+				"name": "12 Jan 18",
+				"pe_rel": -0.176
+			}, {
+				"name": "19 Jan 18",
+				"pe_rel": -0.163
+			}, {
+				"name": "26 Jan 18",
+				"pe_rel": -0.153
+			}, {
+				"name": "2 Feb 18",
+				"pe_rel": -0.145
+			}, {
+				"name": "9 Feb 18",
+				"pe_rel": -0.136
+			}, {
+				"name": "16 Feb 18",
+				"pe_rel": -0.143
+			}, {
+				"name": "23 Feb 18",
+				"pe_rel": -0.16
+			}, {
+				"name": "2 Mar 18",
+				"pe_rel": -0.142
+			}, {
+				"name": "9 Mar 18",
+				"pe_rel": -0.14
+			}, {
+				"name": "16 Mar 18",
+				"pe_rel": -0.148
+			}, {
+				"name": "23 Mar 18",
+				"pe_rel": -0.162
+			}, {
+				"name": "30 Mar 18",
+				"pe_rel": -0.158
+			}, {
+				"name": "6 Apr 18",
+				"pe_rel": -0.167
+			}, {
+				"name": "13 Apr 18",
+				"pe_rel": -0.135
+			}, {
+				"name": "20 Apr 18",
+				"pe_rel": -0.121
+			}, {
+				"name": "27 Apr 18",
+				"pe_rel": -0.135
+			}, {
+				"name": "4 May 18",
+				"pe_rel": -0.124
+			}, {
+				"name": "11 May 18",
+				"pe_rel": -0.117
+			}, {
+				"name": "18 May 18",
+				"pe_rel": -0.138
+			}, {
+				"name": "25 May 18",
+				"pe_rel": -0.132
+			}],
+			"avg": -0.351,
+			"avg_plus": -0.249309540477937,
+			"avg_minus": -0.452039118525894
+		},
+		"pe_abs": {
+			"data": [{
+				"name": "12 Jun 15",
+				"pe": 8.4
+			}, {
+				"name": "19 Jun 15",
+				"pe": 8.13
+			}, {
+				"name": "26 Jun 15",
+				"pe": 8.637
+			}, {
+				"name": "3 Jul 15",
+				"pe": 8.414
+			}, {
+				"name": "10 Jul 15",
+				"pe": 8.347
+			}, {
+				"name": "17 Jul 15",
+				"pe": 8.734
+			}, {
+				"name": "24 Jul 15",
+				"pe": 8.794
+			}, {
+				"name": "31 Jul 15",
+				"pe": 8.853
+			}, {
+				"name": "7 Aug 15",
+				"pe": 9
+			}, {
+				"name": "14 Aug 15",
+				"pe": 8.832
+			}, {
+				"name": "21 Aug 15",
+				"pe": 8.314
+			}, {
+				"name": "28 Aug 15",
+				"pe": 8.5
+			}, {
+				"name": "4 Sep 15",
+				"pe": 8.033
+			}, {
+				"name": "11 Sep 15",
+				"pe": 8.294
+			}, {
+				"name": "18 Sep 15",
+				"pe": 8.01
+			}, {
+				"name": "25 Sep 15",
+				"pe": 7.888
+			}, {
+				"name": "2 Oct 15",
+				"pe": 7.987
+			}, {
+				"name": "9 Oct 15",
+				"pe": 8.419
+			}, {
+				"name": "16 Oct 15",
+				"pe": 8.538
+			}, {
+				"name": "23 Oct 15",
+				"pe": 9.007
+			}, {
+				"name": "30 Oct 15",
+				"pe": 9.029
+			}, {
+				"name": "6 Nov 15",
+				"pe": 9.244
+			}, {
+				"name": "13 Nov 15",
+				"pe": 8.546
+			}, {
+				"name": "20 Nov 15",
+				"pe": 8.884
+			}, {
+				"name": "27 Nov 15",
+				"pe": 8.412
+			}, {
+				"name": "4 Dec 15",
+				"pe": 8.263
+			}, {
+				"name": "11 Dec 15",
+				"pe": 7.59
+			}, {
+				"name": "18 Dec 15",
+				"pe": 7.742
+			}, {
+				"name": "25 Dec 15",
+				"pe": 7.665
+			}, {
+				"name": "1 Jan 16",
+				"pe": 7.654
+			}, {
+				"name": "8 Jan 16",
+				"pe": 6.956
+			}, {
+				"name": "15 Jan 16",
+				"pe": 6.741
+			}, {
+				"name": "22 Jan 16",
+				"pe": 6.902
+			}, {
+				"name": "29 Jan 16",
+				"pe": 6.729
+			}, {
+				"name": "5 Feb 16",
+				"pe": 6.52
+			}, {
+				"name": "12 Feb 16",
+				"pe": 6.283
+			}, {
+				"name": "19 Feb 16",
+				"pe": 6.589
+			}, {
+				"name": "26 Feb 16",
+				"pe": 7.298
+			}, {
+				"name": "4 Mar 16",
+				"pe": 7.768
+			}, {
+				"name": "11 Mar 16",
+				"pe": 8.1
+			}, {
+				"name": "18 Mar 16",
+				"pe": 8.133
+			}, {
+				"name": "25 Mar 16",
+				"pe": 7.766
+			}, {
+				"name": "1 Apr 16",
+				"pe": 7.821
+			}, {
+				"name": "8 Apr 16",
+				"pe": 7.993
+			}, {
+				"name": "15 Apr 16",
+				"pe": 8.277
+			}, {
+				"name": "22 Apr 16",
+				"pe": 8.594
+			}, {
+				"name": "29 Apr 16",
+				"pe": 8.453
+			}, {
+				"name": "6 May 16",
+				"pe": 8.227
+			}, {
+				"name": "13 May 16",
+				"pe": 9.025
+			}, {
+				"name": "20 May 16",
+				"pe": 9.254
+			}, {
+				"name": "27 May 16",
+				"pe": 9.553
+			}, {
+				"name": "3 Jun 16",
+				"pe": 9.198
+			}, {
+				"name": "10 Jun 16",
+				"pe": 8.851
+			}, {
+				"name": "17 Jun 16",
+				"pe": 8.578
+			}, {
+				"name": "24 Jun 16",
+				"pe": 8.278
+			}, {
+				"name": "1 Jul 16",
+				"pe": 8.117
+			}, {
+				"name": "8 Jul 16",
+				"pe": 7.751
+			}, {
+				"name": "15 Jul 16",
+				"pe": 8.191
+			}, {
+				"name": "22 Jul 16",
+				"pe": 8.326
+			}, {
+				"name": "29 Jul 16",
+				"pe": 8.445
+			}, {
+				"name": "5 Aug 16",
+				"pe": 8.183
+			}, {
+				"name": "12 Aug 16",
+				"pe": 8.627
+			}, {
+				"name": "19 Aug 16",
+				"pe": 8.256
+			}, {
+				"name": "26 Aug 16",
+				"pe": 8.454
+			}, {
+				"name": "2 Sep 16",
+				"pe": 8.956
+			}, {
+				"name": "9 Sep 16",
+				"pe": 8.894
+			}, {
+				"name": "16 Sep 16",
+				"pe": 8.535
+			}, {
+				"name": "23 Sep 16",
+				"pe": 8.591
+			}, {
+				"name": "30 Sep 16",
+				"pe": 8.613
+			}, {
+				"name": "7 Oct 16",
+				"pe": 8.83
+			}, {
+				"name": "14 Oct 16",
+				"pe": 8.858
+			}, {
+				"name": "21 Oct 16",
+				"pe": 9.349
+			}, {
+				"name": "28 Oct 16",
+				"pe": 9.828
+			}, {
+				"name": "4 Nov 16",
+				"pe": 9.45
+			}, {
+				"name": "11 Nov 16",
+				"pe": 9.402
+			}, {
+				"name": "18 Nov 16",
+				"pe": 10.076
+			}, {
+				"name": "25 Nov 16",
+				"pe": 10.188
+			}, {
+				"name": "2 Dec 16",
+				"pe": 10.302
+			}, {
+				"name": "9 Dec 16",
+				"pe": 11.211
+			}, {
+				"name": "16 Dec 16",
+				"pe": 11.058
+			}, {
+				"name": "23 Dec 16",
+				"pe": 11.115
+			}, {
+				"name": "30 Dec 16",
+				"pe": 10.985
+			}, {
+				"name": "6 Jan 17",
+				"pe": 11.246
+			}, {
+				"name": "13 Jan 17",
+				"pe": 11.392
+			}, {
+				"name": "20 Jan 17",
+				"pe": 11.268
+			}, {
+				"name": "27 Jan 17",
+				"pe": 11.291
+			}, {
+				"name": "3 Feb 17",
+				"pe": 11.226
+			}, {
+				"name": "10 Feb 17",
+				"pe": 11.36
+			}, {
+				"name": "17 Feb 17",
+				"pe": 11.539
+			}, {
+				"name": "24 Feb 17",
+				"pe": 11.022
+			}, {
+				"name": "3 Mar 17",
+				"pe": 11.536
+			}, {
+				"name": "10 Mar 17",
+				"pe": 11.401
+			}, {
+				"name": "17 Mar 17",
+				"pe": 11.247
+			}, {
+				"name": "24 Mar 17",
+				"pe": 10.845
+			}, {
+				"name": "31 Mar 17",
+				"pe": 11.214
+			}, {
+				"name": "7 Apr 17",
+				"pe": 10.752
+			}, {
+				"name": "14 Apr 17",
+				"pe": 10.508
+			}, {
+				"name": "21 Apr 17",
+				"pe": 10.563
+			}, {
+				"name": "28 Apr 17",
+				"pe": 10.73
+			}, {
+				"name": "5 May 17",
+				"pe": 10.94
+			}, {
+				"name": "12 May 17",
+				"pe": 10.931
+			}, {
+				"name": "19 May 17",
+				"pe": 10.693
+			}, {
+				"name": "26 May 17",
+				"pe": 10.729
+			}, {
+				"name": "2 Jun 17",
+				"pe": 10.595
+			}, {
+				"name": "9 Jun 17",
+				"pe": 10.538
+			}, {
+				"name": "16 Jun 17",
+				"pe": 10.467
+			}, {
+				"name": "23 Jun 17",
+				"pe": 10.111
+			}, {
+				"name": "30 Jun 17",
+				"pe": 10.452
+			}, {
+				"name": "7 Jul 17",
+				"pe": 10.762
+			}, {
+				"name": "14 Jul 17",
+				"pe": 10.728
+			}, {
+				"name": "21 Jul 17",
+				"pe": 10.495
+			}, {
+				"name": "28 Jul 17",
+				"pe": 10.679
+			}, {
+				"name": "4 Aug 17",
+				"pe": 10.85
+			}, {
+				"name": "11 Aug 17",
+				"pe": 10.514
+			}, {
+				"name": "18 Aug 17",
+				"pe": 10.846
+			}, {
+				"name": "25 Aug 17",
+				"pe": 10.748
+			}, {
+				"name": "1 Sep 17",
+				"pe": 10.726
+			}, {
+				"name": "8 Sep 17",
+				"pe": 10.543
+			}, {
+				"name": "15 Sep 17",
+				"pe": 10.642
+			}, {
+				"name": "22 Sep 17",
+				"pe": 10.716
+			}, {
+				"name": "29 Sep 17",
+				"pe": 11.216
+			}, {
+				"name": "6 Oct 17",
+				"pe": 11.18
+			}, {
+				"name": "13 Oct 17",
+				"pe": 11.063
+			}, {
+				"name": "20 Oct 17",
+				"pe": 11.195
+			}, {
+				"name": "27 Oct 17",
+				"pe": 11.285
+			}, {
+				"name": "3 Nov 17",
+				"pe": 11.147
+			}, {
+				"name": "10 Nov 17",
+				"pe": 11.31
+			}, {
+				"name": "17 Nov 17",
+				"pe": 11.148
+			}, {
+				"name": "24 Nov 17",
+				"pe": 11.279
+			}, {
+				"name": "1 Dec 17",
+				"pe": 11.655
+			}, {
+				"name": "8 Dec 17",
+				"pe": 11.975
+			}, {
+				"name": "15 Dec 17",
+				"pe": 12.094
+			}, {
+				"name": "22 Dec 17",
+				"pe": 12.092
+			}, {
+				"name": "29 Dec 17",
+				"pe": 11.98
+			}, {
+				"name": "5 Jan 18",
+				"pe": 12.177
+			}, {
+				"name": "12 Jan 18",
+				"pe": 12.602
+			}, {
+				"name": "19 Jan 18",
+				"pe": 12.838
+			}, {
+				"name": "26 Jan 18",
+				"pe": 12.949
+			}, {
+				"name": "2 Feb 18",
+				"pe": 12.656
+			}, {
+				"name": "9 Feb 18",
+				"pe": 12.08
+			}, {
+				"name": "16 Feb 18",
+				"pe": 12.409
+			}, {
+				"name": "23 Feb 18",
+				"pe": 12.143
+			}, {
+				"name": "2 Mar 18",
+				"pe": 11.963
+			}, {
+				"name": "9 Mar 18",
+				"pe": 12.346
+			}, {
+				"name": "16 Mar 18",
+				"pe": 12.162
+			}, {
+				"name": "23 Mar 18",
+				"pe": 11.607
+			}, {
+				"name": "30 Mar 18",
+				"pe": 11.797
+			}, {
+				"name": "6 Apr 18",
+				"pe": 11.778
+			}, {
+				"name": "13 Apr 18",
+				"pe": 12.371
+			}, {
+				"name": "20 Apr 18",
+				"pe": 12.652
+			}, {
+				"name": "27 Apr 18",
+				"pe": 12.53
+			}, {
+				"name": "4 May 18",
+				"pe": 12.724
+			}, {
+				"name": "11 May 18",
+				"pe": 12.955
+			}, {
+				"name": "18 May 18",
+				"pe": 12.638
+			}, {
+				"name": "25 May 18",
+				"pe": 12.579
+			}],
+			"avg": 9.43331153846153,
+			"avg_plus": 10.9349119867933,
+			"avg_minus": 7.9317110901298
+		},
+		"eps": {
+			"data": [{
+				"name": "12 Jun 15",
+				"eps_stock": 0.005,
+				"eps_rel": -0.017
+			}, {
+				"name": "19 Jun 15",
+				"eps_stock": -0.028,
+				"eps_rel": -0.045
+			}, {
+				"name": "26 Jun 15",
+				"eps_stock": -0.029,
+				"eps_rel": -0.044
+			}, {
+				"name": "3 Jul 15",
+				"eps_stock": -0.018,
+				"eps_rel": -0.036
+			}, {
+				"name": "10 Jul 15",
+				"eps_stock": -0.007,
+				"eps_rel": -0.027
+			}, {
+				"name": "17 Jul 15",
+				"eps_stock": -0.007,
+				"eps_rel": -0.029
+			}, {
+				"name": "24 Jul 15",
+				"eps_stock": -0.014,
+				"eps_rel": -0.034
+			}, {
+				"name": "31 Jul 15",
+				"eps_stock": -0.025,
+				"eps_rel": -0.046
+			}, {
+				"name": "7 Aug 15",
+				"eps_stock": -0.025,
+				"eps_rel": -0.048
+			}, {
+				"name": "14 Aug 15",
+				"eps_stock": -0.037,
+				"eps_rel": -0.058
+			}, {
+				"name": "21 Aug 15",
+				"eps_stock": -0.04,
+				"eps_rel": -0.058
+			}, {
+				"name": "28 Aug 15",
+				"eps_stock": -0.043,
+				"eps_rel": -0.054
+			}, {
+				"name": "4 Sep 15",
+				"eps_stock": -0.051,
+				"eps_rel": -0.058
+			}, {
+				"name": "11 Sep 15",
+				"eps_stock": -0.044,
+				"eps_rel": -0.045
+			}, {
+				"name": "18 Sep 15",
+				"eps_stock": -0.046,
+				"eps_rel": -0.044
+			}, {
+				"name": "25 Sep 15",
+				"eps_stock": -0.047,
+				"eps_rel": -0.041
+			}, {
+				"name": "2 Oct 15",
+				"eps_stock": -0.054,
+				"eps_rel": -0.042
+			}, {
+				"name": "9 Oct 15",
+				"eps_stock": -0.068,
+				"eps_rel": -0.051
+			}, {
+				"name": "16 Oct 15",
+				"eps_stock": -0.076,
+				"eps_rel": -0.053
+			}, {
+				"name": "23 Oct 15",
+				"eps_stock": -0.083,
+				"eps_rel": -0.059
+			}, {
+				"name": "30 Oct 15",
+				"eps_stock": -0.09,
+				"eps_rel": -0.067
+			}, {
+				"name": "6 Nov 15",
+				"eps_stock": -0.093,
+				"eps_rel": -0.07
+			}, {
+				"name": "13 Nov 15",
+				"eps_stock": -0.08,
+				"eps_rel": -0.06
+			}, {
+				"name": "20 Nov 15",
+				"eps_stock": -0.068,
+				"eps_rel": -0.049
+			}, {
+				"name": "27 Nov 15",
+				"eps_stock": -0.056,
+				"eps_rel": -0.039
+			}, {
+				"name": "4 Dec 15",
+				"eps_stock": -0.047,
+				"eps_rel": -0.03
+			}, {
+				"name": "11 Dec 15",
+				"eps_stock": -0.051,
+				"eps_rel": -0.035
+			}, {
+				"name": "18 Dec 15",
+				"eps_stock": -0.053,
+				"eps_rel": -0.036
+			}, {
+				"name": "25 Dec 15",
+				"eps_stock": -0.055,
+				"eps_rel": -0.037
+			}, {
+				"name": "1 Jan 16",
+				"eps_stock": -0.05,
+				"eps_rel": -0.033
+			}, {
+				"name": "8 Jan 16",
+				"eps_stock": -0.042,
+				"eps_rel": -0.025
+			}, {
+				"name": "15 Jan 16",
+				"eps_stock": -0.032,
+				"eps_rel": -0.013
+			}, {
+				"name": "22 Jan 16",
+				"eps_stock": -0.025,
+				"eps_rel": -0.001
+			}, {
+				"name": "29 Jan 16",
+				"eps_stock": -0.02,
+				"eps_rel": 0.011
+			}, {
+				"name": "5 Feb 16",
+				"eps_stock": -0.02,
+				"eps_rel": 0.023
+			}, {
+				"name": "12 Feb 16",
+				"eps_stock": -0.024,
+				"eps_rel": 0.03
+			}, {
+				"name": "19 Feb 16",
+				"eps_stock": -0.023,
+				"eps_rel": 0.037
+			}, {
+				"name": "26 Feb 16",
+				"eps_stock": -0.023,
+				"eps_rel": 0.044
+			}, {
+				"name": "4 Mar 16",
+				"eps_stock": -0.021,
+				"eps_rel": 0.047
+			}, {
+				"name": "11 Mar 16",
+				"eps_stock": -0.02,
+				"eps_rel": 0.046
+			}, {
+				"name": "18 Mar 16",
+				"eps_stock": -0.025,
+				"eps_rel": 0.041
+			}, {
+				"name": "25 Mar 16",
+				"eps_stock": -0.03,
+				"eps_rel": 0.032
+			}, {
+				"name": "1 Apr 16",
+				"eps_stock": -0.036,
+				"eps_rel": 0.027
+			}, {
+				"name": "8 Apr 16",
+				"eps_stock": -0.038,
+				"eps_rel": 0.026
+			}, {
+				"name": "15 Apr 16",
+				"eps_stock": -0.036,
+				"eps_rel": 0.024
+			}, {
+				"name": "22 Apr 16",
+				"eps_stock": -0.03,
+				"eps_rel": 0.026
+			}, {
+				"name": "29 Apr 16",
+				"eps_stock": -0.024,
+				"eps_rel": 0.024
+			}, {
+				"name": "6 May 16",
+				"eps_stock": -0.018,
+				"eps_rel": 0.019
+			}, {
+				"name": "13 May 16",
+				"eps_stock": -0.011,
+				"eps_rel": 0.015
+			}, {
+				"name": "20 May 16",
+				"eps_stock": -0.008,
+				"eps_rel": 0.009
+			}, {
+				"name": "27 May 16",
+				"eps_stock": -0.004,
+				"eps_rel": 0.005
+			}, {
+				"name": "3 Jun 16",
+				"eps_stock": -0.004,
+				"eps_rel": 0.001
+			}, {
+				"name": "10 Jun 16",
+				"eps_stock": -0.006,
+				"eps_rel": -0.004
+			}, {
+				"name": "17 Jun 16",
+				"eps_stock": -0.001,
+				"eps_rel": -0.002
+			}, {
+				"name": "24 Jun 16",
+				"eps_stock": 0.002,
+				"eps_rel": -0.001
+			}, {
+				"name": "1 Jul 16",
+				"eps_stock": 0.006,
+				"eps_rel": 0.002
+			}, {
+				"name": "8 Jul 16",
+				"eps_stock": 0.007,
+				"eps_rel": 0.003
+			}, {
+				"name": "15 Jul 16",
+				"eps_stock": 0.005,
+				"eps_rel": 0.003
+			}, {
+				"name": "22 Jul 16",
+				"eps_stock": 0.003,
+				"eps_rel": 0.002
+			}, {
+				"name": "29 Jul 16",
+				"eps_stock": -0.001,
+				"eps_rel": -0.002
+			}, {
+				"name": "5 Aug 16",
+				"eps_stock": -0.002,
+				"eps_rel": -0.003
+			}, {
+				"name": "12 Aug 16",
+				"eps_stock": -0.005,
+				"eps_rel": -0.006
+			}, {
+				"name": "19 Aug 16",
+				"eps_stock": -0.009,
+				"eps_rel": -0.007
+			}, {
+				"name": "26 Aug 16",
+				"eps_stock": -0.011,
+				"eps_rel": -0.008
+			}, {
+				"name": "2 Sep 16",
+				"eps_stock": -0.015,
+				"eps_rel": -0.012
+			}, {
+				"name": "9 Sep 16",
+				"eps_stock": -0.016,
+				"eps_rel": -0.014
+			}, {
+				"name": "16 Sep 16",
+				"eps_stock": -0.019,
+				"eps_rel": -0.02
+			}, {
+				"name": "23 Sep 16",
+				"eps_stock": -0.021,
+				"eps_rel": -0.025
+			}, {
+				"name": "30 Sep 16",
+				"eps_stock": -0.022,
+				"eps_rel": -0.031
+			}, {
+				"name": "7 Oct 16",
+				"eps_stock": -0.023,
+				"eps_rel": -0.035
+			}, {
+				"name": "14 Oct 16",
+				"eps_stock": -0.026,
+				"eps_rel": -0.041
+			}, {
+				"name": "21 Oct 16",
+				"eps_stock": -0.029,
+				"eps_rel": -0.049
+			}, {
+				"name": "28 Oct 16",
+				"eps_stock": -0.029,
+				"eps_rel": -0.05
+			}, {
+				"name": "4 Nov 16",
+				"eps_stock": -0.029,
+				"eps_rel": -0.05
+			}, {
+				"name": "11 Nov 16",
+				"eps_stock": -0.029,
+				"eps_rel": -0.054
+			}, {
+				"name": "18 Nov 16",
+				"eps_stock": -0.031,
+				"eps_rel": -0.062
+			}, {
+				"name": "25 Nov 16",
+				"eps_stock": -0.034,
+				"eps_rel": -0.07
+			}, {
+				"name": "2 Dec 16",
+				"eps_stock": -0.039,
+				"eps_rel": -0.08
+			}, {
+				"name": "9 Dec 16",
+				"eps_stock": -0.041,
+				"eps_rel": -0.086
+			}, {
+				"name": "16 Dec 16",
+				"eps_stock": -0.043,
+				"eps_rel": -0.089
+			}, {
+				"name": "23 Dec 16",
+				"eps_stock": -0.045,
+				"eps_rel": -0.093
+			}, {
+				"name": "30 Dec 16",
+				"eps_stock": -0.046,
+				"eps_rel": -0.096
+			}, {
+				"name": "6 Jan 17",
+				"eps_stock": -0.046,
+				"eps_rel": -0.097
+			}, {
+				"name": "13 Jan 17",
+				"eps_stock": -0.043,
+				"eps_rel": -0.094
+			}, {
+				"name": "20 Jan 17",
+				"eps_stock": -0.04,
+				"eps_rel": -0.09
+			}, {
+				"name": "27 Jan 17",
+				"eps_stock": -0.038,
+				"eps_rel": -0.088
+			}, {
+				"name": "3 Feb 17",
+				"eps_stock": -0.037,
+				"eps_rel": -0.087
+			}, {
+				"name": "10 Feb 17",
+				"eps_stock": -0.034,
+				"eps_rel": -0.083
+			}, {
+				"name": "17 Feb 17",
+				"eps_stock": -0.028,
+				"eps_rel": -0.075
+			}, {
+				"name": "24 Feb 17",
+				"eps_stock": -0.024,
+				"eps_rel": -0.068
+			}, {
+				"name": "3 Mar 17",
+				"eps_stock": -0.021,
+				"eps_rel": -0.06
+			}, {
+				"name": "10 Mar 17",
+				"eps_stock": -0.02,
+				"eps_rel": -0.054
+			}, {
+				"name": "17 Mar 17",
+				"eps_stock": -0.022,
+				"eps_rel": -0.051
+			}, {
+				"name": "24 Mar 17",
+				"eps_stock": -0.02,
+				"eps_rel": -0.046
+			}, {
+				"name": "31 Mar 17",
+				"eps_stock": -0.015,
+				"eps_rel": -0.038
+			}, {
+				"name": "7 Apr 17",
+				"eps_stock": -0.012,
+				"eps_rel": -0.036
+			}, {
+				"name": "14 Apr 17",
+				"eps_stock": -0.01,
+				"eps_rel": -0.037
+			}, {
+				"name": "21 Apr 17",
+				"eps_stock": 0,
+				"eps_rel": -0.031
+			}, {
+				"name": "28 Apr 17",
+				"eps_stock": 0.016,
+				"eps_rel": -0.016
+			}, {
+				"name": "5 May 17",
+				"eps_stock": 0.038,
+				"eps_rel": 0.005
+			}, {
+				"name": "12 May 17",
+				"eps_stock": 0.059,
+				"eps_rel": 0.026
+			}, {
+				"name": "19 May 17",
+				"eps_stock": 0.07,
+				"eps_rel": 0.042
+			}, {
+				"name": "26 May 17",
+				"eps_stock": 0.078,
+				"eps_rel": 0.052
+			}, {
+				"name": "2 Jun 17",
+				"eps_stock": 0.085,
+				"eps_rel": 0.063
+			}, {
+				"name": "9 Jun 17",
+				"eps_stock": 0.09,
+				"eps_rel": 0.071
+			}, {
+				"name": "16 Jun 17",
+				"eps_stock": 0.096,
+				"eps_rel": 0.079
+			}, {
+				"name": "23 Jun 17",
+				"eps_stock": 0.097,
+				"eps_rel": 0.08
+			}, {
+				"name": "30 Jun 17",
+				"eps_stock": 0.093,
+				"eps_rel": 0.077
+			}, {
+				"name": "7 Jul 17",
+				"eps_stock": 0.09,
+				"eps_rel": 0.076
+			}, {
+				"name": "14 Jul 17",
+				"eps_stock": 0.087,
+				"eps_rel": 0.077
+			}, {
+				"name": "21 Jul 17",
+				"eps_stock": 0.075,
+				"eps_rel": 0.074
+			}, {
+				"name": "28 Jul 17",
+				"eps_stock": 0.056,
+				"eps_rel": 0.059
+			}, {
+				"name": "4 Aug 17",
+				"eps_stock": 0.033,
+				"eps_rel": 0.04
+			}, {
+				"name": "11 Aug 17",
+				"eps_stock": 0.012,
+				"eps_rel": 0.023
+			}, {
+				"name": "18 Aug 17",
+				"eps_stock": -0.008,
+				"eps_rel": 0.002
+			}, {
+				"name": "25 Aug 17",
+				"eps_stock": -0.022,
+				"eps_rel": -0.013
+			}, {
+				"name": "1 Sep 17",
+				"eps_stock": -0.029,
+				"eps_rel": -0.022
+			}, {
+				"name": "8 Sep 17",
+				"eps_stock": -0.038,
+				"eps_rel": -0.033
+			}, {
+				"name": "15 Sep 17",
+				"eps_stock": -0.039,
+				"eps_rel": -0.036
+			}, {
+				"name": "22 Sep 17",
+				"eps_stock": -0.039,
+				"eps_rel": -0.039
+			}, {
+				"name": "29 Sep 17",
+				"eps_stock": -0.039,
+				"eps_rel": -0.042
+			}, {
+				"name": "6 Oct 17",
+				"eps_stock": -0.039,
+				"eps_rel": -0.046
+			}, {
+				"name": "13 Oct 17",
+				"eps_stock": -0.039,
+				"eps_rel": -0.048
+			}, {
+				"name": "20 Oct 17",
+				"eps_stock": -0.039,
+				"eps_rel": -0.051
+			}, {
+				"name": "27 Oct 17",
+				"eps_stock": -0.039,
+				"eps_rel": -0.054
+			}, {
+				"name": "3 Nov 17",
+				"eps_stock": -0.038,
+				"eps_rel": -0.056
+			}, {
+				"name": "10 Nov 17",
+				"eps_stock": -0.038,
+				"eps_rel": -0.06
+			}, {
+				"name": "17 Nov 17",
+				"eps_stock": -0.032,
+				"eps_rel": -0.054
+			}, {
+				"name": "24 Nov 17",
+				"eps_stock": -0.026,
+				"eps_rel": -0.047
+			}, {
+				"name": "1 Dec 17",
+				"eps_stock": -0.022,
+				"eps_rel": -0.042
+			}, {
+				"name": "8 Dec 17",
+				"eps_stock": -0.016,
+				"eps_rel": -0.037
+			}, {
+				"name": "15 Dec 17",
+				"eps_stock": -0.015,
+				"eps_rel": -0.037
+			}, {
+				"name": "22 Dec 17",
+				"eps_stock": -0.015,
+				"eps_rel": -0.036
+			}, {
+				"name": "29 Dec 17",
+				"eps_stock": -0.015,
+				"eps_rel": -0.034
+			}, {
+				"name": "5 Jan 18",
+				"eps_stock": -0.014,
+				"eps_rel": -0.03
+			}, {
+				"name": "12 Jan 18",
+				"eps_stock": -0.012,
+				"eps_rel": -0.027
+			}, {
+				"name": "19 Jan 18",
+				"eps_stock": -0.009,
+				"eps_rel": -0.024
+			}, {
+				"name": "26 Jan 18",
+				"eps_stock": -0.005,
+				"eps_rel": -0.021
+			}, {
+				"name": "2 Feb 18",
+				"eps_stock": -0.002,
+				"eps_rel": -0.019
+			}, {
+				"name": "9 Feb 18",
+				"eps_stock": 0.001,
+				"eps_rel": -0.018
+			}, {
+				"name": "16 Feb 18",
+				"eps_stock": 0.006,
+				"eps_rel": -0.013
+			}, {
+				"name": "23 Feb 18",
+				"eps_stock": 0.009,
+				"eps_rel": -0.012
+			}, {
+				"name": "2 Mar 18",
+				"eps_stock": 0.014,
+				"eps_rel": -0.008
+			}, {
+				"name": "9 Mar 18",
+				"eps_stock": 0.021,
+				"eps_rel": 0.001
+			}, {
+				"name": "16 Mar 18",
+				"eps_stock": 0.026,
+				"eps_rel": 0.007
+			}, {
+				"name": "23 Mar 18",
+				"eps_stock": 0.032,
+				"eps_rel": 0.015
+			}, {
+				"name": "30 Mar 18",
+				"eps_stock": 0.038,
+				"eps_rel": 0.02
+			}, {
+				"name": "6 Apr 18",
+				"eps_stock": 0.041,
+				"eps_rel": 0.022
+			}, {
+				"name": "13 Apr 18",
+				"eps_stock": 0.043,
+				"eps_rel": 0.024
+			}, {
+				"name": "20 Apr 18",
+				"eps_stock": 0.044,
+				"eps_rel": 0.026
+			}, {
+				"name": "27 Apr 18",
+				"eps_stock": 0.043,
+				"eps_rel": 0.027
+			}, {
+				"name": "4 May 18",
+				"eps_stock": 0.038,
+				"eps_rel": 0.022
+			}, {
+				"name": "11 May 18",
+				"eps_stock": 0.031,
+				"eps_rel": 0.017
+			}, {
+				"name": "18 May 18",
+				"eps_stock": 0.023,
+				"eps_rel": 0.006
+			}, {
+				"name": "25 May 18",
+				"eps_stock": 0.018,
+				"eps_rel": -0.002
+			}]
+		}
+	}
+}
