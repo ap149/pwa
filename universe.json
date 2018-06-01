@@ -3,4200 +3,4200 @@
 		"name": "1&1 Drillisch",
 		"ticker": "DRI GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Wireless Telcos"
+		"sector": "Telcos",
+		"industry": "Wireless Telcos"
 	},
 	"iii_ln": {
 		"name": "3i Group",
 		"ticker": "III LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"a2a_im": {
 		"name": "A2A",
 		"ticker": "A2A IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Multi-Utilities"
+		"sector": "Utilities",
+		"industry": "Multi-Utilities"
 	},
 	"aalb_na": {
 		"name": "Aalberts Industries",
 		"ticker": "AALB NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"arl_gy": {
 		"name": "Aareal Bank",
 		"ticker": "ARL GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Thrifts & Mortgage Finance"
+		"sector": "Financials",
+		"industry": "Thrifts & Mortgage Finance"
 	},
 	"abbn_sw": {
 		"name": "ABB",
 		"ticker": "ABBN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Electrical Equipment"
+		"sector": "Industrials",
+		"industry": "Electrical Equipment"
 	},
 	"abe_sq": {
 		"name": "Abertis Infraestructuras",
 		"ticker": "ABE SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Transportation Infrastructure"
+		"sector": "Industrials",
+		"industry": "Transportation Infrastructure"
 	},
 	"ablx_bb": {
 		"name": "Ablynx",
 		"ticker": "ABLX BB",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Biotechnology"
+		"sector": "Health Care",
+		"industry": "Biotechnology"
 	},
 	"abn_na": {
 		"name": "ABN AMRO Group",
 		"ticker": "ABN NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"ac_fp": {
 		"name": "Accor",
 		"ticker": "AC FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Services",
-		"industryName": "Hotels, Restaurants & Leisure"
+		"sector": "Consumer Discretionary",
+		"industry": "Hotels, Restaurants & Leisure"
 	},
 	"ackb_bb": {
 		"name": "Ackermans & van Haaren",
 		"ticker": "ACKB BB",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Diversified Financial Services"
+		"sector": "Financials",
+		"industry": "Diversified Financial Services"
 	},
 	"acs_sq": {
 		"name": "ACS Actividades de Construccio",
 		"ticker": "ACS SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Construction & Engineering"
+		"sector": "Industrials",
+		"industry": "Construction & Engineering"
 	},
 	"aden_sw": {
 		"name": "Adecco Group",
 		"ticker": "ADEN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Professional Services"
+		"sector": "Industrials",
+		"industry": "Professional Services"
 	},
 	"ads_gy": {
 		"name": "adidas",
 		"ticker": "ADS GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Textiles, Apparel & Luxury Goods"
+		"sector": "Consumer Discretionary",
+		"industry": "Textiles, Apparel & Luxury Goods"
 	},
 	"adm_ln": {
 		"name": "Admiral Group",
 		"ticker": "ADM LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"agn_na": {
 		"name": "Aegon",
 		"ticker": "AGN NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"aena_sq": {
 		"name": "Aena SME",
 		"ticker": "AENA SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Transportation Infrastructure"
+		"sector": "Industrials",
+		"industry": "Transportation Infrastructure"
 	},
 	"adp_fp": {
 		"name": "Aeroports de Paris",
 		"ticker": "ADP FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Transportation Infrastructure"
+		"sector": "Industrials",
+		"industry": "Transportation Infrastructure"
 	},
 	"ags_bb": {
 		"name": "Ageas",
 		"ticker": "AGS BB",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"agk_ln": {
 		"name": "Aggreko",
 		"ticker": "AGK LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Commercial Services & Supplies"
+		"sector": "Industrials",
+		"industry": "Commercial Services & Supplies"
 	},
 	"aibg_id": {
 		"name": "AIB Group",
 		"ticker": "AIBG ID",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"af_fp": {
 		"name": "Air France-KLM",
 		"ticker": "AF FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Airlines"
+		"sector": "Industrials",
+		"industry": "Airlines"
 	},
 	"ai_fp": {
 		"name": "Air Liquide",
 		"ticker": "AI FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"air_fp": {
 		"name": "Airbus",
 		"ticker": "AIR FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Aerospace & Defense"
+		"sector": "Industrials",
+		"industry": "Aerospace & Defense"
 	},
 	"akerbp_no": {
 		"name": "Aker BP",
 		"ticker": "AKERBP NO",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Energy",
-		"industryName": "Oil, Gas & Consumable Fuels"
+		"sector": "Energy",
+		"industry": "Oil, Gas & Consumable Fuels"
 	},
 	"akza_na": {
 		"name": "Akzo Nobel",
 		"ticker": "AKZA NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"alfa_ss": {
 		"name": "Alfa Laval",
 		"ticker": "ALFA SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"alv_gy": {
 		"name": "Allianz",
 		"ticker": "ALV GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"alo_fp": {
 		"name": "Alstom",
 		"ticker": "ALO FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"atc_na": {
 		"name": "Altice",
 		"ticker": "ATC NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Media",
-		"industryName": "Media"
+		"sector": "Consumer Discretionary",
+		"industry": "Media"
 	},
 	"alt_fp": {
 		"name": "Altran Technologies",
 		"ticker": "ALT FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "IT Services"
+		"sector": "Tech",
+		"industry": "IT Services"
 	},
 	"ams_sq": {
 		"name": "Amadeus IT Group",
 		"ticker": "AMS SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "IT Services"
+		"sector": "Tech",
+		"industry": "IT Services"
 	},
 	"ambub_dc": {
 		"name": "Ambu",
 		"ticker": "AMBUB DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Providers & Services"
+		"sector": "Health Care",
+		"industry": "Health Care Providers & Services"
 	},
 	"ameas_fh": {
 		"name": "Amer Sports",
 		"ticker": "AMEAS FH",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Leisure Products"
+		"sector": "Consumer Discretionary",
+		"industry": "Leisure Products"
 	},
 	"ams_sw": {
 		"name": "ams",
 		"ticker": "AMS SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Semiconductors & Equipment",
-		"industryName": "Semiconductors & Equipment"
+		"sector": "Tech",
+		"industry": "Semiconductors & Equipment"
 	},
 	"amun_fp": {
 		"name": "Amundi",
 		"ticker": "AMUN FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"andr_av": {
 		"name": "ANDRITZ",
 		"ticker": "ANDR AV",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"aal_ln": {
 		"name": "Anglo American",
 		"ticker": "AAL LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Materials",
-		"industryName": "Metals & Mining"
+		"sector": "Materials",
+		"industry": "Metals & Mining"
 	},
 	"abi_bb": {
 		"name": "Anheuser-Busch InBev",
 		"ticker": "ABI BB",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Beverages"
+		"sector": "Consumer Staples",
+		"industry": "Beverages"
 	},
 	"anto_ln": {
 		"name": "Antofagasta",
 		"ticker": "ANTO LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Materials",
-		"industryName": "Metals & Mining"
+		"sector": "Materials",
+		"industry": "Metals & Mining"
 	},
 	"maerskb_dc": {
 		"name": "AP Moller - Maersk",
 		"ticker": "MAERSKB DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Marine"
+		"sector": "Industrials",
+		"industry": "Marine"
 	},
 	"mt_na": {
 		"name": "ArcelorMittal",
 		"ticker": "MT NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Metals & Mining"
+		"sector": "Materials",
+		"industry": "Metals & Mining"
 	},
 	"ake_fp": {
 		"name": "Arkema",
 		"ticker": "AKE FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"at1_gy": {
 		"name": "Aroundtown",
 		"ticker": "AT1 GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Real Estate Management & Dev"
+		"sector": "Real Estate",
+		"industry": "Real Estate Management & Dev"
 	},
 	"aryn_sw": {
 		"name": "Aryzta",
 		"ticker": "ARYN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Gas"
+		"sector": "Consumer Staples",
+		"industry": "Gas"
 	},
 	"aht_ln": {
 		"name": "Ashtead Group",
 		"ticker": "AHT LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Trading Companies & Distributors"
+		"sector": "Industrials",
+		"industry": "Trading Companies & Distributors"
 	},
 	"asm_na": {
 		"name": "ASM International",
 		"ticker": "ASM NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Semiconductors & Equipment",
-		"industryName": "Semiconductors & Equipment"
+		"sector": "Tech",
+		"industry": "Semiconductors & Equipment"
 	},
 	"asml_na": {
 		"name": "ASML",
 		"ticker": "ASML NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Semiconductors & Equipment",
-		"industryName": "Semiconductors & Equipment"
+		"sector": "Tech",
+		"industry": "Semiconductors & Equipment"
 	},
 	"asrnl_na": {
 		"name": "ASR Nederland",
 		"ticker": "ASRNL NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"assab_ss": {
 		"name": "Assa Abloy",
 		"ticker": "ASSAB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Building Products"
+		"sector": "Industrials",
+		"industry": "Building Products"
 	},
 	"g_im": {
 		"name": "Assicurazioni Generali",
 		"ticker": "G IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"abf_ln": {
 		"name": "Associated British Foods",
 		"ticker": "ABF LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Gas"
+		"sector": "Consumer Staples",
+		"industry": "Gas"
 	},
 	"azn_ln": {
 		"name": "AstraZeneca",
 		"ticker": "AZN LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Pharmaceuticals"
+		"sector": "Health Care",
+		"industry": "Pharmaceuticals"
 	},
 	"atl_im": {
 		"name": "Atlantia",
 		"ticker": "ATL IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Transportation Infrastructure"
+		"sector": "Industrials",
+		"industry": "Transportation Infrastructure"
 	},
 	"atcoa_ss": {
 		"name": "Atlas Copco",
 		"ticker": "ATCOA SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"ato_fp": {
 		"name": "Atos",
 		"ticker": "ATO FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "IT Services"
+		"sector": "Tech",
+		"industry": "IT Services"
 	},
 	"nda_gy": {
 		"name": "Aurubis",
 		"ticker": "NDA GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Metals & Mining"
+		"sector": "Materials",
+		"industry": "Metals & Mining"
 	},
 	"auto_ln": {
 		"name": "Auto Trader Group",
 		"ticker": "AUTO LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "Internet Software & Services"
+		"sector": "Tech",
+		"industry": "Internet Software & Services"
 	},
 	"av_ln": {
 		"name": "Aviva",
 		"ticker": "AV LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"cs_fp": {
 		"name": "AXA",
 		"ticker": "CS FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"spr_gy": {
 		"name": "Axel Springer",
 		"ticker": "SPR GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Media",
-		"industryName": "Media"
+		"sector": "Consumer Discretionary",
+		"industry": "Media"
 	},
 	"azm_im": {
 		"name": "Azimut",
 		"ticker": "AZM IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"bme_ln": {
 		"name": "B&M European Value Retail",
 		"ticker": "BME LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Retailing",
-		"industryName": "Multiline Retail"
+		"sector": "Consumer Discretionary",
+		"industry": "Multiline Retail"
 	},
 	"bab_ln": {
 		"name": "Babcock International Group PL",
 		"ticker": "BAB LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Commercial Services & Supplies"
+		"sector": "Industrials",
+		"industry": "Commercial Services & Supplies"
 	},
 	"ba_ln": {
 		"name": "BAE Systems",
 		"ticker": "BA LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Aerospace & Defense"
+		"sector": "Industrials",
+		"industry": "Aerospace & Defense"
 	},
 	"bby_ln": {
 		"name": "Balfour Beatty",
 		"ticker": "BBY LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Construction & Engineering"
+		"sector": "Industrials",
+		"industry": "Construction & Engineering"
 	},
 	"baln_sw": {
 		"name": "Baloise",
 		"ticker": "BALN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"bbva_sq": {
 		"name": "Banco Bilbao Vizcaya Argentari",
 		"ticker": "BBVA SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"bami_im": {
 		"name": "Banco BPM",
 		"ticker": "BAMI IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"bcp_pl": {
 		"name": "Banco Comercial Portugues",
 		"ticker": "BCP PL",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"sab_sq": {
 		"name": "Banco de Sabadell",
 		"ticker": "SAB SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"san_sq": {
 		"name": "Banco Santander",
 		"ticker": "SAN SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"birg_id": {
 		"name": "Bank of Ireland Group",
 		"ticker": "BIRG ID",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"bkia_sq": {
 		"name": "Bankia",
 		"ticker": "BKIA SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"bkt_sq": {
 		"name": "Bankinter",
 		"ticker": "BKT SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"barc_ln": {
 		"name": "Barclays",
 		"ticker": "BARC LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"bdev_ln": {
 		"name": "Barratt Developments",
 		"ticker": "BDEV LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Household Durables"
+		"sector": "Consumer Discretionary",
+		"industry": "Household Durables"
 	},
 	"barn_sw": {
 		"name": "Barry Callebaut",
 		"ticker": "BARN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Gas"
+		"sector": "Consumer Staples",
+		"industry": "Gas"
 	},
 	"bas_gy": {
 		"name": "BASF",
 		"ticker": "BAS GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"bayn_gy": {
 		"name": "Bayer",
 		"ticker": "BAYN GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Pharmaceuticals"
+		"sector": "Health Care",
+		"industry": "Pharmaceuticals"
 	},
 	"bmw_gy": {
 		"name": "Bayerische Motoren Werke",
 		"ticker": "BMW GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Autos & Parts",
-		"industryName": "Autos"
+		"sector": "Consumer Discretionary",
+		"industry": "Autos"
 	},
 	"bion_sw": {
 		"name": "BB Biotech",
 		"ticker": "BION SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": null,
-		"industryName": null
+		"sector": null,
+		"industry": null
 	},
 	"bba_ln": {
 		"name": "BBA Aviation",
 		"ticker": "BBA LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Transportation Infrastructure"
+		"sector": "Industrials",
+		"industry": "Transportation Infrastructure"
 	},
 	"besi_na": {
 		"name": "BE Semiconductor Industries",
 		"ticker": "BESI NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Semiconductors & Equipment",
-		"industryName": "Semiconductors & Equipment"
+		"sector": "Tech",
+		"industry": "Semiconductors & Equipment"
 	},
 	"bez_ln": {
 		"name": "Beazley",
 		"ticker": "BEZ LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"bei_gy": {
 		"name": "Beiersdorf",
 		"ticker": "BEI GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Household & Personal Products",
-		"industryName": "Personal Products"
+		"sector": "Consumer Staples",
+		"industry": "Personal Products"
 	},
 	"bwy_ln": {
 		"name": "Bellway",
 		"ticker": "BWY LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Household Durables"
+		"sector": "Consumer Discretionary",
+		"industry": "Household Durables"
 	},
 	"bkg_ln": {
 		"name": "Berkeley Group",
 		"ticker": "BKG LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Household Durables"
+		"sector": "Consumer Discretionary",
+		"industry": "Household Durables"
 	},
 	"blt_ln": {
 		"name": "BHP Billiton",
 		"ticker": "BLT LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Materials",
-		"industryName": "Metals & Mining"
+		"sector": "Materials",
+		"industry": "Metals & Mining"
 	},
 	"bill_ss": {
 		"name": "BillerudKorsnas",
 		"ticker": "BILL SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Containers & Packaging"
+		"sector": "Materials",
+		"industry": "Containers & Packaging"
 	},
 	"bim_fp": {
 		"name": "BioMerieux",
 		"ticker": "BIM FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Providers & Services"
+		"sector": "Health Care",
+		"industry": "Health Care Providers & Services"
 	},
 	"bnp_fp": {
 		"name": "BNP Paribas",
 		"ticker": "BNP FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"bol_ss": {
 		"name": "Boliden",
 		"ticker": "BOL SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Metals & Mining"
+		"sector": "Materials",
+		"industry": "Metals & Mining"
 	},
 	"bol_fp": {
 		"name": "Bollore",
 		"ticker": "BOL FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Air Freight & Logistics"
+		"sector": "Industrials",
+		"industry": "Air Freight & Logistics"
 	},
 	"bme_sq": {
 		"name": "Bolsas y Mercados Espanoles SH",
 		"ticker": "BME SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"boka_na": {
 		"name": "Boskalis Westminster",
 		"ticker": "BOKA NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Construction & Engineering"
+		"sector": "Industrials",
+		"industry": "Construction & Engineering"
 	},
 	"en_fp": {
 		"name": "Bouygues",
 		"ticker": "EN FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Construction & Engineering"
+		"sector": "Industrials",
+		"industry": "Construction & Engineering"
 	},
 	"bp_ln": {
 		"name": "BP",
 		"ticker": "BP LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Energy",
-		"industryName": "Oil, Gas & Consumable Fuels"
+		"sector": "Energy",
+		"industry": "Oil, Gas & Consumable Fuels"
 	},
 	"bpe_im": {
 		"name": "BPER Banca",
 		"ticker": "BPE IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"bpost_bb": {
 		"name": "bpost",
 		"ticker": "BPOST BB",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Air Freight & Logistics"
+		"sector": "Industrials",
+		"industry": "Air Freight & Logistics"
 	},
 	"bnr_gy": {
 		"name": "Brenntag",
 		"ticker": "BNR GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Trading Companies & Distributors"
+		"sector": "Industrials",
+		"industry": "Trading Companies & Distributors"
 	},
 	"bats_ln": {
 		"name": "British American Tobacco",
 		"ticker": "BATS LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Tobacco"
+		"sector": "Consumer Staples",
+		"industry": "Tobacco"
 	},
 	"blnd_ln": {
 		"name": "British Land Co",
 		"ticker": "BLND LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Food & Staples Retailing"
+		"sector": "Real Estate",
+		"industry": "Food & Staples Retailing"
 	},
 	"bvic_ln": {
 		"name": "Britvic",
 		"ticker": "BVIC LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Beverages"
+		"sector": "Consumer Staples",
+		"industry": "Beverages"
 	},
 	"bta_ln": {
 		"name": "BT Group",
 		"ticker": "BTA LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Diversified Telcos"
+		"sector": "Telcos",
+		"industry": "Diversified Telcos"
 	},
 	"btg_ln": {
 		"name": "BTG",
 		"ticker": "BTG LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Pharmaceuticals"
+		"sector": "Health Care",
+		"industry": "Pharmaceuticals"
 	},
 	"bucn_sw": {
 		"name": "Bucher Industries",
 		"ticker": "BUCN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"bnzl_ln": {
 		"name": "Bunzl",
 		"ticker": "BNZL LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Trading Companies & Distributors"
+		"sector": "Industrials",
+		"industry": "Trading Companies & Distributors"
 	},
 	"brby_ln": {
 		"name": "Burberry Group",
 		"ticker": "BRBY LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Textiles, Apparel & Luxury Goods"
+		"sector": "Consumer Discretionary",
+		"industry": "Textiles, Apparel & Luxury Goods"
 	},
 	"bvi_fp": {
 		"name": "Bureau Veritas",
 		"ticker": "BVI FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Professional Services"
+		"sector": "Industrials",
+		"industry": "Professional Services"
 	},
 	"bwo_av": {
 		"name": "BUWOG",
 		"ticker": "BWO AV",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Real Estate Management & Dev"
+		"sector": "Real Estate",
+		"industry": "Real Estate Management & Dev"
 	},
 	"cabk_sq": {
 		"name": "CaixaBank",
 		"ticker": "CABK SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"cap_fp": {
 		"name": "Capgemini",
 		"ticker": "CAP FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "IT Services"
+		"sector": "Tech",
+		"industry": "IT Services"
 	},
 	"capc_ln": {
 		"name": "Capitalunties Properties",
 		"ticker": "CAPC LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Real Estate Management & Dev"
+		"sector": "Real Estate",
+		"industry": "Real Estate Management & Dev"
 	},
 	"carlb_dc": {
 		"name": "Carlsberg",
 		"ticker": "CARLB DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Beverages"
+		"sector": "Consumer Staples",
+		"industry": "Beverages"
 	},
 	"ccl_ln": {
 		"name": "Carnival",
 		"ticker": "CCL LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Consumer Services",
-		"industryName": "Hotels, Restaurants & Leisure"
+		"sector": "Consumer Discretionary",
+		"industry": "Hotels, Restaurants & Leisure"
 	},
 	"ca_fp": {
 		"name": "Carrefour",
 		"ticker": "CA FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food & Staples",
-		"industryName": "Food Products"
+		"sector": "Consumer Staples",
+		"industry": "Food Products"
 	},
 	"co_fp": {
 		"name": "Casino Guichard Perrachon",
 		"ticker": "CO FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food & Staples",
-		"industryName": "Food Products"
+		"sector": "Consumer Staples",
+		"industry": "Food Products"
 	},
 	"cast_ss": {
 		"name": "Castellum",
 		"ticker": "CAST SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Real Estate Management & Dev"
+		"sector": "Real Estate",
+		"industry": "Real Estate Management & Dev"
 	},
 	"clnx_sq": {
 		"name": "Cellnex Telecom",
 		"ticker": "CLNX SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Diversified Telcos"
+		"sector": "Telcos",
+		"industry": "Diversified Telcos"
 	},
 	"cmbn_sw": {
 		"name": "Cembra Money Bank",
 		"ticker": "CMBN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Consumer Finance"
+		"sector": "Financials",
+		"industry": "Consumer Finance"
 	},
 	"cey_ln": {
 		"name": "Centamin",
 		"ticker": "CEY LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Materials",
-		"industryName": "Metals & Mining"
+		"sector": "Materials",
+		"industry": "Metals & Mining"
 	},
 	"cna_ln": {
 		"name": "Centrica",
 		"ticker": "CNA LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Multi-Utilities"
+		"sector": "Utilities",
+		"industry": "Multi-Utilities"
 	},
 	"cez_ck": {
 		"name": "CEZ",
 		"ticker": "CEZ CK",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Electric"
+		"sector": "Utilities",
+		"industry": "Electric"
 	},
 	"lisn_sw": {
 		"name": "Chocoladefabriken Lindt & Spru",
 		"ticker": "LISN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Gas"
+		"sector": "Consumer Staples",
+		"industry": "Gas"
 	},
 	"chr_dc": {
 		"name": "Chr Hansen",
 		"ticker": "CHR DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"cdi_fp": {
 		"name": "Christian Dior",
 		"ticker": "CDI FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Textiles, Apparel & Luxury Goods"
+		"sector": "Consumer Discretionary",
+		"industry": "Textiles, Apparel & Luxury Goods"
 	},
 	"sgo_fp": {
 		"name": "de Saint-Gobain",
 		"ticker": "SGO FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Building Products"
+		"sector": "Industrials",
+		"industry": "Building Products"
 	},
 	"cfr_sw": {
 		"name": "Financiere Richemont",
 		"ticker": "CFR SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Textiles, Apparel & Luxury Goods"
+		"sector": "Consumer Discretionary",
+		"industry": "Textiles, Apparel & Luxury Goods"
 	},
 	"ml_fp": {
 		"name": "Generale des Etablissement",
 		"ticker": "ML FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Autos & Parts",
-		"industryName": "Auto Parts"
+		"sector": "Consumer Discretionary",
+		"industry": "Auto Parts"
 	},
 	"pom_fp": {
 		"name": "Plastic Omnium",
 		"ticker": "POM FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Autos & Parts",
-		"industryName": "Auto Parts"
+		"sector": "Consumer Discretionary",
+		"industry": "Auto Parts"
 	},
 	"cln_sw": {
 		"name": "Clariant",
 		"ticker": "CLN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"cbg_ln": {
 		"name": "Close Brothers Group",
 		"ticker": "CBG LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"cnhi_im": {
 		"name": "CNH Industrial",
 		"ticker": "CNHI IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"cnp_fp": {
 		"name": "CNP Assurances",
 		"ticker": "CNP FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"cob_ln": {
 		"name": "Cobham",
 		"ticker": "COB LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Aerospace & Defense"
+		"sector": "Industrials",
+		"industry": "Aerospace & Defense"
 	},
 	"cch_ln": {
 		"name": "Coca-Cola HBC",
 		"ticker": "CCH LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Beverages"
+		"sector": "Consumer Staples",
+		"industry": "Beverages"
 	},
 	"cofb_bb": {
 		"name": "Cofinimmo",
 		"ticker": "COFB BB",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Food & Staples Retailing"
+		"sector": "Real Estate",
+		"industry": "Food & Staples Retailing"
 	},
 	"colob_dc": {
 		"name": "Coloplast",
 		"ticker": "COLOB DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Providers & Services"
+		"sector": "Health Care",
+		"industry": "Health Care Providers & Services"
 	},
 	"colr_bb": {
 		"name": "Colruyt",
 		"ticker": "COLR BB",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food & Staples",
-		"industryName": "Food Products"
+		"sector": "Consumer Staples",
+		"industry": "Food Products"
 	},
 	"cbk_gy": {
 		"name": "Commerzbank",
 		"ticker": "CBK GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"cpg_ln": {
 		"name": "Compass Group",
 		"ticker": "CPG LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Consumer Services",
-		"industryName": "Hotels, Restaurants & Leisure"
+		"sector": "Consumer Discretionary",
+		"industry": "Hotels, Restaurants & Leisure"
 	},
 	"con_gy": {
 		"name": "Continental",
 		"ticker": "CON GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Autos & Parts",
-		"industryName": "Auto Parts"
+		"sector": "Consumer Discretionary",
+		"industry": "Auto Parts"
 	},
 	"ctec_ln": {
 		"name": "ConvaTec Group",
 		"ticker": "CTEC LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Providers & Services"
+		"sector": "Health Care",
+		"industry": "Health Care Providers & Services"
 	},
 	"1cov_gy": {
 		"name": "Covestro",
 		"ticker": "1COV GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"aca_fp": {
 		"name": "Credit Agricole",
 		"ticker": "ACA FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"csgn_sw": {
 		"name": "Credit Suisse Group",
 		"ticker": "CSGN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"crh_id": {
 		"name": "CRH",
 		"ticker": "CRH ID",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Construction Materials"
+		"sector": "Materials",
+		"industry": "Construction Materials"
 	},
 	"crda_ln": {
 		"name": "Croda International",
 		"ticker": "CRDA LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"cybg_ln": {
 		"name": "CYBG",
 		"ticker": "CYBG LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"dmgt_ln": {
 		"name": "Daily Mail & General Trust",
 		"ticker": "DMGT LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Media",
-		"industryName": "Media"
+		"sector": "Consumer Discretionary",
+		"industry": "Media"
 	},
 	"dai_gy": {
 		"name": "Daimler",
 		"ticker": "DAI GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Autos & Parts",
-		"industryName": "Autos"
+		"sector": "Consumer Discretionary",
+		"industry": "Autos"
 	},
 	"bn_fp": {
 		"name": "Danone",
 		"ticker": "BN FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Gas"
+		"sector": "Consumer Staples",
+		"industry": "Gas"
 	},
 	"danske_dc": {
 		"name": "Danske Bank",
 		"ticker": "DANSKE DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"am_fp": {
 		"name": "Dassault Aviation",
 		"ticker": "AM FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Aerospace & Defense"
+		"sector": "Industrials",
+		"industry": "Aerospace & Defense"
 	},
 	"dsy_fp": {
 		"name": "Dassault Systemes",
 		"ticker": "DSY FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "Software"
+		"sector": "Tech",
+		"industry": "Software"
 	},
 	"cpr_im": {
 		"name": "Davide Campari-Milano",
 		"ticker": "CPR IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Beverages"
+		"sector": "Consumer Staples",
+		"industry": "Beverages"
 	},
 	"dcc_ln": {
 		"name": "DCC",
 		"ticker": "DCC LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Industrial Conglomerates"
+		"sector": "Industrials",
+		"industry": "Industrial Conglomerates"
 	},
 	"dph_ln": {
 		"name": "Dechra Pharmaceuticals",
 		"ticker": "DPH LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Pharmaceuticals"
+		"sector": "Health Care",
+		"industry": "Pharmaceuticals"
 	},
 	"dher_gy": {
 		"name": "Delivery Hero",
 		"ticker": "DHER GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "Internet Software & Services"
+		"sector": "Tech",
+		"industry": "Internet Software & Services"
 	},
 	"dln_ln": {
 		"name": "Derwent London",
 		"ticker": "DLN LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Food & Staples Retailing"
+		"sector": "Real Estate",
+		"industry": "Food & Staples Retailing"
 	},
 	"dbk_gy": {
 		"name": "Deutsche Bank",
 		"ticker": "DBK GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"db1_gy": {
 		"name": "Deutsche Boerse",
 		"ticker": "DB1 GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"lha_gy": {
 		"name": "Deutsche Lufthansa",
 		"ticker": "LHA GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Airlines"
+		"sector": "Industrials",
+		"industry": "Airlines"
 	},
 	"dpw_gy": {
 		"name": "Deutsche Post",
 		"ticker": "DPW GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Air Freight & Logistics"
+		"sector": "Industrials",
+		"industry": "Air Freight & Logistics"
 	},
 	"dte_gy": {
 		"name": "Deutsche Telekom",
 		"ticker": "DTE GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Diversified Telcos"
+		"sector": "Telcos",
+		"industry": "Diversified Telcos"
 	},
 	"dwni_gy": {
 		"name": "Deutsche Wohnen",
 		"ticker": "DWNI GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Real Estate Management & Dev"
+		"sector": "Real Estate",
+		"industry": "Real Estate Management & Dev"
 	},
 	"dge_ln": {
 		"name": "Diageo",
 		"ticker": "DGE LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Beverages"
+		"sector": "Consumer Staples",
+		"industry": "Beverages"
 	},
 	"dlg_ln": {
 		"name": "Direct Line Insurance Group PL",
 		"ticker": "DLG LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"dia_sq": {
 		"name": "Distribuidora Internacional de",
 		"ticker": "DIA SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food & Staples",
-		"industryName": "Food Products"
+		"sector": "Consumer Staples",
+		"industry": "Food Products"
 	},
 	"dc_ln": {
 		"name": "Dixons Carphone",
 		"ticker": "DC LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Retailing",
-		"industryName": "Specialty Retail"
+		"sector": "Consumer Discretionary",
+		"industry": "Specialty Retail"
 	},
 	"dksh_sw": {
 		"name": "DKSH",
 		"ticker": "DKSH SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Professional Services"
+		"sector": "Industrials",
+		"industry": "Professional Services"
 	},
 	"dnb_no": {
 		"name": "DNB",
 		"ticker": "DNB NO",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"dom_ss": {
 		"name": "Dometic Group",
 		"ticker": "DOM SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Autos & Parts",
-		"industryName": "Auto Parts"
+		"sector": "Consumer Discretionary",
+		"industry": "Auto Parts"
 	},
 	"doka_sw": {
 		"name": "dormakaba",
 		"ticker": "DOKA SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Building Products"
+		"sector": "Industrials",
+		"industry": "Building Products"
 	},
 	"smds_ln": {
 		"name": "DS Smith",
 		"ticker": "SMDS LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Materials",
-		"industryName": "Containers & Packaging"
+		"sector": "Materials",
+		"industry": "Containers & Packaging"
 	},
 	"dsv_dc": {
 		"name": "DSV",
 		"ticker": "DSV DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Road & Rail"
+		"sector": "Industrials",
+		"industry": "Road & Rail"
 	},
 	"due_gy": {
 		"name": "Duerr",
 		"ticker": "DUE GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"dufn_sw": {
 		"name": "Dufry",
 		"ticker": "DUFN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Retailing",
-		"industryName": "Specialty Retail"
+		"sector": "Consumer Discretionary",
+		"industry": "Specialty Retail"
 	},
 	"eoan_gy": {
 		"name": "E.ON",
 		"ticker": "EOAN GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Multi-Utilities"
+		"sector": "Utilities",
+		"industry": "Multi-Utilities"
 	},
 	"ezj_ln": {
 		"name": "easyJet",
 		"ticker": "EZJ LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Airlines"
+		"sector": "Industrials",
+		"industry": "Airlines"
 	},
 	"eden_fp": {
 		"name": "Edenred",
 		"ticker": "EDEN FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Commercial Services & Supplies"
+		"sector": "Industrials",
+		"industry": "Commercial Services & Supplies"
 	},
 	"edp_pl": {
 		"name": "EDP - Energias de Portugal",
 		"ticker": "EDP PL",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Electric"
+		"sector": "Utilities",
+		"industry": "Electric"
 	},
 	"fgr_fp": {
 		"name": "Eiffage",
 		"ticker": "FGR FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Construction & Engineering"
+		"sector": "Industrials",
+		"industry": "Construction & Engineering"
 	},
 	"edf_fp": {
 		"name": "Electricite de France",
 		"ticker": "EDF FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Electric"
+		"sector": "Utilities",
+		"industry": "Electric"
 	},
 	"ecm_ln": {
 		"name": "Electrocomponents",
 		"ticker": "ECM LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Tech Hardware & Equipment",
-		"industryName": "Energy Equipment & Services"
+		"sector": "Tech",
+		"industry": "Energy Equipment & Services"
 	},
 	"eluxb_ss": {
 		"name": "Electrolux",
 		"ticker": "ELUXB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Household Durables"
+		"sector": "Consumer Discretionary",
+		"industry": "Household Durables"
 	},
 	"ektab_ss": {
 		"name": "Elekta",
 		"ticker": "EKTAB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Providers & Services"
+		"sector": "Health Care",
+		"industry": "Health Care Providers & Services"
 	},
 	"elior_fp": {
 		"name": "Elior Group",
 		"ticker": "ELIOR FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Services",
-		"industryName": "Hotels, Restaurants & Leisure"
+		"sector": "Consumer Discretionary",
+		"industry": "Hotels, Restaurants & Leisure"
 	},
 	"elis_fp": {
 		"name": "Elis",
 		"ticker": "ELIS FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Commercial Services & Supplies"
+		"sector": "Industrials",
+		"industry": "Commercial Services & Supplies"
 	},
 	"elisa_fh": {
 		"name": "Elisa",
 		"ticker": "ELISA FH",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Diversified Telcos"
+		"sector": "Telcos",
+		"industry": "Diversified Telcos"
 	},
 	"emsn_sw": {
 		"name": "EMS-Chemie",
 		"ticker": "EMSN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"eng_sq": {
 		"name": "Enagas",
 		"ticker": "ENG SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Energy",
-		"industryName": "Oil, Gas & Consumable Fuels"
+		"sector": "Energy",
+		"industry": "Oil, Gas & Consumable Fuels"
 	},
 	"ele_sq": {
 		"name": "Endesa",
 		"ticker": "ELE SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Electric"
+		"sector": "Utilities",
+		"industry": "Electric"
 	},
 	"enel_im": {
 		"name": "Enel",
 		"ticker": "ENEL IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Electric"
+		"sector": "Utilities",
+		"industry": "Electric"
 	},
 	"engi_fp": {
 		"name": "Engie",
 		"ticker": "ENGI FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Multi-Utilities"
+		"sector": "Utilities",
+		"industry": "Multi-Utilities"
 	},
 	"eni_im": {
 		"name": "Eni",
 		"ticker": "ENI IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Energy",
-		"industryName": "Oil, Gas & Consumable Fuels"
+		"sector": "Energy",
+		"industry": "Oil, Gas & Consumable Fuels"
 	},
 	"ebs_av": {
 		"name": "Erste Group Bank",
 		"ticker": "EBS AV",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"ei_fp": {
 		"name": "Essilor International",
 		"ticker": "EI FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Providers & Services"
+		"sector": "Health Care",
+		"industry": "Health Care Providers & Services"
 	},
 	"essityb_ss": {
 		"name": "Essity",
 		"ticker": "ESSITYB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Household & Personal Products",
-		"industryName": "Household Products"
+		"sector": "Consumer Staples",
+		"industry": "Household Products"
 	},
 	"rf_fp": {
 		"name": "Eurazeo",
 		"ticker": "RF FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Diversified Financial Services"
+		"sector": "Financials",
+		"industry": "Diversified Financial Services"
 	},
 	"erf_fp": {
 		"name": "Eurofins Scientific",
 		"ticker": "ERF FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Life Sciences Tools & Services"
+		"sector": "Health Care",
+		"industry": "Life Sciences Tools & Services"
 	},
 	"enx_fp": {
 		"name": "Euronext",
 		"ticker": "ENX FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"etl_fp": {
 		"name": "Eutelsat Communications",
 		"ticker": "ETL FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Media",
-		"industryName": "Media"
+		"sector": "Consumer Discretionary",
+		"industry": "Media"
 	},
 	"evk_gy": {
 		"name": "Evonik Industries",
 		"ticker": "EVK GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"exo_im": {
 		"name": "EXOR",
 		"ticker": "EXO IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Diversified Financial Services"
+		"sector": "Financials",
+		"industry": "Diversified Financial Services"
 	},
 	"expn_ln": {
 		"name": "Experian",
 		"ticker": "EXPN LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Professional Services"
+		"sector": "Industrials",
+		"industry": "Professional Services"
 	},
 	"fabg_ss": {
 		"name": "Fabege",
 		"ticker": "FABG SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Real Estate Management & Dev"
+		"sector": "Real Estate",
+		"industry": "Real Estate Management & Dev"
 	},
 	"baldb_ss": {
 		"name": "Fastighets AB Balder",
 		"ticker": "BALDB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Real Estate Management & Dev"
+		"sector": "Real Estate",
+		"industry": "Real Estate Management & Dev"
 	},
 	"eo_fp": {
 		"name": "Faurecia",
 		"ticker": "EO FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Autos & Parts",
-		"industryName": "Auto Parts"
+		"sector": "Consumer Discretionary",
+		"industry": "Auto Parts"
 	},
 	"ferg_ln": {
 		"name": "Ferguson",
 		"ticker": "FERG LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Trading Companies & Distributors"
+		"sector": "Industrials",
+		"industry": "Trading Companies & Distributors"
 	},
 	"race_im": {
 		"name": "Ferrari",
 		"ticker": "RACE IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Autos & Parts",
-		"industryName": "Autos"
+		"sector": "Consumer Discretionary",
+		"industry": "Autos"
 	},
 	"fer_sq": {
 		"name": "Ferrovial",
 		"ticker": "FER SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Construction & Engineering"
+		"sector": "Industrials",
+		"industry": "Construction & Engineering"
 	},
 	"fca_im": {
 		"name": "Fiat Chrysler Automobiles",
 		"ticker": "FCA IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Autos & Parts",
-		"industryName": "Autos"
+		"sector": "Consumer Discretionary",
+		"industry": "Autos"
 	},
 	"fbk_im": {
 		"name": "FinecoBank Banca Fineco",
 		"ticker": "FBK IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"fhzn_sw": {
 		"name": "Flughafen Zurich",
 		"ticker": "FHZN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Transportation Infrastructure"
+		"sector": "Industrials",
+		"industry": "Transportation Infrastructure"
 	},
 	"fdr_fp": {
 		"name": "Fonciere Des Regions",
 		"ticker": "FDR FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Food & Staples Retailing"
+		"sector": "Real Estate",
+		"industry": "Food & Staples Retailing"
 	},
 	"fortum_fh": {
 		"name": "Fortum",
 		"ticker": "FORTUM FH",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Electric"
+		"sector": "Utilities",
+		"industry": "Electric"
 	},
 	"fra_gy": {
 		"name": "FraportFrankfurt Airport S",
 		"ticker": "FRA GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Transportation Infrastructure"
+		"sector": "Industrials",
+		"industry": "Transportation Infrastructure"
 	},
 	"fntn_gy": {
 		"name": "Freenet",
 		"ticker": "FNTN GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Wireless Telcos"
+		"sector": "Telcos",
+		"industry": "Wireless Telcos"
 	},
 	"fme_gy": {
 		"name": "Fresenius Medical Care AG",
 		"ticker": "FME GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Technology"
+		"sector": "Health Care",
+		"industry": "Health Care Technology"
 	},
 	"fre_gy": {
 		"name": "Fresenius SE",
 		"ticker": "FRE GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Technology"
+		"sector": "Health Care",
+		"industry": "Health Care Technology"
 	},
 	"fres_ln": {
 		"name": "Fresnillo",
 		"ticker": "FRES LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Materials",
-		"industryName": "Metals & Mining"
+		"sector": "Materials",
+		"industry": "Metals & Mining"
 	},
 	"fpe3_gy": {
 		"name": "FUCHS PETROLUB",
 		"ticker": "FPE3 GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"gfs_ln": {
 		"name": "G4S",
 		"ticker": "GFS LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Commercial Services & Supplies"
+		"sector": "Industrials",
+		"industry": "Commercial Services & Supplies"
 	},
 	"glpg_na": {
 		"name": "Galapagos",
 		"ticker": "GLPG NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Biotechnology"
+		"sector": "Health Care",
+		"industry": "Biotechnology"
 	},
 	"galp_pl": {
 		"name": "Galp Energia SGPS",
 		"ticker": "GALP PL",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Energy",
-		"industryName": "Oil, Gas & Consumable Fuels"
+		"sector": "Energy",
+		"industry": "Oil, Gas & Consumable Fuels"
 	},
 	"gam_sw": {
 		"name": "GAM",
 		"ticker": "GAM SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"gas_sq": {
 		"name": "Gas Natural SDG",
 		"ticker": "GAS SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Health Care Equipment & Supplies"
+		"sector": "Utilities",
+		"industry": "Health Care Equipment & Supplies"
 	},
 	"g1a_gy": {
 		"name": "GEA Group",
 		"ticker": "G1A GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"gebn_sw": {
 		"name": "Geberit",
 		"ticker": "GEBN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Building Products"
+		"sector": "Industrials",
+		"industry": "Building Products"
 	},
 	"gfc_fp": {
 		"name": "Gecina",
 		"ticker": "GFC FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Food & Staples Retailing"
+		"sector": "Real Estate",
+		"industry": "Food & Staples Retailing"
 	},
 	"gto_na": {
 		"name": "Gemalto",
 		"ticker": "GTO NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "Software"
+		"sector": "Tech",
+		"industry": "Software"
 	},
 	"gen_dc": {
 		"name": "Genmab",
 		"ticker": "GEN DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Biotechnology"
+		"sector": "Health Care",
+		"industry": "Biotechnology"
 	},
 	"fin_sw": {
 		"name": "Georg Fischer",
 		"ticker": "FIN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"gxi_gy": {
 		"name": "Gerresheimer",
 		"ticker": "GXI GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Life Sciences Tools & Services"
+		"sector": "Health Care",
+		"industry": "Life Sciences Tools & Services"
 	},
 	"getib_ss": {
 		"name": "Getinge",
 		"ticker": "GETIB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Providers & Services"
+		"sector": "Health Care",
+		"industry": "Health Care Providers & Services"
 	},
 	"get_fp": {
 		"name": "Getlink",
 		"ticker": "GET FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Transportation Infrastructure"
+		"sector": "Industrials",
+		"industry": "Transportation Infrastructure"
 	},
 	"givn_sw": {
 		"name": "Givaudan",
 		"ticker": "GIVN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"gjf_no": {
 		"name": "Gjensidige Forsikring",
 		"ticker": "GJF NO",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"gkn_ln": {
 		"name": "GKN",
 		"ticker": "GKN LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Autos & Parts",
-		"industryName": "Auto Parts"
+		"sector": "Consumer Discretionary",
+		"industry": "Auto Parts"
 	},
 	"glb_id": {
 		"name": "Glanbia",
 		"ticker": "GLB ID",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Gas"
+		"sector": "Consumer Staples",
+		"industry": "Gas"
 	},
 	"gsk_ln": {
 		"name": "GlaxoSmithKline",
 		"ticker": "GSK LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Pharmaceuticals"
+		"sector": "Health Care",
+		"industry": "Pharmaceuticals"
 	},
 	"glen_ln": {
 		"name": "Glencore",
 		"ticker": "GLEN LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Materials",
-		"industryName": "Metals & Mining"
+		"sector": "Materials",
+		"industry": "Metals & Mining"
 	},
 	"gn_dc": {
 		"name": "GN Store Nord",
 		"ticker": "GN DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Providers & Services"
+		"sector": "Health Care",
+		"industry": "Health Care Providers & Services"
 	},
 	"gpor_ln": {
 		"name": "Great Portland Estates",
 		"ticker": "GPOR LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Food & Staples Retailing"
+		"sector": "Real Estate",
+		"industry": "Food & Staples Retailing"
 	},
 	"glj_gy": {
 		"name": "GRENKE",
 		"ticker": "GLJ GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Diversified Financial Services"
+		"sector": "Financials",
+		"industry": "Diversified Financial Services"
 	},
 	"grf_sq": {
 		"name": "Grifols",
 		"ticker": "GRF SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Biotechnology"
+		"sector": "Health Care",
+		"industry": "Biotechnology"
 	},
 	"gblb_bb": {
 		"name": "Groupe Bruxelles Lambert",
 		"ticker": "GBLB BB",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Diversified Financial Services"
+		"sector": "Financials",
+		"industry": "Diversified Financial Services"
 	},
 	"gvc_ln": {
 		"name": "GVC",
 		"ticker": "GVC LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Consumer Services",
-		"industryName": "Hotels, Restaurants & Leisure"
+		"sector": "Consumer Discretionary",
+		"industry": "Hotels, Restaurants & Leisure"
 	},
 	"lun_dc": {
 		"name": "H Lundbeck",
 		"ticker": "LUN DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Pharmaceuticals"
+		"sector": "Health Care",
+		"industry": "Pharmaceuticals"
 	},
 	"hlma_ln": {
 		"name": "Halma",
 		"ticker": "HLMA LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Tech Hardware & Equipment",
-		"industryName": "Energy Equipment & Services"
+		"sector": "Tech",
+		"industry": "Energy Equipment & Services"
 	},
 	"hmso_ln": {
 		"name": "Hammerson",
 		"ticker": "HMSO LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Food & Staples Retailing"
+		"sector": "Real Estate",
+		"industry": "Food & Staples Retailing"
 	},
 	"hnr1_gy": {
 		"name": "Hannover Rueck",
 		"ticker": "HNR1 GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"hl_ln": {
 		"name": "Hargreaves Lansdown",
 		"ticker": "HL LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"has_ln": {
 		"name": "Hays",
 		"ticker": "HAS LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Professional Services"
+		"sector": "Industrials",
+		"industry": "Professional Services"
 	},
 	"hei_gy": {
 		"name": "HeidelbergCement",
 		"ticker": "HEI GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Construction Materials"
+		"sector": "Materials",
+		"industry": "Construction Materials"
 	},
 	"heio_na": {
 		"name": "Heineken",
 		"ticker": "HEIO NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Beverages"
+		"sector": "Consumer Staples",
+		"industry": "Beverages"
 	},
 	"heia_na": {
 		"name": "Heineken",
 		"ticker": "HEIA NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Beverages"
+		"sector": "Consumer Staples",
+		"industry": "Beverages"
 	},
 	"hle_gy": {
 		"name": "Hella",
 		"ticker": "HLE GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Autos & Parts",
-		"industryName": "Auto Parts"
+		"sector": "Consumer Discretionary",
+		"industry": "Auto Parts"
 	},
 	"heln_sw": {
 		"name": "Helvetia",
 		"ticker": "HELN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"hen3_gy": {
 		"name": "Henkel",
 		"ticker": "HEN3 GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Household & Personal Products",
-		"industryName": "Household Products"
+		"sector": "Consumer Staples",
+		"industry": "Household Products"
 	},
 	"hmb_ss": {
 		"name": "Hennes & Mauritz",
 		"ticker": "HMB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Retailing",
-		"industryName": "Specialty Retail"
+		"sector": "Consumer Discretionary",
+		"industry": "Specialty Retail"
 	},
 	"rms_fp": {
 		"name": "Hermes International",
 		"ticker": "RMS FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Textiles, Apparel & Luxury Goods"
+		"sector": "Consumer Discretionary",
+		"industry": "Textiles, Apparel & Luxury Goods"
 	},
 	"hexab_ss": {
 		"name": "Hexagon",
 		"ticker": "HEXAB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Tech Hardware & Equipment",
-		"industryName": "Energy Equipment & Services"
+		"sector": "Tech",
+		"industry": "Energy Equipment & Services"
 	},
 	"hpolb_ss": {
 		"name": "Hexpol",
 		"ticker": "HPOLB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"hsx_ln": {
 		"name": "Hiscox",
 		"ticker": "HSX LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"hot_gy": {
 		"name": "HOCHTIEF",
 		"ticker": "HOT GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Construction & Engineering"
+		"sector": "Industrials",
+		"industry": "Construction & Engineering"
 	},
 	"hsv_ln": {
 		"name": "HomeServe",
 		"ticker": "HSV LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Commercial Services & Supplies"
+		"sector": "Industrials",
+		"industry": "Commercial Services & Supplies"
 	},
 	"hwdn_ln": {
 		"name": "Howden Joinery Group",
 		"ticker": "HWDN LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Trading Companies & Distributors"
+		"sector": "Industrials",
+		"industry": "Trading Companies & Distributors"
 	},
 	"hsba_ln": {
 		"name": "HSBC",
 		"ticker": "HSBA LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"boss_gy": {
 		"name": "HUGO BOSS",
 		"ticker": "BOSS GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Textiles, Apparel & Luxury Goods"
+		"sector": "Consumer Discretionary",
+		"industry": "Textiles, Apparel & Luxury Goods"
 	},
 	"huh1v_fh": {
 		"name": "Huhtamaki",
 		"ticker": "HUH1V FH",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Containers & Packaging"
+		"sector": "Materials",
+		"industry": "Containers & Packaging"
 	},
 	"husqb_ss": {
 		"name": "Husqvarna",
 		"ticker": "HUSQB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Household Durables"
+		"sector": "Consumer Discretionary",
+		"industry": "Household Durables"
 	},
 	"ibe_sq": {
 		"name": "Iberdrola",
 		"ticker": "IBE SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Electric"
+		"sector": "Utilities",
+		"industry": "Electric"
 	},
 	"ica_ss": {
 		"name": "ICA Gruppen",
 		"ticker": "ICA SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food & Staples",
-		"industryName": "Food Products"
+		"sector": "Consumer Staples",
+		"industry": "Food Products"
 	},
 	"icad_fp": {
 		"name": "ICADE",
 		"ticker": "ICAD FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Food & Staples Retailing"
+		"sector": "Real Estate",
+		"industry": "Food & Staples Retailing"
 	},
 	"igg_ln": {
 		"name": "IG Group",
 		"ticker": "IGG LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"ild_fp": {
 		"name": "Iliad",
 		"ticker": "ILD FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Diversified Telcos"
+		"sector": "Telcos",
+		"industry": "Diversified Telcos"
 	},
 	"imcd_na": {
 		"name": "IMCD",
 		"ticker": "IMCD NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Trading Companies & Distributors"
+		"sector": "Industrials",
+		"industry": "Trading Companies & Distributors"
 	},
 	"nk_fp": {
 		"name": "Imerys",
 		"ticker": "NK FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Construction Materials"
+		"sector": "Materials",
+		"industry": "Construction Materials"
 	},
 	"imi_ln": {
 		"name": "IMI",
 		"ticker": "IMI LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"imb_ln": {
 		"name": "Imperial Brands",
 		"ticker": "IMB LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Tobacco"
+		"sector": "Consumer Staples",
+		"industry": "Tobacco"
 	},
 	"inch_ln": {
 		"name": "Inchcape",
 		"ticker": "INCH LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Retailing",
-		"industryName": "Distributors"
+		"sector": "Consumer Discretionary",
+		"industry": "Distributors"
 	},
 	"indv_ln": {
 		"name": "Indivior",
 		"ticker": "INDV LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Pharmaceuticals"
+		"sector": "Health Care",
+		"industry": "Pharmaceuticals"
 	},
 	"itx_sq": {
 		"name": "Industria de Diseno Textil",
 		"ticker": "ITX SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Retailing",
-		"industryName": "Specialty Retail"
+		"sector": "Consumer Discretionary",
+		"industry": "Specialty Retail"
 	},
 	"indua_ss": {
 		"name": "Industrivarden",
 		"ticker": "INDUA SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Diversified Financial Services"
+		"sector": "Financials",
+		"industry": "Diversified Financial Services"
 	},
 	"ifx_gy": {
 		"name": "Infineon Technologies",
 		"ticker": "IFX GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Semiconductors & Equipment",
-		"industryName": "Semiconductors & Equipment"
+		"sector": "Tech",
+		"industry": "Semiconductors & Equipment"
 	},
 	"inf_ln": {
 		"name": "Informa",
 		"ticker": "INF LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Media",
-		"industryName": "Media"
+		"sector": "Consumer Discretionary",
+		"industry": "Media"
 	},
 	"inga_na": {
 		"name": "ING Groep",
 		"ticker": "INGA NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"ing_fp": {
 		"name": "Ingenico Group",
 		"ticker": "ING FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Tech Hardware & Equipment",
-		"industryName": "Energy Equipment & Services"
+		"sector": "Tech",
+		"industry": "Energy Equipment & Services"
 	},
 	"isat_ln": {
 		"name": "Inmarsat",
 		"ticker": "ISAT LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Diversified Telcos"
+		"sector": "Telcos",
+		"industry": "Diversified Telcos"
 	},
 	"col_sq": {
 		"name": "Inmobiliaria Colonial Socimi S",
 		"ticker": "COL SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Food & Staples Retailing"
+		"sector": "Real Estate",
+		"industry": "Food & Staples Retailing"
 	},
 	"igy_gy": {
 		"name": "Innogy",
 		"ticker": "IGY GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Multi-Utilities"
+		"sector": "Utilities",
+		"industry": "Multi-Utilities"
 	},
 	"ihg_ln": {
 		"name": "InterContinental Hotels Group",
 		"ticker": "IHG LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Consumer Services",
-		"industryName": "Hotels, Restaurants & Leisure"
+		"sector": "Consumer Discretionary",
+		"industry": "Hotels, Restaurants & Leisure"
 	},
 	"icp_ln": {
 		"name": "Intermediate Capital Group",
 		"ticker": "ICP LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"iag_ln": {
 		"name": "International Consolidated Air",
 		"ticker": "IAG LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Airlines"
+		"sector": "Industrials",
+		"industry": "Airlines"
 	},
 	"itrk_ln": {
 		"name": "Intertek Group",
 		"ticker": "ITRK LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Professional Services"
+		"sector": "Industrials",
+		"industry": "Professional Services"
 	},
 	"isp_im": {
 		"name": "Intesa Sanpaolo",
 		"ticker": "ISP IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"intrum_ss": {
 		"name": "Intrum",
 		"ticker": "INTRUM SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Commercial Services & Supplies"
+		"sector": "Industrials",
+		"industry": "Commercial Services & Supplies"
 	},
 	"intu_ln": {
 		"name": "Intu Properties",
 		"ticker": "INTU LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Food & Staples Retailing"
+		"sector": "Real Estate",
+		"industry": "Food & Staples Retailing"
 	},
 	"invp_ln": {
 		"name": "Investec",
 		"ticker": "INVP LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"inveb_ss": {
 		"name": "Investor",
 		"ticker": "INVEB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Diversified Financial Services"
+		"sector": "Financials",
+		"industry": "Diversified Financial Services"
 	},
 	"ipn_fp": {
 		"name": "Ipsen",
 		"ticker": "IPN FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Pharmaceuticals"
+		"sector": "Health Care",
+		"industry": "Pharmaceuticals"
 	},
 	"iss_dc": {
 		"name": "ISS",
 		"ticker": "ISS DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Commercial Services & Supplies"
+		"sector": "Industrials",
+		"industry": "Commercial Services & Supplies"
 	},
 	"ig_im": {
 		"name": "Italgas",
 		"ticker": "IG IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Health Care Equipment & Supplies"
+		"sector": "Utilities",
+		"industry": "Health Care Equipment & Supplies"
 	},
 	"itv_ln": {
 		"name": "ITV",
 		"ticker": "ITV LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Media",
-		"industryName": "Media"
+		"sector": "Consumer Discretionary",
+		"industry": "Media"
 	},
 	"iwg_ln": {
 		"name": "IWG",
 		"ticker": "IWG LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Commercial Services & Supplies"
+		"sector": "Industrials",
+		"industry": "Commercial Services & Supplies"
 	},
 	"sbry_ln": {
 		"name": "J Sainsbury",
 		"ticker": "SBRY LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Food & Staples",
-		"industryName": "Food Products"
+		"sector": "Consumer Staples",
+		"industry": "Food Products"
 	},
 	"dec_fp": {
 		"name": "JCDecaux",
 		"ticker": "DEC FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Media",
-		"industryName": "Media"
+		"sector": "Consumer Discretionary",
+		"industry": "Media"
 	},
 	"jmt_pl": {
 		"name": "Jeronimo Martins SGPS",
 		"ticker": "JMT PL",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food & Staples",
-		"industryName": "Food Products"
+		"sector": "Consumer Staples",
+		"industry": "Food Products"
 	},
 	"wg_ln": {
 		"name": "John Wood Group",
 		"ticker": "WG LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Energy",
-		"industryName": "Equity REITs"
+		"sector": "Energy",
+		"industry": "Equity REITs"
 	},
 	"jmat_ln": {
 		"name": "Johnson Matthey",
 		"ticker": "JMAT LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"baer_sw": {
 		"name": "Julius Baer Group",
 		"ticker": "BAER SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"jup_ln": {
 		"name": "Jupiter Fund Management",
 		"ticker": "JUP LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"je_ln": {
 		"name": "Just Eat",
 		"ticker": "JE LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "Internet Software & Services"
+		"sector": "Tech",
+		"industry": "Internet Software & Services"
 	},
 	"jysk_dc": {
 		"name": "Jyske Bank",
 		"ticker": "JYSK DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"sdf_gy": {
 		"name": "K+S",
 		"ticker": "SDF GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"kbc_bb": {
 		"name": "KBC Group",
 		"ticker": "KBC BB",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"ker_fp": {
 		"name": "Kering",
 		"ticker": "KER FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Textiles, Apparel & Luxury Goods"
+		"sector": "Consumer Discretionary",
+		"industry": "Textiles, Apparel & Luxury Goods"
 	},
 	"kyg_id": {
 		"name": "Kerry Group",
 		"ticker": "KYG ID",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Gas"
+		"sector": "Consumer Staples",
+		"industry": "Gas"
 	},
 	"keskob_fh": {
 		"name": "Kesko",
 		"ticker": "KESKOB FH",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food & Staples",
-		"industryName": "Food Products"
+		"sector": "Consumer Staples",
+		"industry": "Food Products"
 	},
 	"kindsdb_ss": {
 		"name": "Kindred Group",
 		"ticker": "KINDSDB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Services",
-		"industryName": "Hotels, Restaurants & Leisure"
+		"sector": "Consumer Discretionary",
+		"industry": "Hotels, Restaurants & Leisure"
 	},
 	"kgf_ln": {
 		"name": "Kingfisher",
 		"ticker": "KGF LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Retailing",
-		"industryName": "Specialty Retail"
+		"sector": "Consumer Discretionary",
+		"industry": "Specialty Retail"
 	},
 	"ksp_id": {
 		"name": "Kingspan Group",
 		"ticker": "KSP ID",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Building Products"
+		"sector": "Industrials",
+		"industry": "Building Products"
 	},
 	"kinvb_ss": {
 		"name": "Kinnevik",
 		"ticker": "KINVB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Diversified Financial Services"
+		"sector": "Financials",
+		"industry": "Diversified Financial Services"
 	},
 	"kgx_gy": {
 		"name": "KION Group",
 		"ticker": "KGX GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"li_fp": {
 		"name": "Klepierre",
 		"ticker": "LI FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Food & Staples Retailing"
+		"sector": "Real Estate",
+		"industry": "Food & Staples Retailing"
 	},
 	"komb_ck": {
 		"name": "Komercni banka",
 		"ticker": "KOMB CK",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"knebv_fh": {
 		"name": "Kone",
 		"ticker": "KNEBV FH",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"kcr_fh": {
 		"name": "Konecranes",
 		"ticker": "KCR FH",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"ad_na": {
 		"name": "Ahold Delhaize",
 		"ticker": "AD NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food & Staples",
-		"industryName": "Food Products"
+		"sector": "Consumer Staples",
+		"industry": "Food Products"
 	},
 	"dsm_na": {
 		"name": "DSM",
 		"ticker": "DSM NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"kpn_na": {
 		"name": "KPN",
 		"ticker": "KPN NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Diversified Telcos"
+		"sector": "Telcos",
+		"industry": "Diversified Telcos"
 	},
 	"phia_na": {
 		"name": "Philips",
 		"ticker": "PHIA NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Providers & Services"
+		"sector": "Health Care",
+		"industry": "Health Care Providers & Services"
 	},
 	"vpk_na": {
 		"name": "Vopak",
 		"ticker": "VPK NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Energy",
-		"industryName": "Oil, Gas & Consumable Fuels"
+		"sector": "Energy",
+		"industry": "Oil, Gas & Consumable Fuels"
 	},
 	"knin_sw": {
 		"name": "Kuehne + Nagel International A",
 		"ticker": "KNIN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Marine"
+		"sector": "Industrials",
+		"industry": "Marine"
 	},
 	"lundb_ss": {
 		"name": "L E Lundbergforetagen",
 		"ticker": "LUNDB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Diversified Financial Services"
+		"sector": "Financials",
+		"industry": "Diversified Financial Services"
 	},
 	"lhn_sw": {
 		"name": "LafargeHolcim",
 		"ticker": "LHN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Construction Materials"
+		"sector": "Materials",
+		"industry": "Construction Materials"
 	},
 	"mmb_fp": {
 		"name": "Lagardere",
 		"ticker": "MMB FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Media",
-		"industryName": "Media"
+		"sector": "Consumer Discretionary",
+		"industry": "Media"
 	},
 	"land_ln": {
 		"name": "Land Securities Group",
 		"ticker": "LAND LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Food & Staples Retailing"
+		"sector": "Real Estate",
+		"industry": "Food & Staples Retailing"
 	},
 	"lxs_gy": {
 		"name": "LANXESS",
 		"ticker": "LXS GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"leg_gy": {
 		"name": "LEG Immobilien",
 		"ticker": "LEG GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Real Estate Management & Dev"
+		"sector": "Real Estate",
+		"industry": "Real Estate Management & Dev"
 	},
 	"lgen_ln": {
 		"name": "Legal & General Group",
 		"ticker": "LGEN LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"lr_fp": {
 		"name": "Legrand",
 		"ticker": "LR FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Electrical Equipment"
+		"sector": "Industrials",
+		"industry": "Electrical Equipment"
 	},
 	"ldo_im": {
 		"name": "Leonardo",
 		"ticker": "LDO IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Aerospace & Defense"
+		"sector": "Industrials",
+		"industry": "Aerospace & Defense"
 	},
 	"linu_gy": {
 		"name": "Linde",
 		"ticker": "LINU GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"lloy_ln": {
 		"name": "Lloyds Banking Group",
 		"ticker": "LLOY LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"logn_sw": {
 		"name": "Logitech International",
 		"ticker": "LOGN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Tech Hardware & Equipment",
-		"industryName": "Tech Hardware, Storage & Peripherals"
+		"sector": "Tech",
+		"industry": "Tech Hardware, Storage & Peripherals"
 	},
 	"lse_ln": {
 		"name": "London Stock Exchange Group PL",
 		"ticker": "LSE LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"lonn_sw": {
 		"name": "Lonza Group",
 		"ticker": "LONN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Life Sciences Tools & Services"
+		"sector": "Health Care",
+		"industry": "Life Sciences Tools & Services"
 	},
 	"loomb_ss": {
 		"name": "Loomis",
 		"ticker": "LOOMB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Commercial Services & Supplies"
+		"sector": "Industrials",
+		"industry": "Commercial Services & Supplies"
 	},
 	"or_fp": {
 		"name": "L'Oreal",
 		"ticker": "OR FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Household & Personal Products",
-		"industryName": "Personal Products"
+		"sector": "Consumer Staples",
+		"industry": "Personal Products"
 	},
 	"lupe_ss": {
 		"name": "Lundin Petroleum",
 		"ticker": "LUPE SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Energy",
-		"industryName": "Oil, Gas & Consumable Fuels"
+		"sector": "Energy",
+		"industry": "Oil, Gas & Consumable Fuels"
 	},
 	"lux_im": {
 		"name": "Luxottica Group",
 		"ticker": "LUX IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Textiles, Apparel & Luxury Goods"
+		"sector": "Consumer Discretionary",
+		"industry": "Textiles, Apparel & Luxury Goods"
 	},
 	"mc_fp": {
 		"name": "LVMH Moet Hennessy Louis Vuitt",
 		"ticker": "MC FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Textiles, Apparel & Luxury Goods"
+		"sector": "Consumer Discretionary",
+		"industry": "Textiles, Apparel & Luxury Goods"
 	},
 	"emg_ln": {
 		"name": "Man Group",
 		"ticker": "EMG LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"man_gy": {
 		"name": "MAN",
 		"ticker": "MAN GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"map_sq": {
 		"name": "Mapfre",
 		"ticker": "MAP SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"mhg_no": {
 		"name": "Marine Harvest",
 		"ticker": "MHG NO",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Gas"
+		"sector": "Consumer Staples",
+		"industry": "Gas"
 	},
 	"mks_ln": {
 		"name": "Marks & Spencer Group",
 		"ticker": "MKS LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Retailing",
-		"industryName": "Multiline Retail"
+		"sector": "Consumer Discretionary",
+		"industry": "Multiline Retail"
 	},
 	"mdc_ln": {
 		"name": "Mediclinic International",
 		"ticker": "MDC LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Technology"
+		"sector": "Health Care",
+		"industry": "Health Care Technology"
 	},
 	"mb_im": {
 		"name": "Mediobanca Banca di Credito Fi",
 		"ticker": "MB IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"mggt_ln": {
 		"name": "Meggitt",
 		"ticker": "MGGT LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Aerospace & Defense"
+		"sector": "Industrials",
+		"industry": "Aerospace & Defense"
 	},
 	"mro_ln": {
 		"name": "Melrose Industries",
 		"ticker": "MRO LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Electrical Equipment"
+		"sector": "Industrials",
+		"industry": "Electrical Equipment"
 	},
 	"mrk_gy": {
 		"name": "Merck",
 		"ticker": "MRK GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Pharmaceuticals"
+		"sector": "Health Care",
+		"industry": "Pharmaceuticals"
 	},
 	"merl_ln": {
 		"name": "Merlin Entertainments",
 		"ticker": "MERL LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Consumer Services",
-		"industryName": "Hotels, Restaurants & Leisure"
+		"sector": "Consumer Discretionary",
+		"industry": "Hotels, Restaurants & Leisure"
 	},
 	"mrl_sq": {
 		"name": "Merlin Properties Socimi",
 		"ticker": "MRL SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Food & Staples Retailing"
+		"sector": "Real Estate",
+		"industry": "Food & Staples Retailing"
 	},
 	"b4b_gy": {
 		"name": "METRO",
 		"ticker": "B4B GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food & Staples",
-		"industryName": "Food Products"
+		"sector": "Consumer Staples",
+		"industry": "Food Products"
 	},
 	"mtro_ln": {
 		"name": "Metro Bank",
 		"ticker": "MTRO LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"metso_fh": {
 		"name": "Metso",
 		"ticker": "METSO FH",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"mcro_ln": {
 		"name": "Micro Focus International",
 		"ticker": "MCRO LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "Software"
+		"sector": "Tech",
+		"industry": "Software"
 	},
 	"monc_im": {
 		"name": "Moncler",
 		"ticker": "MONC IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Textiles, Apparel & Luxury Goods"
+		"sector": "Consumer Discretionary",
+		"industry": "Textiles, Apparel & Luxury Goods"
 	},
 	"mndi_ln": {
 		"name": "Mondi",
 		"ticker": "MNDI LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Materials",
-		"industryName": "Paper & Forest Products"
+		"sector": "Materials",
+		"industry": "Paper & Forest Products"
 	},
 	"mony_ln": {
 		"name": "Moneysupermarket.com Group",
 		"ticker": "MONY LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "Internet Software & Services"
+		"sector": "Tech",
+		"industry": "Internet Software & Services"
 	},
 	"mtx_gy": {
 		"name": "MTU Aero Engines",
 		"ticker": "MTX GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Aerospace & Defense"
+		"sector": "Industrials",
+		"industry": "Aerospace & Defense"
 	},
 	"muv2_gy": {
 		"name": "Muenchener Rueckversicherungs-",
 		"ticker": "MUV2 GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"ng_ln": {
 		"name": "National Grid",
 		"ticker": "NG LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Multi-Utilities"
+		"sector": "Utilities",
+		"industry": "Multi-Utilities"
 	},
 	"kn_fp": {
 		"name": "Natixis",
 		"ticker": "KN FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"neste_fh": {
 		"name": "Neste",
 		"ticker": "NESTE FH",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Energy",
-		"industryName": "Oil, Gas & Consumable Fuels"
+		"sector": "Energy",
+		"industry": "Oil, Gas & Consumable Fuels"
 	},
 	"nesn_sw": {
 		"name": "Nestle",
 		"ticker": "NESN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Gas"
+		"sector": "Consumer Staples",
+		"industry": "Gas"
 	},
 	"nxg_ln": {
 		"name": "NEX Group",
 		"ticker": "NXG LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"nxt_ln": {
 		"name": "Next",
 		"ticker": "NXT LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Retailing",
-		"industryName": "Multiline Retail"
+		"sector": "Consumer Discretionary",
+		"industry": "Multiline Retail"
 	},
 	"nibeb_ss": {
 		"name": "Nibe Industrier",
 		"ticker": "NIBEB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Building Products"
+		"sector": "Industrials",
+		"industry": "Building Products"
 	},
 	"nmc_ln": {
 		"name": "NMC Health",
 		"ticker": "NMC LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Technology"
+		"sector": "Health Care",
+		"industry": "Health Care Technology"
 	},
 	"nn_na": {
 		"name": "NN Group",
 		"ticker": "NN NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"nokia_fh": {
 		"name": "Nokia",
 		"ticker": "NOKIA FH",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Tech Hardware & Equipment",
-		"industryName": "Communications Equipment"
+		"sector": "Tech",
+		"industry": "Communications Equipment"
 	},
 	"nre1v_fh": {
 		"name": "Nokian Renkaat",
 		"ticker": "NRE1V FH",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Autos & Parts",
-		"industryName": "Auto Parts"
+		"sector": "Consumer Discretionary",
+		"industry": "Auto Parts"
 	},
 	"nda_ss": {
 		"name": "Nordea Bank",
 		"ticker": "NDA SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"nhy_no": {
 		"name": "Norsk Hydro",
 		"ticker": "NHY NO",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Metals & Mining"
+		"sector": "Materials",
+		"industry": "Metals & Mining"
 	},
 	"novn_sw": {
 		"name": "Novartis",
 		"ticker": "NOVN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Pharmaceuticals"
+		"sector": "Health Care",
+		"industry": "Pharmaceuticals"
 	},
 	"novob_dc": {
 		"name": "Novo Nordisk",
 		"ticker": "NOVOB DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Pharmaceuticals"
+		"sector": "Health Care",
+		"industry": "Pharmaceuticals"
 	},
 	"nzymb_dc": {
 		"name": "Novozymes",
 		"ticker": "NZYMB DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"oerl_sw": {
 		"name": "OC Oerlikon Corp",
 		"ticker": "OERL SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"ocdo_ln": {
 		"name": "Ocado Group",
 		"ticker": "OCDO LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Retailing",
-		"industryName": "Internet & Direct Marketing Retail"
+		"sector": "Consumer Discretionary",
+		"industry": "Internet & Direct Marketing Retail"
 	},
 	"oml_ln": {
 		"name": "Old Mutual",
 		"ticker": "OML LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"omv_av": {
 		"name": "OMV",
 		"ticker": "OMV AV",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Energy",
-		"industryName": "Oil, Gas & Consumable Fuels"
+		"sector": "Energy",
+		"industry": "Oil, Gas & Consumable Fuels"
 	},
 	"ora_fp": {
 		"name": "Orange",
 		"ticker": "ORA FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Diversified Telcos"
+		"sector": "Telcos",
+		"industry": "Diversified Telcos"
 	},
 	"ornbv_fh": {
 		"name": "Orion",
 		"ticker": "ORNBV FH",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Pharmaceuticals"
+		"sector": "Health Care",
+		"industry": "Pharmaceuticals"
 	},
 	"ork_no": {
 		"name": "Orkla",
 		"ticker": "ORK NO",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Gas"
+		"sector": "Consumer Staples",
+		"industry": "Gas"
 	},
 	"orp_fp": {
 		"name": "Orpea",
 		"ticker": "ORP FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Technology"
+		"sector": "Health Care",
+		"industry": "Health Care Technology"
 	},
 	"orsted_dc": {
 		"name": "Orsted",
 		"ticker": "ORSTED DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Electric"
+		"sector": "Utilities",
+		"industry": "Electric"
 	},
 	"osr_gy": {
 		"name": "OSRAM Licht",
 		"ticker": "OSR GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Electrical Equipment"
+		"sector": "Industrials",
+		"industry": "Electrical Equipment"
 	},
 	"out1v_fh": {
 		"name": "Outokumpu",
 		"ticker": "OUT1V FH",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Metals & Mining"
+		"sector": "Materials",
+		"industry": "Metals & Mining"
 	},
 	"ppb_id": {
 		"name": "Paddy Power Betfair",
 		"ticker": "PPB ID",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Services",
-		"industryName": "Hotels, Restaurants & Leisure"
+		"sector": "Consumer Discretionary",
+		"industry": "Hotels, Restaurants & Leisure"
 	},
 	"pndora_dc": {
 		"name": "Pandora",
 		"ticker": "PNDORA DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Textiles, Apparel & Luxury Goods"
+		"sector": "Consumer Discretionary",
+		"industry": "Textiles, Apparel & Luxury Goods"
 	},
 	"parg_sw": {
 		"name": "Pargesa",
 		"ticker": "PARG SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Diversified Financial Services"
+		"sector": "Financials",
+		"industry": "Diversified Financial Services"
 	},
 	"pghn_sw": {
 		"name": "Partners Group",
 		"ticker": "PGHN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"pson_ln": {
 		"name": "Pearson",
 		"ticker": "PSON LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Media",
-		"industryName": "Media"
+		"sector": "Consumer Discretionary",
+		"industry": "Media"
 	},
 	"pnn_ln": {
 		"name": "Pennon Group",
 		"ticker": "PNN LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Water"
+		"sector": "Utilities",
+		"industry": "Water"
 	},
 	"ri_fp": {
 		"name": "Pernod Ricard",
 		"ticker": "RI FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Beverages"
+		"sector": "Consumer Staples",
+		"industry": "Beverages"
 	},
 	"psn_ln": {
 		"name": "Persimmon",
 		"ticker": "PSN LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Household Durables"
+		"sector": "Consumer Discretionary",
+		"industry": "Household Durables"
 	},
 	"ug_fp": {
 		"name": "Peugeot",
 		"ticker": "UG FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Autos & Parts",
-		"industryName": "Autos"
+		"sector": "Consumer Discretionary",
+		"industry": "Autos"
 	},
 	"light_na": {
 		"name": "Signify",
 		"ticker": "LIGHT NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Electrical Equipment"
+		"sector": "Industrials",
+		"industry": "Electrical Equipment"
 	},
 	"phnx_ln": {
 		"name": "Phoenix Group",
 		"ticker": "PHNX LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"pirc_im": {
 		"name": "Pirelli & C",
 		"ticker": "PIRC IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Autos & Parts",
-		"industryName": "Auto Parts"
+		"sector": "Consumer Discretionary",
+		"industry": "Auto Parts"
 	},
 	"ptec_ln": {
 		"name": "Playtech",
 		"ticker": "PTEC LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Consumer Services",
-		"industryName": "Hotels, Restaurants & Leisure"
+		"sector": "Consumer Discretionary",
+		"industry": "Hotels, Restaurants & Leisure"
 	},
 	"poly_ln": {
 		"name": "Polymetal International",
 		"ticker": "POLY LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Materials",
-		"industryName": "Metals & Mining"
+		"sector": "Materials",
+		"industry": "Metals & Mining"
 	},
 	"pah3_gy": {
 		"name": "Porsche Automobil",
 		"ticker": "PAH3 GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Autos & Parts",
-		"industryName": "Autos"
+		"sector": "Consumer Discretionary",
+		"industry": "Autos"
 	},
 	"pst_im": {
 		"name": "Poste Italiane",
 		"ticker": "PST IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"psm_gy": {
 		"name": "ProSiebenSat.1 Media",
 		"ticker": "PSM GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Media",
-		"industryName": "Media"
+		"sector": "Consumer Discretionary",
+		"industry": "Media"
 	},
 	"prox_bb": {
 		"name": "Proximus SADP",
 		"ticker": "PROX BB",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Diversified Telcos"
+		"sector": "Telcos",
+		"industry": "Diversified Telcos"
 	},
 	"pru_ln": {
 		"name": "Prudential",
 		"ticker": "PRU LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"pry_im": {
 		"name": "Prysmian",
 		"ticker": "PRY IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Electrical Equipment"
+		"sector": "Industrials",
+		"industry": "Electrical Equipment"
 	},
 	"pspn_sw": {
 		"name": "PSP Swiss Property",
 		"ticker": "PSPN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Real Estate Management & Dev"
+		"sector": "Real Estate",
+		"industry": "Real Estate Management & Dev"
 	},
 	"pub_fp": {
 		"name": "Publicis Groupe",
 		"ticker": "PUB FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Media",
-		"industryName": "Media"
+		"sector": "Consumer Discretionary",
+		"industry": "Media"
 	},
 	"qia_gy": {
 		"name": "QIAGEN",
 		"ticker": "QIA GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Life Sciences Tools & Services"
+		"sector": "Health Care",
+		"industry": "Life Sciences Tools & Services"
 	},
 	"rbi_av": {
 		"name": "Raiffeisen Bank International",
 		"ticker": "RBI AV",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"rrs_ln": {
 		"name": "Randgold Resources",
 		"ticker": "RRS LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Materials",
-		"industryName": "Metals & Mining"
+		"sector": "Materials",
+		"industry": "Metals & Mining"
 	},
 	"rand_na": {
 		"name": "Randstad",
 		"ticker": "RAND NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Professional Services"
+		"sector": "Industrials",
+		"industry": "Professional Services"
 	},
 	"rb_ln": {
 		"name": "Reckitt Benckiser Group",
 		"ticker": "RB LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Household & Personal Products",
-		"industryName": "Household Products"
+		"sector": "Consumer Staples",
+		"industry": "Household Products"
 	},
 	"rec_im": {
 		"name": "Recordati",
 		"ticker": "REC IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Pharmaceuticals"
+		"sector": "Health Care",
+		"industry": "Pharmaceuticals"
 	},
 	"ree_sq": {
 		"name": "Red Electrica Corp",
 		"ticker": "REE SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Electric"
+		"sector": "Utilities",
+		"industry": "Electric"
 	},
 	"ren_na": {
 		"name": "RELX",
 		"ticker": "REN NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Professional Services"
+		"sector": "Industrials",
+		"industry": "Professional Services"
 	},
 	"rel_ln": {
 		"name": "RELX",
 		"ticker": "REL LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Professional Services"
+		"sector": "Industrials",
+		"industry": "Professional Services"
 	},
 	"rco_fp": {
 		"name": "Remy Cointreau",
 		"ticker": "RCO FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Beverages"
+		"sector": "Consumer Staples",
+		"industry": "Beverages"
 	},
 	"rno_fp": {
 		"name": "Renault",
 		"ticker": "RNO FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Autos & Parts",
-		"industryName": "Autos"
+		"sector": "Consumer Discretionary",
+		"industry": "Autos"
 	},
 	"rto_ln": {
 		"name": "Rentokil Initial",
 		"ticker": "RTO LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Commercial Services & Supplies"
+		"sector": "Industrials",
+		"industry": "Commercial Services & Supplies"
 	},
 	"rep_sq": {
 		"name": "Repsol",
 		"ticker": "REP SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Energy",
-		"industryName": "Oil, Gas & Consumable Fuels"
+		"sector": "Energy",
+		"industry": "Oil, Gas & Consumable Fuels"
 	},
 	"rxl_fp": {
 		"name": "Rexel",
 		"ticker": "RXL FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Trading Companies & Distributors"
+		"sector": "Industrials",
+		"industry": "Trading Companies & Distributors"
 	},
 	"rhm_gy": {
 		"name": "Rheinmetall",
 		"ticker": "RHM GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Industrial Conglomerates"
+		"sector": "Industrials",
+		"industry": "Industrial Conglomerates"
 	},
 	"rmv_ln": {
 		"name": "Rightmove",
 		"ticker": "RMV LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "Internet Software & Services"
+		"sector": "Tech",
+		"industry": "Internet Software & Services"
 	},
 	"rio_ln": {
 		"name": "Rio Tinto",
 		"ticker": "RIO LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Materials",
-		"industryName": "Metals & Mining"
+		"sector": "Materials",
+		"industry": "Metals & Mining"
 	},
 	"rog_sw": {
 		"name": "Roche",
 		"ticker": "ROG SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Pharmaceuticals"
+		"sector": "Health Care",
+		"industry": "Pharmaceuticals"
 	},
 	"rr_ln": {
 		"name": "Rolls-Royce",
 		"ticker": "RR LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Aerospace & Defense"
+		"sector": "Industrials",
+		"industry": "Aerospace & Defense"
 	},
 	"ror_ln": {
 		"name": "Rotork",
 		"ticker": "ROR LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"rbs_ln": {
 		"name": "Royal Bank of Scotland Group P",
 		"ticker": "RBS LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"rdsa_na": {
 		"name": "Royal Dutch Shell",
 		"ticker": "RDSA NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Energy",
-		"industryName": "Oil, Gas & Consumable Fuels"
+		"sector": "Energy",
+		"industry": "Oil, Gas & Consumable Fuels"
 	},
 	"rmg_ln": {
 		"name": "Royal Mail",
 		"ticker": "RMG LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Air Freight & Logistics"
+		"sector": "Industrials",
+		"industry": "Air Freight & Logistics"
 	},
 	"rpc_ln": {
 		"name": "RPC Group",
 		"ticker": "RPC LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Materials",
-		"industryName": "Containers & Packaging"
+		"sector": "Materials",
+		"industry": "Containers & Packaging"
 	},
 	"rsa_ln": {
 		"name": "RSA Insurance Group",
 		"ticker": "RSA LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"rrtl_gy": {
 		"name": "RTL Group",
 		"ticker": "RRTL GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Media",
-		"industryName": "Media"
+		"sector": "Consumer Discretionary",
+		"industry": "Media"
 	},
 	"rui_fp": {
 		"name": "Rubis",
 		"ticker": "RUI FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Health Care Equipment & Supplies"
+		"sector": "Utilities",
+		"industry": "Health Care Equipment & Supplies"
 	},
 	"rwe_gy": {
 		"name": "RWE",
 		"ticker": "RWE GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Multi-Utilities"
+		"sector": "Utilities",
+		"industry": "Multi-Utilities"
 	},
 	"rya_id": {
 		"name": "Ryanair",
 		"ticker": "RYA ID",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Transportation",
-		"industryName": "Airlines"
+		"sector": "Industrials",
+		"industry": "Airlines"
 	},
 	"saabb_ss": {
 		"name": "Saab",
 		"ticker": "SAABB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Aerospace & Defense"
+		"sector": "Industrials",
+		"industry": "Aerospace & Defense"
 	},
 	"saf_fp": {
 		"name": "Safran",
 		"ticker": "SAF FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Aerospace & Defense"
+		"sector": "Industrials",
+		"industry": "Aerospace & Defense"
 	},
 	"sge_ln": {
 		"name": "Sage Group",
 		"ticker": "SGE LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "Software"
+		"sector": "Tech",
+		"industry": "Software"
 	},
 	"spm_im": {
 		"name": "Saipem",
 		"ticker": "SPM IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Energy",
-		"industryName": "Equity REITs"
+		"sector": "Energy",
+		"industry": "Equity REITs"
 	},
 	"sampo_fh": {
 		"name": "Sampo",
 		"ticker": "SAMPO FH",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"sand_ss": {
 		"name": "Sandvik",
 		"ticker": "SAND SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"san_fp": {
 		"name": "Sanofi",
 		"ticker": "SAN FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Pharmaceuticals"
+		"sector": "Health Care",
+		"industry": "Pharmaceuticals"
 	},
 	"sap_gy": {
 		"name": "SAP",
 		"ticker": "SAP GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "Software"
+		"sector": "Tech",
+		"industry": "Software"
 	},
 	"srt3_gy": {
 		"name": "Sartorius",
 		"ticker": "SRT3 GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Providers & Services"
+		"sector": "Health Care",
+		"industry": "Health Care Providers & Services"
 	},
 	"sbmo_na": {
 		"name": "SBM Offshore",
 		"ticker": "SBMO NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Energy",
-		"industryName": "Equity REITs"
+		"sector": "Energy",
+		"industry": "Equity REITs"
 	},
 	"sha_gy": {
 		"name": "Schaeffler",
 		"ticker": "SHA GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Autos & Parts",
-		"industryName": "Auto Parts"
+		"sector": "Consumer Discretionary",
+		"industry": "Auto Parts"
 	},
 	"scha_no": {
 		"name": "Schibsted",
 		"ticker": "SCHA NO",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Media",
-		"industryName": "Media"
+		"sector": "Consumer Discretionary",
+		"industry": "Media"
 	},
 	"schp_sw": {
 		"name": "Schindler",
 		"ticker": "SCHP SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"su_fp": {
 		"name": "Schneider Electric",
 		"ticker": "SU FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Electrical Equipment"
+		"sector": "Industrials",
+		"industry": "Electrical Equipment"
 	},
 	"sdr_ln": {
 		"name": "Schroders",
 		"ticker": "SDR LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"scr_fp": {
 		"name": "SCOR",
 		"ticker": "SCR FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"g24_gy": {
 		"name": "Scout24",
 		"ticker": "G24 GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "Internet Software & Services"
+		"sector": "Tech",
+		"industry": "Internet Software & Services"
 	},
 	"sk_fp": {
 		"name": "SEB",
 		"ticker": "SK FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Household Durables"
+		"sector": "Consumer Discretionary",
+		"industry": "Household Durables"
 	},
 	"secub_ss": {
 		"name": "Securitas",
 		"ticker": "SECUB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Commercial Services & Supplies"
+		"sector": "Industrials",
+		"industry": "Commercial Services & Supplies"
 	},
 	"sgro_ln": {
 		"name": "Segro",
 		"ticker": "SGRO LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Food & Staples Retailing"
+		"sector": "Real Estate",
+		"industry": "Food & Staples Retailing"
 	},
 	"sesg_fp": {
 		"name": "SES",
 		"ticker": "SESG FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Media",
-		"industryName": "Media"
+		"sector": "Consumer Discretionary",
+		"industry": "Media"
 	},
 	"svt_ln": {
 		"name": "Severn Trent",
 		"ticker": "SVT LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Water"
+		"sector": "Utilities",
+		"industry": "Water"
 	},
 	"sgsn_sw": {
 		"name": "SGS",
 		"ticker": "SGSN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Professional Services"
+		"sector": "Industrials",
+		"industry": "Professional Services"
 	},
 	"shb_ln": {
 		"name": "Shaftesbury",
 		"ticker": "SHB LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Food & Staples Retailing"
+		"sector": "Real Estate",
+		"industry": "Food & Staples Retailing"
 	},
 	"shp_ln": {
 		"name": "Shire",
 		"ticker": "SHP LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Biotechnology"
+		"sector": "Health Care",
+		"industry": "Biotechnology"
 	},
 	"sie_gy": {
 		"name": "Siemens",
 		"ticker": "SIE GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Industrial Conglomerates"
+		"sector": "Industrials",
+		"industry": "Industrial Conglomerates"
 	},
 	"sgre_sq": {
 		"name": "Siemens Gamesa Renewable Energ",
 		"ticker": "SGRE SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Electrical Equipment"
+		"sector": "Industrials",
+		"industry": "Electrical Equipment"
 	},
 	"sik_sw": {
 		"name": "Sika",
 		"ticker": "SIK SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"waf_gy": {
 		"name": "Siltronic",
 		"ticker": "WAF GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Semiconductors & Equipment",
-		"industryName": "Semiconductors & Equipment"
+		"sector": "Tech",
+		"industry": "Semiconductors & Equipment"
 	},
 	"sim_dc": {
 		"name": "SimCorp",
 		"ticker": "SIM DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "Software"
+		"sector": "Tech",
+		"industry": "Software"
 	},
 	"seba_ss": {
 		"name": "Skandinaviska Enskilda Banken",
 		"ticker": "SEBA SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"skab_ss": {
 		"name": "Skanska",
 		"ticker": "SKAB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Construction & Engineering"
+		"sector": "Industrials",
+		"industry": "Construction & Engineering"
 	},
 	"skfb_ss": {
 		"name": "SKF",
 		"ticker": "SKFB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"sky_ln": {
 		"name": "Sky",
 		"ticker": "SKY LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Media",
-		"industryName": "Media"
+		"sector": "Consumer Discretionary",
+		"industry": "Media"
 	},
 	"sn_ln": {
 		"name": "Smith & Nephew",
 		"ticker": "SN LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Providers & Services"
+		"sector": "Health Care",
+		"industry": "Health Care Providers & Services"
 	},
 	"smin_ln": {
 		"name": "Smiths Group",
 		"ticker": "SMIN LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Industrial Conglomerates"
+		"sector": "Industrials",
+		"industry": "Industrial Conglomerates"
 	},
 	"skg_id": {
 		"name": "Smurfit Kappa Group",
 		"ticker": "SKG ID",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Containers & Packaging"
+		"sector": "Materials",
+		"industry": "Containers & Packaging"
 	},
 	"srg_im": {
 		"name": "Snam",
 		"ticker": "SRG IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Energy",
-		"industryName": "Oil, Gas & Consumable Fuels"
+		"sector": "Energy",
+		"industry": "Oil, Gas & Consumable Fuels"
 	},
 	"bb_fp": {
 		"name": "Societe BIC",
 		"ticker": "BB FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Commercial Services & Supplies"
+		"sector": "Industrials",
+		"industry": "Commercial Services & Supplies"
 	},
 	"gle_fp": {
 		"name": "Societe Generale",
 		"ticker": "GLE FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"sw_fp": {
 		"name": "Sodexo",
 		"ticker": "SW FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Services",
-		"industryName": "Hotels, Restaurants & Leisure"
+		"sector": "Consumer Discretionary",
+		"industry": "Hotels, Restaurants & Leisure"
 	},
 	"sow_gy": {
 		"name": "Software",
 		"ticker": "SOW GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "Software"
+		"sector": "Tech",
+		"industry": "Software"
 	},
 	"solb_bb": {
 		"name": "Solvay",
 		"ticker": "SOLB BB",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"soon_sw": {
 		"name": "Sonova",
 		"ticker": "SOON SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Providers & Services"
+		"sector": "Health Care",
+		"industry": "Health Care Providers & Services"
 	},
 	"sop_fp": {
 		"name": "Sopra Steria Group",
 		"ticker": "SOP FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "IT Services"
+		"sector": "Tech",
+		"industry": "IT Services"
 	},
 	"sxs_ln": {
 		"name": "Spectris",
 		"ticker": "SXS LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Tech Hardware & Equipment",
-		"industryName": "Energy Equipment & Services"
+		"sector": "Tech",
+		"industry": "Energy Equipment & Services"
 	},
 	"spie_fp": {
 		"name": "SPIE",
 		"ticker": "SPIE FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Commercial Services & Supplies"
+		"sector": "Industrials",
+		"industry": "Commercial Services & Supplies"
 	},
 	"spx_ln": {
 		"name": "Spirax-Sarco Engineering",
 		"ticker": "SPX LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"sse_ln": {
 		"name": "SSE",
 		"ticker": "SSE LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Electric"
+		"sector": "Utilities",
+		"industry": "Electric"
 	},
 	"sspg_ln": {
 		"name": "SSP Group",
 		"ticker": "SSPG LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Consumer Services",
-		"industryName": "Hotels, Restaurants & Leisure"
+		"sector": "Consumer Discretionary",
+		"industry": "Hotels, Restaurants & Leisure"
 	},
 	"stj_ln": {
 		"name": "St James's Place",
 		"ticker": "STJ LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"stan_ln": {
 		"name": "Standard Chartered",
 		"ticker": "STAN LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"sla_ln": {
 		"name": "Standard Life Aberdeen",
 		"ticker": "SLA LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Diversified Financial Services"
+		"sector": "Financials",
+		"industry": "Diversified Financial Services"
 	},
 	"stl_no": {
 		"name": "Equinor",
 		"ticker": "STL NO",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Energy",
-		"industryName": "Oil, Gas & Consumable Fuels"
+		"sector": "Energy",
+		"industry": "Oil, Gas & Consumable Fuels"
 	},
 	"stm_im": {
 		"name": "STMicroelectronics",
 		"ticker": "STM IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Semiconductors & Equipment",
-		"industryName": "Semiconductors & Equipment"
+		"sector": "Tech",
+		"industry": "Semiconductors & Equipment"
 	},
 	"sterv_fh": {
 		"name": "Stora Enso",
 		"ticker": "STERV FH",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Paper & Forest Products"
+		"sector": "Materials",
+		"industry": "Paper & Forest Products"
 	},
 	"stb_no": {
 		"name": "Storebrand",
 		"ticker": "STB NO",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"stmn_sw": {
 		"name": "Straumann",
 		"ticker": "STMN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Providers & Services"
+		"sector": "Health Care",
+		"industry": "Health Care Providers & Services"
 	},
 	"subc_no": {
 		"name": "Subsea 7",
 		"ticker": "SUBC NO",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Energy",
-		"industryName": "Equity REITs"
+		"sector": "Energy",
+		"industry": "Equity REITs"
 	},
 	"sev_fp": {
 		"name": "Suez",
 		"ticker": "SEV FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Multi-Utilities"
+		"sector": "Utilities",
+		"industry": "Multi-Utilities"
 	},
 	"srcg_sw": {
 		"name": "Sunrise Communications Group A",
 		"ticker": "SRCG SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Diversified Telcos"
+		"sector": "Telcos",
+		"industry": "Diversified Telcos"
 	},
 	"scab_ss": {
 		"name": "Svenska Cellulosa AB",
 		"ticker": "SCAB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Paper & Forest Products"
+		"sector": "Materials",
+		"industry": "Paper & Forest Products"
 	},
 	"shba_ss": {
 		"name": "Svenska Handelsbanken",
 		"ticker": "SHBA SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"uhr_sw": {
 		"name": "Swatch Group AG",
 		"ticker": "UHR SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Textiles, Apparel & Luxury Goods"
+		"sector": "Consumer Discretionary",
+		"industry": "Textiles, Apparel & Luxury Goods"
 	},
 	"sweda_ss": {
 		"name": "Swedbank",
 		"ticker": "SWEDA SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"swma_ss": {
 		"name": "Swedish Match",
 		"ticker": "SWMA SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Tobacco"
+		"sector": "Consumer Staples",
+		"industry": "Tobacco"
 	},
 	"sobi_ss": {
 		"name": "Swedish Orphan Biovitrum",
 		"ticker": "SOBI SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Biotechnology"
+		"sector": "Health Care",
+		"industry": "Biotechnology"
 	},
 	"slhn_sw": {
 		"name": "Swiss Life",
 		"ticker": "SLHN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"spsn_sw": {
 		"name": "Swiss Prime Site",
 		"ticker": "SPSN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Real Estate Management & Dev"
+		"sector": "Real Estate",
+		"industry": "Real Estate Management & Dev"
 	},
 	"sren_sw": {
 		"name": "Swiss Re",
 		"ticker": "SREN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"scmn_sw": {
 		"name": "Swisscom",
 		"ticker": "SCMN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Diversified Telcos"
+		"sector": "Telcos",
+		"industry": "Diversified Telcos"
 	},
 	"sydb_dc": {
 		"name": "Sydbank",
 		"ticker": "SYDB DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"sy1_gy": {
 		"name": "Symrise",
 		"ticker": "SY1 GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"tate_ln": {
 		"name": "Tate & Lyle",
 		"ticker": "TATE LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Gas"
+		"sector": "Consumer Staples",
+		"industry": "Gas"
 	},
 	"tw_ln": {
 		"name": "Taylor Wimpey",
 		"ticker": "TW LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Consumer Durables & Apparel",
-		"industryName": "Household Durables"
+		"sector": "Consumer Discretionary",
+		"industry": "Household Durables"
 	},
 	"tdc_dc": {
 		"name": "TDC",
 		"ticker": "TDC DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Diversified Telcos"
+		"sector": "Telcos",
+		"industry": "Diversified Telcos"
 	},
 	"fti_fp": {
 		"name": "TechnipFMC",
 		"ticker": "FTI FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Energy",
-		"industryName": "Equity REITs"
+		"sector": "Energy",
+		"industry": "Equity REITs"
 	},
 	"tel2b_ss": {
 		"name": "Tele2",
 		"ticker": "TEL2B SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Wireless Telcos"
+		"sector": "Telcos",
+		"industry": "Wireless Telcos"
 	},
 	"tit_im": {
 		"name": "Telecom ItaliaMilano",
 		"ticker": "TIT IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Diversified Telcos"
+		"sector": "Telcos",
+		"industry": "Diversified Telcos"
 	},
 	"ericb_ss": {
 		"name": "LM Ericsso",
 		"ticker": "ERICB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Tech Hardware & Equipment",
-		"industryName": "Communications Equipment"
+		"sector": "Tech",
+		"industry": "Communications Equipment"
 	},
 	"o2d_gy": {
 		"name": "Telefonica Deutschland",
 		"ticker": "O2D GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Diversified Telcos"
+		"sector": "Telcos",
+		"industry": "Diversified Telcos"
 	},
 	"tef_sq": {
 		"name": "Telefonica",
 		"ticker": "TEF SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Diversified Telcos"
+		"sector": "Telcos",
+		"industry": "Diversified Telcos"
 	},
 	"tnet_bb": {
 		"name": "Telenet Group",
 		"ticker": "TNET BB",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Media",
-		"industryName": "Media"
+		"sector": "Consumer Discretionary",
+		"industry": "Media"
 	},
 	"tel_no": {
 		"name": "Telenor",
 		"ticker": "TEL NO",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Diversified Telcos"
+		"sector": "Telcos",
+		"industry": "Diversified Telcos"
 	},
 	"rcf_fp": {
 		"name": "Teleperformance",
 		"ticker": "RCF FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Professional Services"
+		"sector": "Industrials",
+		"industry": "Professional Services"
 	},
 	"telia_ss": {
 		"name": "Telia Co",
 		"ticker": "TELIA SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Diversified Telcos"
+		"sector": "Telcos",
+		"industry": "Diversified Telcos"
 	},
 	"temn_sw": {
-		"name": "Temenos Group",
+		"name": "Temenos",
 		"ticker": "TEMN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "Software"
+		"sector": "Tech",
+		"industry": "Software"
 	},
 	"ten_im": {
 		"name": "Tenaris",
 		"ticker": "TEN IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Energy",
-		"industryName": "Equity REITs"
+		"sector": "Energy",
+		"industry": "Equity REITs"
 	},
 	"trn_im": {
 		"name": "Terna Rete Elettrica Nazionale",
 		"ticker": "TRN IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Electric"
+		"sector": "Utilities",
+		"industry": "Electric"
 	},
 	"tsco_ln": {
 		"name": "Tesco",
 		"ticker": "TSCO LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Food & Staples",
-		"industryName": "Food Products"
+		"sector": "Consumer Staples",
+		"industry": "Food Products"
 	},
 	"tgs_no": {
 		"name": "TGS NOPEC Geophysical Co",
 		"ticker": "TGS NO",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Energy",
-		"industryName": "Equity REITs"
+		"sector": "Energy",
+		"industry": "Equity REITs"
 	},
 	"ho_fp": {
 		"name": "Thales",
 		"ticker": "HO FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Aerospace & Defense"
+		"sector": "Industrials",
+		"industry": "Aerospace & Defense"
 	},
 	"tka_gy": {
 		"name": "thyssenkrupp",
 		"ticker": "TKA GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Metals & Mining"
+		"sector": "Materials",
+		"industry": "Metals & Mining"
 	},
 	"fp_fp": {
 		"name": "TOTAL",
 		"ticker": "FP FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Energy",
-		"industryName": "Oil, Gas & Consumable Fuels"
+		"sector": "Energy",
+		"industry": "Oil, Gas & Consumable Fuels"
 	},
 	"tcap_ln": {
 		"name": "TP ICAP",
 		"ticker": "TCAP LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"tpk_ln": {
 		"name": "Travis Perkins",
 		"ticker": "TPK LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Trading Companies & Distributors"
+		"sector": "Industrials",
+		"industry": "Trading Companies & Distributors"
 	},
 	"trelb_ss": {
 		"name": "Trelleborg",
 		"ticker": "TRELB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"tryg_dc": {
 		"name": "Tryg",
 		"ticker": "TRYG DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	},
 	"tui_ln": {
 		"name": "TUI",
 		"ticker": "TUI LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Consumer Services",
-		"industryName": "Hotels, Restaurants & Leisure"
+		"sector": "Consumer Discretionary",
+		"industry": "Hotels, Restaurants & Leisure"
 	},
 	"tlw_ln": {
 		"name": "Tullow Oil",
 		"ticker": "TLW LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Energy",
-		"industryName": "Oil, Gas & Consumable Fuels"
+		"sector": "Energy",
+		"industry": "Oil, Gas & Consumable Fuels"
 	},
 	"ubi_fp": {
 		"name": "Ubisoft Entertainment",
 		"ticker": "UBI FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "Software"
+		"sector": "Tech",
+		"industry": "Software"
 	},
 	"ubm_ln": {
 		"name": "UBM",
 		"ticker": "UBM LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Media",
-		"industryName": "Media"
+		"sector": "Consumer Discretionary",
+		"industry": "Media"
 	},
 	"ubsg_sw": {
 		"name": "UBS Group",
 		"ticker": "UBSG SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Capital Markets"
+		"sector": "Financials",
+		"industry": "Capital Markets"
 	},
 	"ucb_bb": {
 		"name": "UCB",
 		"ticker": "UCB BB",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Pharmaceuticals"
+		"sector": "Health Care",
+		"industry": "Pharmaceuticals"
 	},
 	"udg_ln": {
 		"name": "UDG Healthcare",
 		"ticker": "UDG LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Technology"
+		"sector": "Health Care",
+		"industry": "Health Care Technology"
 	},
 	"umi_bb": {
 		"name": "Umicore",
 		"ticker": "UMI BB",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"ul_na": {
 		"name": "Unibail-Rodamco",
 		"ticker": "UL NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Food & Staples Retailing"
+		"sector": "Real Estate",
+		"industry": "Food & Staples Retailing"
 	},
 	"ucg_im": {
 		"name": "UniCredit",
 		"ticker": "UCG IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"una_na": {
 		"name": "Unilever",
 		"ticker": "UNA NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Household & Personal Products",
-		"industryName": "Personal Products"
+		"sector": "Consumer Staples",
+		"industry": "Personal Products"
 	},
 	"ulvr_ln": {
 		"name": "Unilever",
 		"ticker": "ULVR LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Household & Personal Products",
-		"industryName": "Personal Products"
+		"sector": "Consumer Staples",
+		"industry": "Personal Products"
 	},
 	"ubi_im": {
 		"name": "Unione di Banche Italiane",
 		"ticker": "UBI IM",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Banks",
-		"industryName": "Banks"
+		"sector": "Financials",
+		"industry": "Banks"
 	},
 	"un01_gy": {
 		"name": "Uniper",
 		"ticker": "UN01 GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Independent Power and Renewables"
+		"sector": "Utilities",
+		"industry": "Independent Power and Renewables"
 	},
 	"utdi_gy": {
 		"name": "United Internet",
 		"ticker": "UTDI GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "Internet Software & Services"
+		"sector": "Tech",
+		"industry": "Internet Software & Services"
 	},
 	"uu_ln": {
 		"name": "United Utilities Group",
 		"ticker": "UU LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Water"
+		"sector": "Utilities",
+		"industry": "Water"
 	},
 	"upm_fh": {
 		"name": "UPM-Kymmene",
 		"ticker": "UPM FH",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Paper & Forest Products"
+		"sector": "Materials",
+		"industry": "Paper & Forest Products"
 	},
 	"fr_fp": {
 		"name": "Valeo",
 		"ticker": "FR FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Autos & Parts",
-		"industryName": "Auto Parts"
+		"sector": "Consumer Discretionary",
+		"industry": "Auto Parts"
 	},
 	"vacn_sw": {
 		"name": "VAT Group",
 		"ticker": "VACN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"vie_fp": {
 		"name": "Veolia Environnement",
 		"ticker": "VIE FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Utilities",
-		"industryName": "Multi-Utilities"
+		"sector": "Utilities",
+		"industry": "Multi-Utilities"
 	},
 	"vws_dc": {
 		"name": "Vestas Wind Systems",
 		"ticker": "VWS DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Electrical Equipment"
+		"sector": "Industrials",
+		"industry": "Electrical Equipment"
 	},
 	"vct_ln": {
 		"name": "Victrex",
 		"ticker": "VCT LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"vifn_sw": {
 		"name": "Vifor Pharma",
 		"ticker": "VIFN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Pharma, Biotech & Life Sc",
-		"industryName": "Pharmaceuticals"
+		"sector": "Health Care",
+		"industry": "Pharmaceuticals"
 	},
 	"dg_fp": {
 		"name": "Vinci",
 		"ticker": "DG FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Construction & Engineering"
+		"sector": "Industrials",
+		"industry": "Construction & Engineering"
 	},
 	"vis_sq": {
 		"name": "Viscofan",
 		"ticker": "VIS SQ",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Food, Bevs & Tobacco",
-		"industryName": "Gas"
+		"sector": "Consumer Staples",
+		"industry": "Gas"
 	},
 	"viv_fp": {
 		"name": "Vivendi",
 		"ticker": "VIV FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Media",
-		"industryName": "Media"
+		"sector": "Consumer Discretionary",
+		"industry": "Media"
 	},
 	"vod_ln": {
 		"name": "Vodafone Group",
 		"ticker": "VOD LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Telco Services",
-		"industryName": "Wireless Telcos"
+		"sector": "Telcos",
+		"industry": "Wireless Telcos"
 	},
 	"voe_av": {
 		"name": "voestalpine",
 		"ticker": "VOE AV",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Metals & Mining"
+		"sector": "Materials",
+		"industry": "Metals & Mining"
 	},
 	"vow3_gy": {
 		"name": "Volkswagen",
 		"ticker": "VOW3 GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Autos & Parts",
-		"industryName": "Autos"
+		"sector": "Consumer Discretionary",
+		"industry": "Autos"
 	},
 	"volvb_ss": {
 		"name": "Volvo",
 		"ticker": "VOLVB SS",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"vna_gy": {
 		"name": "Vonovia",
 		"ticker": "VNA GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Real Estate",
-		"industryName": "Real Estate Management & Dev"
+		"sector": "Real Estate",
+		"industry": "Real Estate Management & Dev"
 	},
 	"wch_gy": {
 		"name": "Wacker Chemie",
 		"ticker": "WCH GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"wrt1v_fh": {
 		"name": "Wartsila Abp",
 		"ticker": "WRT1V FH",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"weir_ln": {
 		"name": "Weir Group",
 		"ticker": "WEIR LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Capital Goods",
-		"industryName": "Machinery"
+		"sector": "Industrials",
+		"industry": "Machinery"
 	},
 	"mf_fp": {
 		"name": "Wendel",
 		"ticker": "MF FP",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Diversified Financials",
-		"industryName": "Diversified Financial Services"
+		"sector": "Financials",
+		"industry": "Diversified Financial Services"
 	},
 	"smwh_ln": {
 		"name": "WH Smith",
 		"ticker": "SMWH LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Retailing",
-		"industryName": "Specialty Retail"
+		"sector": "Consumer Discretionary",
+		"industry": "Specialty Retail"
 	},
 	"wtb_ln": {
 		"name": "Whitbread",
 		"ticker": "WTB LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Consumer Services",
-		"industryName": "Hotels, Restaurants & Leisure"
+		"sector": "Consumer Discretionary",
+		"industry": "Hotels, Restaurants & Leisure"
 	},
 	"wie_av": {
 		"name": "Wienerberger",
 		"ticker": "WIE AV",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Construction Materials"
+		"sector": "Materials",
+		"industry": "Construction Materials"
 	},
 	"wdh_dc": {
 		"name": "William Demant",
 		"ticker": "WDH DC",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Health Care",
-		"industryName": "Health Care Providers & Services"
+		"sector": "Health Care",
+		"industry": "Health Care Providers & Services"
 	},
 	"wmh_ln": {
 		"name": "William Hill",
 		"ticker": "WMH LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Consumer Services",
-		"industryName": "Hotels, Restaurants & Leisure"
+		"sector": "Consumer Discretionary",
+		"industry": "Hotels, Restaurants & Leisure"
 	},
 	"wdi_gy": {
 		"name": "Wirecard",
 		"ticker": "WDI GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Software & Services",
-		"industryName": "IT Services"
+		"sector": "Tech",
+		"industry": "IT Services"
 	},
 	"mrw_ln": {
 		"name": "Wm Morrison",
 		"ticker": "MRW LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Food & Staples",
-		"industryName": "Food Products"
+		"sector": "Consumer Staples",
+		"industry": "Food Products"
 	},
 	"wkl_na": {
 		"name": "Wolters Kluwer",
 		"ticker": "WKL NA",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Commercial Services",
-		"industryName": "Professional Services"
+		"sector": "Industrials",
+		"industry": "Professional Services"
 	},
 	"wpp_ln": {
 		"name": "WPP",
 		"ticker": "WPP LN",
 		"regions": ["Europe", "UK"],
-		"industryGroup": "Media",
-		"industryName": "Media"
+		"sector": "Consumer Discretionary",
+		"industry": "Media"
 	},
 	"yar_no": {
 		"name": "Yara International",
 		"ticker": "YAR NO",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Materials",
-		"industryName": "Chemicals"
+		"sector": "Materials",
+		"industry": "Chemicals"
 	},
 	"zal_gy": {
 		"name": "Zalando",
 		"ticker": "ZAL GY",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Retailing",
-		"industryName": "Internet & Direct Marketing Retail"
+		"sector": "Consumer Discretionary",
+		"industry": "Internet & Direct Marketing Retail"
 	},
 	"zurn_sw": {
 		"name": "Zurich Insurance Group",
 		"ticker": "ZURN SW",
 		"regions": ["Europe", "Europe ex-UK"],
-		"industryGroup": "Insurance",
-		"industryName": "Insurance"
+		"sector": "Financials",
+		"industry": "Insurance"
 	}
 }
